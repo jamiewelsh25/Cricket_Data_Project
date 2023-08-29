@@ -1,0 +1,2552 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-02-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Al Amarat",
+    "dates": [
+      "2020-02-25"
+    ],
+    "event": {
+      "name": "ACC Western Region T20",
+      "match_number": 12
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1061,
+    "officials": {
+      "reserve_umpires": [
+        "Mohammed Younis"
+      ],
+      "umpires": [
+        "Riyaz Kurupkar",
+        "Rahat Ali"
+      ]
+    },
+    "outcome": {
+      "winner": "Kuwait",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MNM Aslam"
+    ],
+    "players": {
+      "Iran": [
+        "Masood Jayezeh",
+        "DK Dahani",
+        "Yousef Shadzehisarjou",
+        "Ali Mohammadipour",
+        "Arshad Mazarzei",
+        "Naiem Bameri",
+        "Mehran Siasar",
+        "Nader Zahadiafzal",
+        "Navid Balouch",
+        "Emran Shahbakhsh",
+        "Navid Abdollahpour"
+      ],
+      "Kuwait": [
+        "R Sandaruwan",
+        "Usman Patel",
+        "Muhammad Kashif",
+        "Bilal Tahir",
+        "Shiraz Khan",
+        "UKPW Kumaranayaka",
+        "Mohammad Amin",
+        "MNM Aslam",
+        "Sayed Monib",
+        "Aphsal Ashraf",
+        "Ilyas Ahmed"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ali Mohammadipour": "b86dd1b0",
+        "Aphsal Ashraf": "772f226b",
+        "Arshad Mazarzei": "8e367d57",
+        "Bilal Tahir": "3cf06094",
+        "DK Dahani": "957819df",
+        "Emran Shahbakhsh": "49dcf691",
+        "Ilyas Ahmed": "42a01b52",
+        "MNM Aslam": "20481563",
+        "Masood Jayezeh": "fd67025d",
+        "Mehran Siasar": "fbd96cb6",
+        "Mohammad Amin": "01b45044",
+        "Mohammed Younis": "46ff5194",
+        "Muhammad Kashif": "e7458e4b",
+        "Nader Zahadiafzal": "febfa931",
+        "Naiem Bameri": "43420e97",
+        "Navid Abdollahpour": "452e7e96",
+        "Navid Balouch": "60afbd75",
+        "R Sandaruwan": "cf6acc0d",
+        "Rahat Ali": "458161f4",
+        "Riyaz Kurupkar": "3ebebb18",
+        "Sayed Monib": "b9cfb0b1",
+        "Shiraz Khan": "f310704c",
+        "UKPW Kumaranayaka": "0d24b1f7",
+        "Usman Patel": "415c6ccf",
+        "Yousef Shadzehisarjou": "30ac4e69"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "Iran",
+      "Kuwait"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kuwait"
+    },
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)"
+  },
+  "innings": [
+    {
+      "team": "Iran",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Masood Jayezeh",
+              "bowler": "Ilyas Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DK Dahani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Masood Jayezeh",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "DK Dahani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Masood Jayezeh",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "DK Dahani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DK Dahani",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Masood Jayezeh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DK Dahani",
+              "bowler": "Ilyas Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Masood Jayezeh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DK Dahani",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Masood Jayezeh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DK Dahani",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Masood Jayezeh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DK Dahani"
+                }
+              ]
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Masood Jayezeh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Masood Jayezeh",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Masood Jayezeh",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Masood Jayezeh",
+                  "fielders": [
+                    {
+                      "name": "Usman Patel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Sayed Monib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Sayed Monib",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Ali Mohammadipour",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ali Mohammadipour",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Ali Mohammadipour"
+                }
+              ]
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Arshad Mazarzei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Arshad Mazarzei",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Arshad Mazarzei",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Mazarzei",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Arshad Mazarzei"
+                }
+              ]
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "MNM Aslam",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "MNM Aslam",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "Shiraz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "Shiraz Khan",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "MNM Aslam",
+              "non_striker": "Naiem Bameri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naiem Bameri",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Naiem Bameri",
+                  "fielders": [
+                    {
+                      "name": "Usman Patel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mehran Siasar",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehran Siasar",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehran Siasar",
+              "bowler": "MNM Aslam",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Mehran Siasar",
+                  "fielders": [
+                    {
+                      "name": "Usman Patel"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Nader Zahadiafzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Nader Zahadiafzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nader Zahadiafzal",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nader Zahadiafzal",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nader Zahadiafzal",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Nader Zahadiafzal"
+                }
+              ]
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Shiraz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "UKPW Kumaranayaka",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Shiraz Khan",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Sayed Monib",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Sayed Monib",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Sayed Monib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Sayed Monib",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Mohammad Amin",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Mohammad Amin",
+              "non_striker": "Yousef Shadzehisarjou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Mohammad Amin",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Mohammad Amin",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Mohammad Amin",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Mohammad Amin",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Yousef Shadzehisarjou",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Yousef Shadzehisarjou"
+                }
+              ]
+            },
+            {
+              "batter": "Emran Shahbakhsh",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Emran Shahbakhsh",
+              "bowler": "Ilyas Ahmed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Navid Balouch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Emran Shahbakhsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Emran Shahbakhsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Navid Balouch",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "Emran Shahbakhsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kuwait",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "R Sandaruwan",
+                  "fielders": [
+                    {
+                      "name": "Arshad Mazarzei"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Muhammad Kashif",
+                  "fielders": [
+                    {
+                      "name": "DK Dahani"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Naiem Bameri",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Navid Abdollahpour",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Abdollahpour",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Navid Balouch",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Masood Jayezeh",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Masood Jayezeh",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Masood Jayezeh",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Masood Jayezeh",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Masood Jayezeh",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Masood Jayezeh",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Nader Zahadiafzal",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Navid Balouch",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Navid Balouch",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Usman Patel",
+              "bowler": "Emran Shahbakhsh",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Emran Shahbakhsh",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Emran Shahbakhsh",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Patel",
+              "bowler": "Emran Shahbakhsh",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Emran Shahbakhsh",
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "Emran Shahbakhsh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Usman Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 109
+      }
+    }
+  ]
+}

@@ -1,0 +1,1075 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-10-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hobart",
+    "dates": [
+      "2022-10-24"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup",
+      "match_number": 18,
+      "group": "2"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1844,
+    "officials": {
+      "match_referees": [
+        "DC Boon"
+      ],
+      "reserve_umpires": [
+        "Nitin Menon"
+      ],
+      "tv_umpires": [
+        "CB Gaffaney"
+      ],
+      "umpires": [
+        "Ahsan Raza",
+        "MA Gough"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Zimbabwe": [
+        "RW Chakabva",
+        "CR Ervine",
+        "SC Williams",
+        "Sikandar Raza",
+        "W Madhevere",
+        "M Shumba",
+        "RP Burl",
+        "LM Jongwe",
+        "R Ngarava",
+        "TL Chatara",
+        "B Muzarabani"
+      ],
+      "South Africa": [
+        "Q de Kock",
+        "T Bavuma",
+        "RR Rossouw",
+        "AK Markram",
+        "DA Miller",
+        "T Stubbs",
+        "WD Parnell",
+        "KA Maharaj",
+        "K Rabada",
+        "A Nortje",
+        "L Ngidi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nortje": "acdc62f5",
+        "AK Markram": "6a26221c",
+        "Ahsan Raza": "e0e5b209",
+        "B Muzarabani": "449f4e3c",
+        "CB Gaffaney": "d5ac41d8",
+        "CR Ervine": "c96311d4",
+        "DA Miller": "d67d5f00",
+        "DC Boon": "e79a1fe3",
+        "K Rabada": "e62dd25d",
+        "KA Maharaj": "0b60eb09",
+        "L Ngidi": "f834dcfc",
+        "LM Jongwe": "b8704508",
+        "M Shumba": "6766ca00",
+        "MA Gough": "76752ac8",
+        "Nitin Menon": "e1d41d9e",
+        "Q de Kock": "372455c4",
+        "R Ngarava": "6e3f5a5c",
+        "RP Burl": "b08252b8",
+        "RR Rossouw": "cad00a4d",
+        "RW Chakabva": "2f0d7e4a",
+        "SC Williams": "afe57f7a",
+        "Sikandar Raza": "26d041c4",
+        "T Bavuma": "9ffd1ac1",
+        "T Stubbs": "85b3fab2",
+        "TL Chatara": "5bbabe59",
+        "W Madhevere": "a879b92c",
+        "WD Parnell": "3a60e0b5"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Zimbabwe",
+      "South Africa"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Zimbabwe"
+    },
+    "venue": "Bellerive Oval, Hobart"
+  },
+  "innings": [
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RW Chakabva",
+              "bowler": "K Rabada",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "K Rabada",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "K Rabada",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "K Rabada",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "K Rabada",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "K Rabada",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "CR Ervine",
+              "bowler": "WD Parnell",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "WD Parnell",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "WD Parnell",
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "WD Parnell",
+              "non_striker": "CR Ervine",
+              "review": {
+                "by": "Zimbabwe",
+                "umpire": "Ahsan Raza",
+                "batter": "RW Chakabva",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "WD Parnell",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CR Ervine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Ervine",
+              "bowler": "WD Parnell",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CR Ervine",
+                  "fielders": [
+                    {
+                      "name": "L Ngidi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RW Chakabva",
+              "bowler": "L Ngidi",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "L Ngidi",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RW Chakabva",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "L Ngidi",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "L Ngidi",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sikandar Raza",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "L Ngidi",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "L Ngidi",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SC Williams",
+              "bowler": "WD Parnell",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "WD Parnell",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "WD Parnell",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "WD Parnell",
+              "non_striker": "SC Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SC Williams",
+                  "fielders": [
+                    {
+                      "name": "DA Miller"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "WD Parnell",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "WD Parnell",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "L Ngidi",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "L Ngidi",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "L Ngidi",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "L Ngidi",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "L Ngidi",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "L Ngidi",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Shumba",
+              "bowler": "KA Maharaj",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "KA Maharaj",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "KA Maharaj",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "KA Maharaj",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "KA Maharaj",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "KA Maharaj",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "A Nortje",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "A Nortje",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "A Nortje",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M Shumba",
+              "bowler": "K Rabada",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "K Rabada",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "K Rabada",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "K Rabada",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "K Rabada",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "K Rabada",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "W Madhevere",
+              "review": {
+                "by": "South Africa",
+                "umpire": "MA Gough",
+                "batter": "M Shumba",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "extras": {
+                "penalty": 5
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 5,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "A Nortje",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "A Nortje",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "A Nortje",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Shumba",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "TL Chatara",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "TL Chatara",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "TL Chatara",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "TL Chatara",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "TL Chatara",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "TL Chatara",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "R Ngarava",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "R Ngarava",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "R Ngarava",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "R Ngarava",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "R Ngarava",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "R Ngarava",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "R Ngarava",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Bavuma",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Sikandar Raza",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Sikandar Raza",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Sikandar Raza",
+              "non_striker": "T Bavuma",
+              "review": {
+                "by": "Zimbabwe",
+                "umpire": "MA Gough",
+                "batter": "Q de Kock",
+                "decision": "struck down",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Sikandar Raza",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Sikandar Raza",
+              "non_striker": "T Bavuma",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 7,
+        "runs": 64
+      }
+    }
+  ]
+}

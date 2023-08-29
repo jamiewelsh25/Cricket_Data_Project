@@ -1,0 +1,2391 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-01-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Basseterre",
+    "dates": [
+      "2019-03-08"
+    ],
+    "event": {
+      "name": "England tour of West Indies",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 751,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "Jonathan Blades"
+      ],
+      "tv_umpires": [
+        "N Duguid"
+      ],
+      "umpires": [
+        "LS Reifer",
+        "GO Brathwaite"
+      ]
+    },
+    "outcome": {
+      "winner": "England",
+      "by": {
+        "runs": 137
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "SW Billings"
+    ],
+    "players": {
+      "England": [
+        "AD Hales",
+        "JM Bairstow",
+        "JE Root",
+        "EJG Morgan",
+        "JL Denly",
+        "SW Billings",
+        "DJ Willey",
+        "TK Curran",
+        "LE Plunkett",
+        "CJ Jordan",
+        "AU Rashid"
+      ],
+      "West Indies": [
+        "CH Gayle",
+        "SD Hope",
+        "SO Hetmyer",
+        "DM Bravo",
+        "JO Holder",
+        "N Pooran",
+        "FA Allen",
+        "CR Brathwaite",
+        "D Bishoo",
+        "SS Cottrell",
+        "OC McCoy"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Hales": "92aeac25",
+        "AJ Pycroft": "685d3f80",
+        "AU Rashid": "249d60c9",
+        "CH Gayle": "db584dad",
+        "CJ Jordan": "ffe699c0",
+        "CR Brathwaite": "e342e5fb",
+        "D Bishoo": "7a80ddf2",
+        "DJ Willey": "7f048519",
+        "DM Bravo": "14b14cd8",
+        "EJG Morgan": "d2a6c0e6",
+        "FA Allen": "b52ffbbd",
+        "GO Brathwaite": "1ace56d4",
+        "JE Root": "a343262c",
+        "JL Denly": "bdadf7da",
+        "JM Bairstow": "abb83e27",
+        "JO Holder": "0f721006",
+        "Jonathan Blades": "ef9a3298",
+        "LE Plunkett": "9a963804",
+        "LS Reifer": "5dee559a",
+        "N Duguid": "64495506",
+        "N Pooran": "3241e3fd",
+        "OC McCoy": "529eb9e0",
+        "SD Hope": "1fc6ef83",
+        "SO Hetmyer": "48a1d7b7",
+        "SS Cottrell": "a1d053dd",
+        "SW Billings": "c16d4035",
+        "TK Curran": "e86754b2"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "England"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Warner Park, St Kitts"
+  },
+  "innings": [
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "SS Cottrell",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "SS Cottrell",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "SS Cottrell",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JM Bairstow",
+                  "fielders": [
+                    {
+                      "name": "D Bishoo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "SS Cottrell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AD Hales",
+                  "fielders": [
+                    {
+                      "name": "CR Brathwaite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "EJG Morgan",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "EJG Morgan",
+                  "fielders": [
+                    {
+                      "name": "SD Hope"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JL Denly",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "JL Denly"
+                }
+              ]
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "D Bishoo",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "D Bishoo",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "D Bishoo",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "D Bishoo",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "D Bishoo",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "D Bishoo",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "FA Allen",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "FA Allen",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "D Bishoo",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "D Bishoo",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "D Bishoo",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "D Bishoo",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "D Bishoo",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "D Bishoo",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OC McCoy",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "JE Root"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "SS Cottrell",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DJ Willey",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JO Holder",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "JO Holder",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "OC McCoy",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SW Billings",
+                  "fielders": [
+                    {
+                      "name": "SD Hope"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "DJ Willey",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "DJ Willey",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "DJ Willey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "DJ Willey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "DJ Willey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "DJ Willey",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SD Hope",
+              "bowler": "TK Curran",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "TK Curran",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "TK Curran",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "TK Curran",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "TK Curran",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "TK Curran",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SD Hope",
+              "bowler": "DJ Willey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "DJ Willey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "DJ Willey",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "JE Root"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "DJ Willey",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "DJ Willey",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SD Hope",
+                  "fielders": [
+                    {
+                      "name": "EJG Morgan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "DJ Willey",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "CJ Jordan",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DM Bravo",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "JO Holder"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "DJ Willey",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "DJ Willey",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "DJ Willey",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "DJ Willey",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "DJ Willey",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "DJ Willey",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "N Pooran",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "CJ Jordan",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "FA Allen",
+                  "fielders": [
+                    {
+                      "name": "JE Root"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "CJ Jordan",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "AU Rashid",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "AU Rashid",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "AU Rashid",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "AU Rashid",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "AU Rashid",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CR Brathwaite",
+                  "fielders": [
+                    {
+                      "name": "DJ Willey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "AU Rashid",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "LE Plunkett",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "LE Plunkett",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SO Hetmyer",
+                  "fielders": [
+                    {
+                      "name": "DJ Willey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SS Cottrell",
+              "bowler": "AU Rashid",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Cottrell",
+              "bowler": "AU Rashid",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "AU Rashid",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "AU Rashid",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "AU Rashid",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "AU Rashid",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Cottrell",
+              "bowler": "LE Plunkett",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SS Cottrell",
+              "bowler": "AU Rashid",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SS Cottrell"
+                }
+              ]
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "AU Rashid",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "AU Rashid",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "AU Rashid",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "AU Rashid",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "AU Rashid",
+              "non_striker": "D Bishoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Bishoo",
+              "bowler": "LE Plunkett",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "D Bishoo",
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 183
+      }
+    }
+  ]
+}

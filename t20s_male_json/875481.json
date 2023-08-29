@@ -1,0 +1,2714 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2015-07-15",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Edinburgh",
+    "dates": [
+      "2015-07-12"
+    ],
+    "event": {
+      "group": "B",
+      "match_number": 13,
+      "name": "ICC World Twenty20 Qualifier"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 434,
+    "officials": {
+      "match_referees": [
+        "DT Jukes"
+      ],
+      "reserve_umpires": [
+        "GO Brathwaite"
+      ],
+      "tv_umpires": [
+        "Ahsan Raza"
+      ],
+      "umpires": [
+        "VA Kulkarni",
+        "NJ Llong"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 7
+      },
+      "winner": "Netherlands"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RE van der Merwe"
+    ],
+    "players": {
+      "Netherlands": [
+        "W Barresi",
+        "SJ Myburgh",
+        "BN Cooper",
+        "MR Swart",
+        "PW Borren",
+        "RE van der Merwe",
+        "MJG Rippon",
+        "Mudassar Bukhari",
+        "T van der Gugten",
+        "PA van Meekeren",
+        "Ahsan Malik"
+      ],
+      "United Arab Emirates": [
+        "Faizan Asif",
+        "Mohammad Shahzad",
+        "Shaiman Anwar",
+        "SP Patil",
+        "Abdul Shakoor",
+        "Fayyaz Ahmed",
+        "Umair Ali",
+        "Mohammad Naveed",
+        "Mohammad Tauqir",
+        "Nasir Aziz",
+        "AM Guruge"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Guruge": "26534b48",
+        "Abdul Shakoor": "7b9b9aef",
+        "Ahsan Malik": "96503059",
+        "Ahsan Raza": "e0e5b209",
+        "BN Cooper": "634a7b21",
+        "DT Jukes": "7c215d14",
+        "Faizan Asif": "8b89eb80",
+        "Fayyaz Ahmed": "5a6bb1c7",
+        "GO Brathwaite": "1ace56d4",
+        "MJG Rippon": "b03db6fa",
+        "MR Swart": "a75a78eb",
+        "Mohammad Naveed": "4861d29b",
+        "Mohammad Shahzad": "4c7df2c8",
+        "Mohammad Tauqir": "eb7af112",
+        "Mudassar Bukhari": "37312a74",
+        "NJ Llong": "573fb985",
+        "Nasir Aziz": "e70a0811",
+        "PA van Meekeren": "4557dc54",
+        "PW Borren": "91052c96",
+        "RE van der Merwe": "05c2ca46",
+        "SJ Myburgh": "18261c22",
+        "SP Patil": "f5c198fb",
+        "Shaiman Anwar": "e9630504",
+        "T van der Gugten": "d99cc23a",
+        "Umair Ali": "a98a6b86",
+        "VA Kulkarni": "8fe0c4f8",
+        "W Barresi": "0d677597"
+      }
+    },
+    "season": 2015,
+    "team_type": "international",
+    "teams": [
+      "Netherlands",
+      "United Arab Emirates"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Netherlands"
+    },
+    "venue": "Grange Cricket Club Ground, Raeburn Place"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Faizan Asif",
+              "bowler": "T van der Gugten",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "T van der Gugten",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "T van der Gugten",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "T van der Gugten",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "T van der Gugten",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "T van der Gugten",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Mohammad Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "T van der Gugten",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "T van der Gugten",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Mohammad Shahzad"
+                }
+              ]
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Faizan Asif",
+                  "fielders": [
+                    {
+                      "name": "T van der Gugten"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Ahsan Malik",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Ahsan Malik",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Ahsan Malik",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "RE van der Merwe",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "RE van der Merwe",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "RE van der Merwe",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "RE van der Merwe",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PA van Meekeren",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PA van Meekeren",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PA van Meekeren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "RE van der Merwe",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "RE van der Merwe",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "RE van der Merwe",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "MJG Rippon",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "MJG Rippon",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "PW Borren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PW Borren",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PW Borren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PW Borren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PW Borren",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PW Borren",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "MJG Rippon",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shaiman Anwar",
+                  "fielders": [
+                    {
+                      "name": "Ahsan Malik"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "PW Borren",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "PW Borren",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "PW Borren",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PW Borren",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PW Borren",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "PW Borren",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MJG Rippon",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SP Patil"
+                }
+              ]
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "MJG Rippon",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "MJG Rippon",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "MJG Rippon",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "MJG Rippon",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Fayyaz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fayyaz Ahmed",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Abdul Shakoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Fayyaz Ahmed",
+                  "fielders": [
+                    {
+                      "name": "MR Swart"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Abdul Shakoor",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Abdul Shakoor"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Umair Ali",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Mohammad Naveed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umair Ali",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Mohammad Naveed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umair Ali",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Mohammad Naveed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umair Ali",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Mohammad Naveed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "T van der Gugten",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "T van der Gugten",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umair Ali",
+              "bowler": "T van der Gugten",
+              "non_striker": "Mohammad Naveed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "T van der Gugten",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "T van der Gugten",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "T van der Gugten",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umair Ali",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Mohammad Naveed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naveed",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mohammad Naveed",
+                  "fielders": [
+                    {
+                      "name": "PW Borren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Tauqir",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umair Ali",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mohammad Tauqir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Tauqir",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Umair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Nasir Aziz",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "AM Guruge",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Nasir Aziz",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Nasir Aziz",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Nasir Aziz",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SJ Myburgh",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Tauqir"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AM Guruge",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AM Guruge",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Nasir Aziz",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Nasir Aziz",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Nasir Aziz",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Nasir Aziz",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "W Barresi",
+                  "fielders": [
+                    {
+                      "name": "Fayyaz Ahmed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BN Cooper",
+              "bowler": "Umair Ali",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Umair Ali",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Umair Ali",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Umair Ali",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Umair Ali",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Umair Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Umair Ali",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Umair Ali",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Umair Ali",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Umair Ali",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Umair Ali",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Umair Ali",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Mohammad Tauqir",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MR Swart"
+                }
+              ]
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "Nasir Aziz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Nasir Aziz",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Nasir Aziz",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Nasir Aziz",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Nasir Aziz",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Nasir Aziz",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Fayyaz Ahmed",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "Mohammad Shahzad",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 120
+      }
+    }
+  ]
+}

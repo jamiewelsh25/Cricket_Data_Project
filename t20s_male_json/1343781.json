@@ -1,0 +1,941 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-12-05",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-12-05"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 14
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1936,
+    "officials": {
+      "match_referees": [
+        "SA Fritz"
+      ],
+      "umpires": [
+        "C Phiri",
+        "Lauren Agenbag"
+      ]
+    },
+    "outcome": {
+      "winner": "Sierra Leone",
+      "by": {
+        "runs": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "L Lamin"
+    ],
+    "players": {
+      "Sierra Leone": [
+        "A Gbla",
+        "A Turay",
+        "G Ngegba",
+        "L Lamin",
+        "Zahid Khan",
+        "G Sesay",
+        "M Kpaka",
+        "Mohamed Khan",
+        "R Coker",
+        "S Conteh",
+        "J Bangura"
+      ],
+      "Eswatini": [
+        "Adil Butt",
+        "T Sandeep",
+        "Umair Qasim",
+        "Naeem Gull",
+        "H Rashid",
+        "M Jele",
+        "M Magagula",
+        "Eric Phiri",
+        "C Forbes",
+        "D Polpitiya",
+        "W Dlamini"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gbla": "34ab1e6e",
+        "A Turay": "11a22126",
+        "Adil Butt": "fde53ec1",
+        "C Forbes": "8a9e3cd0",
+        "C Phiri": "ade73404",
+        "D Polpitiya": "b7062209",
+        "Eric Phiri": "b6355062",
+        "G Ngegba": "69caf2be",
+        "G Sesay": "c556b9d2",
+        "H Rashid": "725c73f2",
+        "J Bangura": "d7acab5d",
+        "L Lamin": "5a970aab",
+        "Lauren Agenbag": "40849abd",
+        "M Jele": "1a8cedc8",
+        "M Kpaka": "c381cec5",
+        "M Magagula": "7a787b98",
+        "Mohamed Khan": "13501ff4",
+        "Naeem Gull": "4c49c917",
+        "R Coker": "3239c8a9",
+        "S Conteh": "8f70fff7",
+        "SA Fritz": "d15e60c8",
+        "T Sandeep": "b794a78d",
+        "Umair Qasim": "e086735b",
+        "W Dlamini": "d2ac882a",
+        "Zahid Khan": "bf896894"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Sierra Leone",
+      "Eswatini"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Eswatini"
+    },
+    "venue": "Integrated Polytechnic Regional Centre"
+  },
+  "innings": [
+    {
+      "team": "Sierra Leone",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Gbla",
+              "bowler": "Adil Butt",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Adil Butt",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Adil Butt",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Adil Butt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Adil Butt",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "Adil Butt",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Turay",
+              "bowler": "Adil Butt",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "A Gbla",
+                  "fielders": [
+                    {
+                      "name": "Adil Butt"
+                    },
+                    {
+                      "name": "M Magagula"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "non_striker": "A Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Turay",
+              "bowler": "Adil Butt",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Turay",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "Adil Butt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "Adil Butt",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "Adil Butt",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "Adil Butt",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "Adil Butt",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Ngegba",
+              "bowler": "Adil Butt",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Ngegba",
+              "bowler": "M Magagula",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ngegba",
+                  "fielders": [
+                    {
+                      "name": "T Sandeep"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zahid Khan",
+              "bowler": "M Magagula",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "M Magagula",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Khan",
+              "bowler": "M Magagula",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "M Magagula",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "M Magagula",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "M Magagula",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "M Magagula",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Lamin",
+              "bowler": "H Rashid",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Khan",
+              "bowler": "H Rashid",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zahid Khan",
+              "bowler": "H Rashid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Khan",
+              "bowler": "H Rashid",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahid Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Sesay",
+              "bowler": "H Rashid",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Sesay",
+              "bowler": "H Rashid",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "H Rashid",
+              "non_striker": "G Sesay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Eswatini",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Adil Butt",
+              "bowler": "R Coker",
+              "non_striker": "T Sandeep",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Sandeep",
+              "bowler": "R Coker",
+              "non_striker": "Adil Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "R Coker",
+              "non_striker": "T Sandeep",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "R Coker",
+              "non_striker": "T Sandeep",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Sandeep",
+              "bowler": "R Coker",
+              "non_striker": "Adil Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Sandeep",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "R Coker",
+              "non_striker": "Adil Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Adil Butt",
+              "bowler": "G Sesay",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "G Sesay",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "G Sesay",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "G Sesay",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "G Sesay",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "G Sesay",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adil Butt",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Umair Qasim",
+              "bowler": "R Coker",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "R Coker",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "R Coker",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "R Coker",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "R Coker",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "R Coker",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Umair Qasim",
+              "bowler": "G Sesay",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "G Sesay",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "G Sesay",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "G Sesay",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "G Sesay",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "G Sesay",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Naeem Gull",
+              "bowler": "Mohamed Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "Mohamed Khan",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umair Qasim",
+                  "fielders": [
+                    {
+                      "name": "J Bangura"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Rashid",
+              "bowler": "Mohamed Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "Mohamed Khan",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "Mohamed Khan",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "Mohamed Khan",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Naeem Gull",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 53
+      }
+    }
+  ]
+}

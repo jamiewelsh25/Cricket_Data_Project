@@ -1,0 +1,2783 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-09-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Port Vila",
+    "dates": [
+      "2022-09-11"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1767,
+    "officials": {
+      "reserve_umpires": [
+        "PR Patki"
+      ],
+      "umpires": [
+        "Bri Olewale",
+        "CA Polosak"
+      ]
+    },
+    "outcome": {
+      "winner": "Cook Islands",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MTMMJ Ave"
+    ],
+    "players": {
+      "Vanuatu": [
+        "N Nipiko",
+        "JP Kaltapau",
+        "PK Matautaava",
+        "JD Allan",
+        "A Mansale",
+        "J Rasu",
+        "R Tari",
+        "W Wotu",
+        "SH Obed",
+        "W Nalisa",
+        "D Wotu"
+      ],
+      "Cook Islands": [
+        "MTMMJ Ave",
+        "HB Dickson",
+        "A Parima",
+        "T Parima",
+        "C Dickson",
+        "L Denny",
+        "B Vakatini",
+        "W Kokaua",
+        "G Raymond",
+        "T Ritawa",
+        "T Vanuarua"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mansale": "a22b4f3f",
+        "A Parima": "866d3ac8",
+        "B Vakatini": "7ad1417c",
+        "Bri Olewale": "c76cdfd7",
+        "C Dickson": "26b59073",
+        "CA Polosak": "26a360d2",
+        "D Wotu": "9585854d",
+        "G Raymond": "a9f43e60",
+        "HB Dickson": "e8c95491",
+        "J Rasu": "1021b6e5",
+        "JD Allan": "3758028b",
+        "JP Kaltapau": "d8dccff5",
+        "L Denny": "e112732d",
+        "MTMMJ Ave": "00863408",
+        "N Nipiko": "c498c510",
+        "PK Matautaava": "af19aa66",
+        "PR Patki": "2074ce03",
+        "R Tari": "c4d19735",
+        "SH Obed": "f49c401e",
+        "T Parima": "ecd51f8e",
+        "T Ritawa": "1c8ada57",
+        "T Vanuarua": "1f8b4fec",
+        "W Kokaua": "82a33cac",
+        "W Nalisa": "673be48f",
+        "W Wotu": "6b25ef46"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Vanuatu",
+      "Cook Islands"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Vanuatu"
+    },
+    "venue": "Independence Park, Port Vila"
+  },
+  "innings": [
+    {
+      "team": "Vanuatu",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "T Vanuarua",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "T Vanuarua",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "T Vanuarua",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "T Vanuarua",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "T Vanuarua",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "T Vanuarua",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "T Vanuarua",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "T Vanuarua",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "L Denny",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "L Denny",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              },
+              "wickets": [
+                {
+                  "player_out": "N Nipiko",
+                  "kind": "retired hurt"
+                }
+              ]
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "L Denny",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "L Denny",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "L Denny",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "L Denny",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "T Vanuarua",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "T Vanuarua",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "T Vanuarua",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "T Vanuarua",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "T Vanuarua",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "T Vanuarua",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "T Vanuarua",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "T Vanuarua",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "L Denny",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JP Kaltapau",
+                  "fielders": [
+                    {
+                      "name": "B Vakatini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "L Denny",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "L Denny",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "T Vanuarua",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PK Matautaava",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Vanuarua",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Vanuarua",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Vanuarua",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Vanuarua",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Vanuarua",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "L Denny",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JD Allan",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JD Allan",
+                  "fielders": [
+                    {
+                      "name": "T Parima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Rasu",
+                  "fielders": [
+                    {
+                      "name": "T Parima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "C Dickson",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "C Dickson",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "R Tari",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "MTMMJ Ave",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "R Tari",
+              "bowler": "W Kokaua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "W Kokaua",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "W Kokaua",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "W Kokaua",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "W Kokaua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Tari",
+                  "fielders": [
+                    {
+                      "name": "A Parima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "W Kokaua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "T Ritawa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "T Ritawa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "T Ritawa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "W Wotu",
+              "bowler": "W Kokaua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "W Kokaua",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "W Kokaua",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "W Kokaua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "W Kokaua",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "W Kokaua",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "T Ritawa",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "T Ritawa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mansale",
+                  "fielders": [
+                    {
+                      "name": "MTMMJ Ave"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SH Obed",
+              "bowler": "T Ritawa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SH Obed",
+              "bowler": "W Kokaua",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Wotu",
+                  "fielders": [
+                    {
+                      "name": "W Kokaua"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "W Nalisa",
+              "bowler": "W Kokaua",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Nalisa",
+              "bowler": "W Kokaua",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Nalisa",
+              "bowler": "W Kokaua",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SH Obed",
+              "bowler": "W Kokaua",
+              "non_striker": "W Nalisa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SH Obed",
+                  "fielders": [
+                    {
+                      "name": "MTMMJ Ave"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Nalisa",
+              "bowler": "W Kokaua",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Nalisa",
+              "bowler": "W Kokaua",
+              "non_striker": "D Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Nalisa",
+                  "fielders": [
+                    {
+                      "name": "MTMMJ Ave"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cook Islands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HB Dickson",
+                  "fielders": [
+                    {
+                      "name": "JD Allan"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "J Rasu",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "J Rasu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Wotu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Wotu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Parima",
+                  "fielders": [
+                    {
+                      "name": "JP Kaltapau"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Wotu",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "D Wotu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "D Wotu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "D Wotu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "D Wotu",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "T Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "W Nalisa",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "W Nalisa",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "T Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "PK Matautaava",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Parima",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "PK Matautaava",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "SH Obed",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MTMMJ Ave",
+                  "fielders": [
+                    {
+                      "name": "JP Kaltapau"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Denny",
+              "bowler": "SH Obed",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "SH Obed",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Denny",
+              "bowler": "SH Obed",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "SH Obed",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "SH Obed",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Dickson",
+              "bowler": "J Rasu",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "J Rasu",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "J Rasu",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Denny",
+              "bowler": "J Rasu",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "J Rasu",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "J Rasu",
+              "non_striker": "L Denny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Dickson",
+                  "fielders": [
+                    {
+                      "name": "PK Matautaava"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Denny",
+              "bowler": "SH Obed",
+              "non_striker": "B Vakatini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Denny",
+              "bowler": "SH Obed",
+              "non_striker": "B Vakatini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 128
+      }
+    }
+  ]
+}

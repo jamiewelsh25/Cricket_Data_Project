@@ -1,0 +1,1483 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-11-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-11-22"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 17
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1912,
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "BM White"
+      ],
+      "umpires": [
+        "Patric Makumbi",
+        "R D'Mello"
+      ]
+    },
+    "outcome": {
+      "winner": "Botswana",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "D Maisuria"
+    ],
+    "players": {
+      "Mali": [
+        "Mohamed Coulibaly",
+        "MS Diawara",
+        "TM Macalou",
+        "MS Diakite",
+        "MT Diaby",
+        "SG Diaby",
+        "M Sidibe",
+        "CA Keita",
+        "S Kamate",
+        "D Traore",
+        "L Sanogo"
+      ],
+      "Botswana": [
+        "K Motlanka",
+        "V Balakrishnan",
+        "T Perera",
+        "P Silas",
+        "R Mbaiwa",
+        "K Piet",
+        "R Nehonde",
+        "B Kgosiemang",
+        "D Maisuria",
+        "B Khumalo",
+        "M Mooketsi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "B Kgosiemang": "059ec7a5",
+        "B Khumalo": "33ab1f1c",
+        "BM White": "66c21d35",
+        "CA Keita": "5b9b8d98",
+        "D Maisuria": "a96b36af",
+        "D Traore": "273be75a",
+        "K Motlanka": "21549344",
+        "K Piet": "39fd9295",
+        "L Sanogo": "abbc06cf",
+        "M Mooketsi": "008a024c",
+        "M Sidibe": "78091b14",
+        "MS Diakite": "69795fcd",
+        "MS Diawara": "8c95e2dd",
+        "MT Diaby": "5d00cd6f",
+        "Mohamed Coulibaly": "86ea6123",
+        "P Silas": "9f2e1944",
+        "Patric Makumbi": "e4c69c16",
+        "R D'Mello": "f3c22863",
+        "R Mbaiwa": "5f789ff9",
+        "R Nehonde": "4393e047",
+        "S Kamate": "d7af6207",
+        "S Wadvalla": "c1a1acf3",
+        "SG Diaby": "fe3e9880",
+        "T Perera": "456397e5",
+        "TM Macalou": "8a9320a1",
+        "V Balakrishnan": "0c1da0c4"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Mali",
+      "Botswana"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Botswana"
+    },
+    "venue": "Gahanga International Cricket Stadium. Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Mali",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "M Mooketsi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Coulibaly",
+                  "fielders": [
+                    {
+                      "name": "R Mbaiwa"
+                    },
+                    {
+                      "name": "K Piet"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MS Diawara",
+              "bowler": "B Kgosiemang",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "B Kgosiemang",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Diawara",
+                  "fielders": [
+                    {
+                      "name": "R Nehonde"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Diakite",
+              "bowler": "B Kgosiemang",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MS Diakite",
+              "bowler": "M Mooketsi",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TM Macalou",
+                  "fielders": [
+                    {
+                      "name": "R Mbaiwa"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "M Mooketsi",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MT Diaby",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diakite",
+              "bowler": "B Kgosiemang",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MS Diakite",
+              "bowler": "M Mooketsi",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diakite",
+              "bowler": "M Mooketsi",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diakite",
+              "bowler": "M Mooketsi",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Diakite",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "M Mooketsi",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "M Mooketsi",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "M Mooketsi",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MT Diaby",
+              "bowler": "B Khumalo",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MT Diaby",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "B Khumalo",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "B Khumalo",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SG Diaby",
+                  "fielders": [
+                    {
+                      "name": "R Mbaiwa"
+                    },
+                    {
+                      "name": "M Mooketsi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "B Khumalo",
+              "non_striker": "M Sidibe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "B Khumalo",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "B Khumalo",
+              "non_striker": "M Sidibe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CA Keita",
+              "bowler": "B Khumalo",
+              "non_striker": "M Sidibe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "B Khumalo",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "B Khumalo",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "B Khumalo",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "B Khumalo",
+              "non_striker": "M Sidibe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "B Khumalo",
+              "non_striker": "M Sidibe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Sidibe",
+                  "fielders": [
+                    {
+                      "name": "P Silas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "D Maisuria",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CA Keita",
+              "bowler": "K Piet",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "K Piet",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "K Piet",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "K Piet",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "K Piet",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "K Piet",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CA Keita",
+                  "fielders": [
+                    {
+                      "name": "T Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Kamate",
+              "bowler": "D Maisuria",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "D Maisuria",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "D Maisuria",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "D Maisuria",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "D Maisuria",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "D Maisuria",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kamate",
+                  "fielders": [
+                    {
+                      "name": "R Mbaiwa"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "L Sanogo",
+              "bowler": "D Maisuria",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Sanogo",
+                  "fielders": [
+                    {
+                      "name": "R Mbaiwa"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Botswana",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "K Motlanka",
+              "bowler": "SG Diaby",
+              "non_striker": "V Balakrishnan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Balakrishnan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Balakrishnan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Balakrishnan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "SG Diaby",
+              "non_striker": "V Balakrishnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "SG Diaby",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "SG Diaby",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "SG Diaby",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "SG Diaby",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "K Motlanka",
+              "bowler": "TM Macalou",
+              "non_striker": "V Balakrishnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "TM Macalou",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "TM Macalou",
+              "non_striker": "V Balakrishnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "TM Macalou",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "TM Macalou",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "TM Macalou",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Balakrishnan",
+              "bowler": "TM Macalou",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Balakrishnan",
+                  "fielders": [
+                    {
+                      "name": "CA Keita"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "K Motlanka",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Motlanka",
+                  "fielders": [
+                    {
+                      "name": "CA Keita"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Silas",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Silas",
+                  "fielders": [
+                    {
+                      "name": "TM Macalou"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Mbaiwa",
+              "bowler": "MT Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mbaiwa",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mbaiwa",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mbaiwa",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mbaiwa",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Perera",
+              "bowler": "TM Macalou",
+              "non_striker": "R Mbaiwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "TM Macalou",
+              "non_striker": "R Mbaiwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "TM Macalou",
+              "non_striker": "R Mbaiwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mbaiwa",
+              "bowler": "TM Macalou",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mbaiwa",
+              "bowler": "TM Macalou",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Mbaiwa",
+                  "fielders": [
+                    {
+                      "name": "CA Keita"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Piet",
+              "bowler": "TM Macalou",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Piet",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Perera",
+              "bowler": "MT Diaby",
+              "non_striker": "R Nehonde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Nehonde",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nehonde",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nehonde",
+              "bowler": "MT Diaby",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "MT Diaby",
+              "non_striker": "R Nehonde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "MT Diaby",
+              "non_striker": "R Nehonde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Perera",
+              "bowler": "TM Macalou",
+              "non_striker": "R Nehonde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "TM Macalou",
+              "non_striker": "R Nehonde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 13,
+        "runs": 38
+      }
+    }
+  ]
+}

@@ -1,0 +1,3088 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-12-10",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-12-09"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 26
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1948,
+    "officials": {
+      "match_referees": [
+        "SA Fritz"
+      ],
+      "reserve_umpires": [
+        "Habib Enesi"
+      ],
+      "umpires": [
+        "S Kintu",
+        "Stephen Harris"
+      ]
+    },
+    "outcome": {
+      "winner": "Gambia",
+      "by": {
+        "runs": 11
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Muhammed Manga"
+    ],
+    "players": {
+      "Gambia": [
+        "Muhammed Manga",
+        "Mustapha Suwareh",
+        "Abubacarr Kuyateh",
+        "A Conteh",
+        "Ousman Bah",
+        "Ismaila Tanba",
+        "ML Bojang",
+        "F Campbell",
+        "M Jobarteh",
+        "P Campbell",
+        "O Touray"
+      ],
+      "Cameroon": [
+        "BN Toube",
+        "I Tchakou",
+        "RGA Amah",
+        "JB Abega",
+        "AN Toube",
+        "AB Mengoumou",
+        "DB Loic",
+        "P Abanda",
+        "CB Ondoa",
+        "AN Aminou",
+        "RD Atangana"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Conteh": "97b9cb64",
+        "AB Mengoumou": "8ad3d034",
+        "AN Aminou": "6d9d2de7",
+        "AN Toube": "7f929ebe",
+        "Abubacarr Kuyateh": "0ec45a9a",
+        "BN Toube": "75f3aa00",
+        "CB Ondoa": "b3179e21",
+        "DB Loic": "01679383",
+        "F Campbell": "02c3024c",
+        "Habib Enesi": "fb35ab1f",
+        "I Tchakou": "4d2b96b4",
+        "Ismaila Tanba": "180e2c15",
+        "JB Abega": "b7abb123",
+        "M Jobarteh": "4a2ce060",
+        "ML Bojang": "c2409632",
+        "Muhammed Manga": "6084f6ee",
+        "Mustapha Suwareh": "44116edc",
+        "O Touray": "57427d9e",
+        "Ousman Bah": "95c214dd",
+        "P Abanda": "90a8dfec",
+        "P Campbell": "3caaf69e",
+        "RD Atangana": "490f475a",
+        "RGA Amah": "90f9aedf",
+        "S Kintu": "ff387f93",
+        "SA Fritz": "d15e60c8",
+        "Stephen Harris": "fdcfd4aa"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Gambia",
+      "Cameroon"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Gambia"
+    },
+    "venue": "Integrated Polytechnic Regional Centre"
+  },
+  "innings": [
+    {
+      "team": "Gambia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mustapha Suwareh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Mustapha Suwareh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mustapha Suwareh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mustapha Suwareh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abubacarr Kuyateh",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "A Conteh",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Conteh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ousman Bah",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "Ousman Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ousman Bah",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ousman Bah",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ismaila Tanba",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ismaila Tanba",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ismaila Tanba",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "Ismaila Tanba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ismaila Tanba",
+                  "fielders": [
+                    {
+                      "name": "JB Abega"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ML Bojang",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Bojang",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Bojang",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Bojang",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "ML Bojang",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "ML Bojang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Bojang",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Bojang",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ML Bojang",
+                  "fielders": [
+                    {
+                      "name": "RD Atangana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "F Campbell",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "F Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "F Campbell",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Campbell",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F Campbell",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Campbell",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "F Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Campbell",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Campbell",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "AN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "AN Toube",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Jobarteh",
+              "bowler": "JB Abega",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "M Jobarteh",
+                  "fielders": [
+                    {
+                      "name": "I Tchakou"
+                    },
+                    {
+                      "name": "JB Abega"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "JB Abega",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "P Campbell",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "BN Toube",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "BN Toube",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "BN Toube",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "DB Loic",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "DB Loic",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "P Campbell",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Campbell",
+              "bowler": "RD Atangana",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammed Manga",
+              "bowler": "RD Atangana",
+              "non_striker": "P Campbell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cameroon",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "I Tchakou",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Tchakou",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "M Jobarteh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "Abubacarr Kuyateh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BN Toube",
+                  "fielders": [
+                    {
+                      "name": "A Conteh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "M Jobarteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JB Abega",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "M Jobarteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "M Jobarteh",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "M Jobarteh",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AN Toube",
+              "bowler": "A Conteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "A Conteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "A Conteh",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Toube",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "ML Bojang",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "ML Bojang",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "ML Bojang",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "A Conteh",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "ML Bojang",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "ML Bojang",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "A Conteh",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AB Mengoumou",
+                  "fielders": [
+                    {
+                      "name": "O Touray"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "A Conteh",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "ML Bojang",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "A Conteh",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RGA Amah",
+                  "fielders": [
+                    {
+                      "name": "Abubacarr Kuyateh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Abanda",
+              "bowler": "A Conteh",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Abanda",
+              "bowler": "A Conteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Abanda",
+              "bowler": "A Conteh",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Abanda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "A Conteh",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "A Conteh",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "A Conteh",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CB Ondoa",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "ML Bojang",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "ML Bojang",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "ML Bojang",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DB Loic",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "DB Loic",
+                  "fielders": [
+                    {
+                      "name": "Abubacarr Kuyateh"
+                    },
+                    {
+                      "name": "Ismaila Tanba"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CB Ondoa",
+              "bowler": "O Touray",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "O Touray",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "O Touray",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "O Touray",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "O Touray",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "O Touray",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "Ismaila Tanba",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AN Aminou",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "M Jobarteh",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Aminou",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Ondoa",
+              "bowler": "M Jobarteh",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CB Ondoa",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.9,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 116
+      }
+    }
+  ]
+}

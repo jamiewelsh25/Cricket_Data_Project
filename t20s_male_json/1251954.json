@@ -1,0 +1,2958 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2021-07-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Belfast",
+    "dates": [
+      "2021-07-22"
+    ],
+    "event": {
+      "name": "South Africa tour of Ireland",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1197,
+    "officials": {
+      "match_referees": [
+        "K Gallagher"
+      ],
+      "reserve_umpires": [
+        "M Hawthorne"
+      ],
+      "tv_umpires": [
+        "AJ Neill"
+      ],
+      "umpires": [
+        "PA Reynolds",
+        "R Black"
+      ]
+    },
+    "outcome": {
+      "winner": "South Africa",
+      "by": {
+        "runs": 42
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "DA Miller"
+    ],
+    "players": {
+      "South Africa": [
+        "T Bavuma",
+        "Q de Kock",
+        "JN Malan",
+        "AK Markram",
+        "HE van der Dussen",
+        "DA Miller",
+        "PWA Mulder",
+        "BC Fortuin",
+        "BE Hendricks",
+        "L Ngidi",
+        "T Shamsi"
+      ],
+      "Ireland": [
+        "PR Stirling",
+        "KJ O'Brien",
+        "A Balbirnie",
+        "GH Dockrell",
+        "HT Tector",
+        "SC Getkate",
+        "L Tucker",
+        "Simi Singh",
+        "MR Adair",
+        "CA Young",
+        "J Little"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "AJ Neill": "7ffe0ce3",
+        "AK Markram": "6a26221c",
+        "BC Fortuin": "9a2fc964",
+        "BE Hendricks": "b56dc5f7",
+        "CA Young": "bd0a4a7d",
+        "DA Miller": "d67d5f00",
+        "GH Dockrell": "99cddc5e",
+        "HE van der Dussen": "9948e262",
+        "HT Tector": "59ea70a4",
+        "J Little": "9061a703",
+        "JN Malan": "f76d7466",
+        "K Gallagher": "704afd47",
+        "KJ O'Brien": "243431b5",
+        "L Ngidi": "f834dcfc",
+        "L Tucker": "3979b5e0",
+        "M Hawthorne": "ea123ee4",
+        "MR Adair": "fc55ec67",
+        "PA Reynolds": "a416c9c3",
+        "PR Stirling": "cf494ffe",
+        "PWA Mulder": "c96f6ac5",
+        "Q de Kock": "372455c4",
+        "R Black": "156c8fb1",
+        "SC Getkate": "c8065f31",
+        "Simi Singh": "c9945bdf",
+        "T Bavuma": "9ffd1ac1",
+        "T Shamsi": "a03bba42"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "South Africa"
+    },
+    "venue": "Civil Service Cricket Club, Stormont, Belfast"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "T Bavuma",
+              "bowler": "PR Stirling",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Bavuma",
+              "bowler": "PR Stirling",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Bavuma",
+                  "fielders": [
+                    {
+                      "name": "J Little"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JN Malan",
+              "bowler": "PR Stirling",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Malan",
+              "bowler": "PR Stirling",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JN Malan",
+                  "fielders": [
+                    {
+                      "name": "J Little"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "PR Stirling",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "PR Stirling",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "CA Young",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CA Young",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CA Young",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CA Young",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CA Young",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CA Young",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CA Young",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "PR Stirling",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "PR Stirling",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "PR Stirling",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "PR Stirling",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "PR Stirling",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "PR Stirling",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Markram",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "MR Adair",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "MR Adair",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MR Adair",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q de Kock",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HE van der Dussen",
+                  "fielders": [
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "PR Stirling",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "PR Stirling",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PR Stirling",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PR Stirling",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "PR Stirling",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "PR Stirling",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "PWA Mulder",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "J Little",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "PWA Mulder",
+              "bowler": "SC Getkate",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "SC Getkate",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "SC Getkate",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "SC Getkate",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "SC Getkate",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "SC Getkate",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Simi Singh",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "Simi Singh",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "PWA Mulder",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MR Adair",
+              "non_striker": "PWA Mulder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWA Mulder",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "PWA Mulder",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PWA Mulder",
+                  "fielders": [
+                    {
+                      "name": "A Balbirnie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "CA Young",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "CA Young",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "MR Adair",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MR Adair",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BC Fortuin",
+                  "fielders": [
+                    {
+                      "name": "A Balbirnie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MR Adair",
+              "non_striker": "BE Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BE Hendricks",
+              "bowler": "MR Adair",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "BE Hendricks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "BE Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "BE Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "BE Hendricks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "BE Hendricks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "J Little",
+              "non_striker": "BE Hendricks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ O'Brien",
+              "bowler": "BC Fortuin",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ O'Brien",
+              "bowler": "BC Fortuin",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KJ O'Brien",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "L Ngidi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "L Ngidi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BC Fortuin",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "BC Fortuin",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "L Ngidi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "L Ngidi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "L Ngidi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Balbirnie",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Balbirnie",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BE Hendricks",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "PWA Mulder",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BE Hendricks",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BE Hendricks",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "BE Hendricks",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "BE Hendricks",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "T Shamsi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "T Shamsi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "T Shamsi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "T Shamsi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "T Shamsi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "T Shamsi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PR Stirling",
+                  "fielders": [
+                    {
+                      "name": "DA Miller"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "AK Markram",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "AK Markram",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "AK Markram",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "AK Markram",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "AK Markram",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HT Tector",
+                  "fielders": [
+                    {
+                      "name": "BC Fortuin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "AK Markram",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SC Getkate",
+              "bowler": "T Shamsi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "T Shamsi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "T Shamsi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "T Shamsi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "T Shamsi",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "T Shamsi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "T Shamsi",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GH Dockrell",
+                  "fielders": [
+                    {
+                      "name": "AK Markram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SC Getkate",
+              "bowler": "AK Markram",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "AK Markram",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "AK Markram",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "AK Markram",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "AK Markram",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "AK Markram",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SC Getkate",
+              "bowler": "PWA Mulder",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "PWA Mulder",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "PWA Mulder",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "PWA Mulder",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "PWA Mulder",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "PWA Mulder",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SC Getkate",
+              "bowler": "BC Fortuin",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "BC Fortuin",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "BC Fortuin",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "BC Fortuin",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "BC Fortuin",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "BC Fortuin",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "T Shamsi",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "T Shamsi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SC Getkate",
+                  "fielders": [
+                    {
+                      "name": "T Bavuma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Simi Singh",
+              "bowler": "T Shamsi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simi Singh",
+              "bowler": "T Shamsi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "T Shamsi",
+              "non_striker": "Simi Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simi Singh",
+              "bowler": "T Shamsi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "T Shamsi",
+              "non_striker": "Simi Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "BC Fortuin",
+              "non_striker": "Simi Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Tucker",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "BC Fortuin",
+              "non_striker": "Simi Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "BC Fortuin",
+              "non_striker": "Simi Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "BC Fortuin",
+              "non_striker": "Simi Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simi Singh",
+              "bowler": "BC Fortuin",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Simi Singh",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "CA Young",
+              "bowler": "BC Fortuin",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MR Adair",
+              "bowler": "T Shamsi",
+              "non_striker": "CA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Young",
+              "bowler": "T Shamsi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Young",
+              "bowler": "T Shamsi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "T Shamsi",
+              "non_striker": "CA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "T Shamsi",
+              "non_striker": "CA Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "T Shamsi",
+              "non_striker": "CA Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MR Adair",
+              "bowler": "BE Hendricks",
+              "non_striker": "CA Young",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "CA Young",
+              "bowler": "BE Hendricks",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CA Young",
+                  "fielders": [
+                    {
+                      "name": "PWA Mulder"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "BE Hendricks",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "BE Hendricks",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "BE Hendricks",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "BE Hendricks",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MR Adair",
+              "bowler": "L Ngidi",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "L Ngidi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "L Ngidi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "L Ngidi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "L Ngidi",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "L Ngidi",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Little",
+              "bowler": "BE Hendricks",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "BE Hendricks",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "BE Hendricks",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "BE Hendricks",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "BE Hendricks",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "BE Hendricks",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Little",
+              "bowler": "L Ngidi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "L Ngidi",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Little",
+              "bowler": "L Ngidi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Little",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 160
+      }
+    }
+  ]
+}

@@ -1,0 +1,2982 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-05-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2022-05-10"
+    ],
+    "event": {
+      "name": "Valletta Cup",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1522,
+    "officials": {
+      "reserve_umpires": [
+        "R Sivanadian"
+      ],
+      "umpires": [
+        "S Harnal",
+        "SN Anand"
+      ]
+    },
+    "outcome": {
+      "winner": "Malta",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "B George"
+    ],
+    "players": {
+      "Gibraltar": [
+        "BA Pai",
+        "M Gouws",
+        "L Bruce",
+        "KJ Ferrary",
+        "K Nestor",
+        "RJ Hatchman",
+        "A Reyes",
+        "M Whelan",
+        "J Marples",
+        "S Bodha",
+        "Z Simpson"
+      ],
+      "Malta": [
+        "G Chaturvedi",
+        "B Arora",
+        "B George",
+        "HS Gericke",
+        "VP Thamotharam",
+        "Aaftab Alam Khan",
+        "N Khanna",
+        "Bilal Muhammad",
+        "Amar Sharma",
+        "Jaison Jerome",
+        "Washeem Abbas"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Reyes": "fd2b8c06",
+        "Aaftab Alam Khan": "9dbc77b3",
+        "Amar Sharma": "14e1fdab",
+        "B Arora": "39e9f0c9",
+        "B George": "1bdbf53b",
+        "BA Pai": "716bf559",
+        "Bilal Muhammad": "eb5aa5b9",
+        "G Chaturvedi": "e1c92333",
+        "HS Gericke": "c28a293e",
+        "J Marples": "9d75aec7",
+        "Jaison Jerome": "e57d25fa",
+        "K Nestor": "b89cde87",
+        "KJ Ferrary": "81898acc",
+        "L Bruce": "2a03bd2f",
+        "M Gouws": "018f6488",
+        "M Whelan": "d613f046",
+        "N Khanna": "0ec6a7c3",
+        "R Sivanadian": "6100086b",
+        "RJ Hatchman": "01c05b6c",
+        "S Bodha": "00467a76",
+        "S Harnal": "756fe781",
+        "SN Anand": "ab3d6059",
+        "VP Thamotharam": "eb40ed89",
+        "Washeem Abbas": "6de4e430",
+        "Z Simpson": "83d567a4"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Gibraltar",
+      "Malta"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malta"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Gibraltar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Washeem Abbas",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Gouws",
+                  "fielders": [
+                    {
+                      "name": "N Khanna"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Bruce",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Bruce",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Washeem Abbas",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Washeem Abbas",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Washeem Abbas",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Jaison Jerome",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Jaison Jerome",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaison Jerome",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaison Jerome",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaison Jerome",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Jaison Jerome",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "VP Thamotharam",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "VP Thamotharam",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "VP Thamotharam",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "VP Thamotharam",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "VP Thamotharam",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "B Arora",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "B Arora",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Amar Sharma",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BA Pai",
+                  "fielders": [
+                    {
+                      "name": "B George"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Amar Sharma",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KJ Ferrary",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "K Nestor",
+              "bowler": "B Arora",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "B Arora",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "B Arora",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "B Arora",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "B Arora",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RJ Hatchman",
+                  "fielders": [
+                    {
+                      "name": "Aaftab Alam Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "B Arora",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "K Nestor",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Washeem Abbas",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Washeem Abbas",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Washeem Abbas",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Washeem Abbas",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Washeem Abbas",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Reyes",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Jaison Jerome",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Jaison Jerome",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Jaison Jerome",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Reyes",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Nestor",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Jaison Jerome",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Jaison Jerome",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Jaison Jerome",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "M Whelan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Washeem Abbas",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.1,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malta",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "G Chaturvedi",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Chaturvedi",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Chaturvedi",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Chaturvedi",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Chaturvedi",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "BA Pai",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "L Bruce",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "L Bruce",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "L Bruce",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "L Bruce",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "L Bruce",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "L Bruce",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "K Nestor",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "K Nestor",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "B George",
+              "bowler": "Z Simpson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Z Simpson",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Z Simpson",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Z Simpson",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Z Simpson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Z Simpson",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Z Simpson",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Z Simpson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Z Simpson",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Z Simpson",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "B George",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "RJ Hatchman",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "B George",
+              "bowler": "S Bodha",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "S Bodha",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "S Bodha",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "KJ Ferrary",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "S Bodha",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "S Bodha",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B George",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "S Bodha",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "HS Gericke",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "KJ Ferrary",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "KJ Ferrary",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "KJ Ferrary",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "S Bodha",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "S Bodha",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "S Bodha",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "HS Gericke",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "extras": {
+                "byes": 4,
+                "noballs": 1
+              },
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "RJ Hatchman",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "RJ Hatchman",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "Z Simpson",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Z Simpson",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Arora",
+                  "fielders": [
+                    {
+                      "name": "A Reyes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Z Simpson",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Z Simpson",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Z Simpson",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Z Simpson",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "KJ Ferrary",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "KJ Ferrary",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "KJ Ferrary",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HS Gericke",
+                  "fielders": [
+                    {
+                      "name": "BA Pai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "KJ Ferrary",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "KJ Ferrary",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "KJ Ferrary",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Z Simpson",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Z Simpson",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Z Simpson",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Z Simpson",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VP Thamotharam",
+                  "fielders": [
+                    {
+                      "name": "K Nestor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Khanna",
+              "bowler": "Z Simpson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Khanna",
+              "bowler": "Z Simpson",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 133
+      }
+    }
+  ]
+}

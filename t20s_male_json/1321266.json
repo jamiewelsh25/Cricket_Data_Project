@@ -1,0 +1,2586 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-07-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kerava",
+    "dates": [
+      "2022-07-15"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier",
+      "match_number": 10,
+      "group": "2"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1656,
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "S Kuchimanchi"
+      ],
+      "umpires": [
+        "A Paleker",
+        "Rizwan Akram"
+      ]
+    },
+    "outcome": {
+      "winner": "Serbia",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "NR Johns-Wickberg"
+    ],
+    "players": {
+      "Turkey": [
+        "Ilyas Ataullah",
+        "Shamsullah Ehsan",
+        "I Elec",
+        "C Bayraktar",
+        "A Turkmen",
+        "GG Alta",
+        "R Nath",
+        "M Ozturk",
+        "E Kuyumcu",
+        "T Turan",
+        "Hasan Cakir"
+      ],
+      "Serbia": [
+        "WAE Burton",
+        "A Dizija",
+        "S Ivetic",
+        "LA Dunbar",
+        "AA Gajic",
+        "NR Johns-Wickberg",
+        "A Mene-Ejegi",
+        "MV Pavlovic",
+        "M Sarenac",
+        "RL Vitas",
+        "V Zimonjic"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dizija": "6483c062",
+        "A Mene-Ejegi": "e4f13acd",
+        "A Paleker": "634b11ac",
+        "A Turkmen": "e56f4180",
+        "AA Gajic": "a768a762",
+        "C Bayraktar": "0fa92a21",
+        "E Kuyumcu": "4e6bc859",
+        "GG Alta": "c7bb2416",
+        "GH Pienaar": "3516e46b",
+        "Hasan Cakir": "a2369eaf",
+        "I Elec": "4d0d5b7d",
+        "Ilyas Ataullah": "357484e9",
+        "LA Dunbar": "f50433e9",
+        "M Ozturk": "d62f04f5",
+        "M Sarenac": "f5ba4611",
+        "MV Pavlovic": "2809b390",
+        "NR Johns-Wickberg": "3924b2ee",
+        "R Nath": "126f1e28",
+        "RL Vitas": "869f61bc",
+        "Rizwan Akram": "b5346f1e",
+        "S Ivetic": "04ab1575",
+        "S Kuchimanchi": "b0cad015",
+        "Shamsullah Ehsan": "356bf068",
+        "T Turan": "2e18b647",
+        "V Zimonjic": "7f784eb8",
+        "WAE Burton": "b0358c6d"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Turkey",
+      "Serbia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Serbia"
+    },
+    "venue": "Kerava National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Turkey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "V Zimonjic",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "V Zimonjic",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ilyas Ataullah",
+                  "fielders": [
+                    {
+                      "name": "S Ivetic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "V Zimonjic",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "I Elec",
+              "bowler": "V Zimonjic",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "V Zimonjic",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "I Elec",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Elec",
+                  "fielders": [
+                    {
+                      "name": "MV Pavlovic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "M Sarenac",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "M Sarenac",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "M Sarenac",
+              "non_striker": "Shamsullah Ehsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "M Sarenac",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shamsullah Ehsan",
+                  "fielders": [
+                    {
+                      "name": "NR Johns-Wickberg"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "M Sarenac",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "M Sarenac",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Sarenac",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Sarenac",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Bayraktar",
+              "bowler": "MV Pavlovic",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "MV Pavlovic",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "MV Pavlovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "MV Pavlovic",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "MV Pavlovic",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "MV Pavlovic",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "MV Pavlovic",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "C Bayraktar",
+              "bowler": "M Sarenac",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bayraktar",
+                  "fielders": [
+                    {
+                      "name": "MV Pavlovic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "M Sarenac",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Sarenac",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Sarenac",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Turkmen",
+                  "fielders": [
+                    {
+                      "name": "A Dizija"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "M Sarenac",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "M Sarenac",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "M Sarenac",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "MV Pavlovic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "MV Pavlovic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "MV Pavlovic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "MV Pavlovic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "MV Pavlovic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "MV Pavlovic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "M Sarenac",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Sarenac",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Sarenac",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Sarenac",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Sarenac",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "M Sarenac",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "M Sarenac",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "M Sarenac",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "MV Pavlovic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "MV Pavlovic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "MV Pavlovic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "MV Pavlovic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "MV Pavlovic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "MV Pavlovic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GG Alta",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "AA Gajic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "GG Alta",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GG Alta",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "A Mene-Ejegi",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "M Ozturk",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "AA Gajic",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Ozturk",
+                  "fielders": [
+                    {
+                      "name": "S Ivetic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Kuyumcu",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "T Turan",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Turan",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Turan",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Turan",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Turan",
+              "bowler": "NR Johns-Wickberg",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Turan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hasan Cakir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "AA Gajic",
+              "non_striker": "Hasan Cakir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Nath",
+                  "fielders": [
+                    {
+                      "name": "S Ivetic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Serbia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "A Turkmen",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WAE Burton",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Ivetic",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "A Turkmen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "A Turkmen",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "M Ozturk",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "M Ozturk",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Dizija",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dizija",
+                  "fielders": [
+                    {
+                      "name": "R Nath"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Ivetic",
+              "bowler": "I Elec",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "I Elec",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "I Elec",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "I Elec",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "I Elec",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "I Elec",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Ivetic",
+              "bowler": "GG Alta",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Ivetic",
+              "bowler": "I Elec",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "I Elec",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "I Elec",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "I Elec",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "I Elec",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "I Elec",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Ivetic",
+              "bowler": "GG Alta",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "GG Alta",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "GG Alta",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "GG Alta",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "E Kuyumcu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "GG Alta",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "GG Alta",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "GG Alta",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Ivetic",
+              "bowler": "Hasan Cakir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "Hasan Cakir",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "Hasan Cakir",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "Hasan Cakir",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Hasan Cakir",
+              "non_striker": "S Ivetic",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Ivetic",
+              "bowler": "Hasan Cakir",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ivetic",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "AA Gajic",
+              "bowler": "Hasan Cakir",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "T Turan",
+              "non_striker": "AA Gajic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Gajic",
+              "bowler": "T Turan",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Gajic",
+              "bowler": "T Turan",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Gajic",
+              "bowler": "T Turan",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Gajic",
+              "bowler": "T Turan",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 68
+      }
+    }
+  ]
+}

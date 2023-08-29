@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2021-08-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Providence",
+    "dates": [
+      "2021-08-01"
+    ],
+    "event": {
+      "name": "Pakistan tour of West Indies",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1209,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "PA Gustard"
+      ],
+      "tv_umpires": [
+        "LS Reifer"
+      ],
+      "umpires": [
+        "GO Brathwaite",
+        "JS Wilson"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "West Indies": [
+        "ADS Fletcher",
+        "CH Gayle",
+        "SO Hetmyer",
+        "N Pooran",
+        "KA Pollard",
+        "AD Russell",
+        "JO Holder",
+        "DJ Bravo",
+        "R Shepherd",
+        "HR Walsh",
+        "AJ Hosein"
+      ],
+      "Pakistan": [
+        "Sharjeel Khan",
+        "Mohammad Rizwan",
+        "Babar Azam",
+        "Fakhar Zaman",
+        "Mohammad Hafeez",
+        "Hasan Ali",
+        "Sohaib Maqsood",
+        "Shadab Khan",
+        "Mohammad Wasim",
+        "Usman Qadir",
+        "Haris Rauf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Russell": "bbd41817",
+        "ADS Fletcher": "1bae756b",
+        "AJ Hosein": "4d7f517e",
+        "Babar Azam": "8a75e999",
+        "CH Gayle": "db584dad",
+        "DJ Bravo": "87e562a9",
+        "Fakhar Zaman": "1777c020",
+        "GO Brathwaite": "1ace56d4",
+        "HR Walsh": "1ac2a995",
+        "Haris Rauf": "24bb1c2f",
+        "Hasan Ali": "2911de16",
+        "JO Holder": "0f721006",
+        "JS Wilson": "d7f3b72f",
+        "KA Pollard": "a757b0d8",
+        "LS Reifer": "5dee559a",
+        "Mohammad Hafeez": "9ab63e7b",
+        "Mohammad Rizwan": "2f26ac1a",
+        "Mohammad Wasim": "9e9af5f2",
+        "N Pooran": "3241e3fd",
+        "PA Gustard": "25bcf808",
+        "R Shepherd": "c5aef772",
+        "RB Richardson": "410e2f12",
+        "SO Hetmyer": "48a1d7b7",
+        "Shadab Khan": "9de62878",
+        "Sharjeel Khan": "193ef196",
+        "Sohaib Maqsood": "b98b5e1c",
+        "Usman Qadir": "33742f04"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "West Indies"
+    },
+    "venue": "Providence Stadium, Guyana"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.2,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

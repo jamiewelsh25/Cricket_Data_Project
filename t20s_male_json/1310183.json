@@ -1,0 +1,2468 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-05-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2022-05-14"
+    ],
+    "event": {
+      "name": "Valletta Cup",
+      "match_number": 14
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1535,
+    "officials": {
+      "match_referees": [
+        "S Harnal"
+      ],
+      "reserve_umpires": [
+        "SN Anand"
+      ],
+      "umpires": [
+        "J Ghose Roy",
+        "R Sivanadian"
+      ]
+    },
+    "outcome": {
+      "winner": "Romania",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "R Satheesan"
+    ],
+    "players": {
+      "Gibraltar": [
+        "BA Pai",
+        "L Bruce",
+        "CM Rocca",
+        "M Gouws",
+        "A Reyes",
+        "RJ Hatchman",
+        "M Whelan",
+        "J Marples",
+        "S Bodha",
+        "N Advani",
+        "R Cunningham"
+      ],
+      "Romania": [
+        "R Satheesan",
+        "Taranjeet Singh",
+        "V Saini",
+        "S Periyalwar",
+        "S Nadigotla",
+        "Abdul Shakoor",
+        "Ijaz Hussain",
+        "Gaurav Mishra",
+        "C Zavoiu",
+        "R Kumar",
+        "M Gherasim"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Reyes": "fd2b8c06",
+        "Abdul Shakoor": "d52b13a6",
+        "BA Pai": "716bf559",
+        "C Zavoiu": "6b96bebf",
+        "CM Rocca": "ac5a9d43",
+        "Gaurav Mishra": "507dd87f",
+        "Ijaz Hussain": "dc1dd6c4",
+        "J Ghose Roy": "ecef5677",
+        "J Marples": "9d75aec7",
+        "L Bruce": "2a03bd2f",
+        "M Gherasim": "692d4cbe",
+        "M Gouws": "018f6488",
+        "M Whelan": "d613f046",
+        "N Advani": "e4f6147b",
+        "R Cunningham": "6779e840",
+        "R Kumar": "2df874e6",
+        "R Satheesan": "1125ebe4",
+        "R Sivanadian": "6100086b",
+        "RJ Hatchman": "01c05b6c",
+        "S Bodha": "00467a76",
+        "S Harnal": "756fe781",
+        "S Nadigotla": "b78b3ffd",
+        "S Periyalwar": "d207e4fb",
+        "SN Anand": "ab3d6059",
+        "Taranjeet Singh": "ec483176",
+        "V Saini": "0fa81719"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Gibraltar",
+      "Romania"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Gibraltar"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Gibraltar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "R Kumar",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "R Kumar",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Bruce",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CM Rocca",
+              "bowler": "R Kumar",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Kumar",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "R Kumar",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "R Kumar",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Gaurav Mishra",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Gaurav Mishra",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CM Rocca",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "CM Rocca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CM Rocca",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Rocca",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CM Rocca",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Gouws",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "V Saini",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "V Saini",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "R Satheesan",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Satheesan",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Satheesan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "R Satheesan",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BA Pai",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "R Satheesan",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "R Satheesan",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Gouws",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "A Reyes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Ijaz Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Reyes",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Reyes",
+                  "fielders": [
+                    {
+                      "name": "S Periyalwar"
+                    },
+                    {
+                      "name": "Abdul Shakoor"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "R Satheesan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "R Satheesan",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "R Satheesan",
+              "non_striker": "M Gouws",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RJ Hatchman",
+                  "fielders": [
+                    {
+                      "name": "S Periyalwar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Gouws",
+              "bowler": "R Satheesan",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Gouws",
+                  "fielders": [
+                    {
+                      "name": "S Nadigotla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "J Marples",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Ijaz Hussain",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Ijaz Hussain",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "M Whelan",
+              "bowler": "V Saini",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "V Saini",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "V Saini",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "V Saini",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "V Saini",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "V Saini",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Marples",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Whelan",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "S Bodha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bodha",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Whelan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "S Bodha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Whelan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Advani",
+              "bowler": "Ijaz Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bodha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Advani",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "S Bodha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Advani",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "S Bodha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Advani",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "S Bodha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Bodha",
+              "bowler": "R Kumar",
+              "non_striker": "N Advani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bodha",
+              "bowler": "R Kumar",
+              "non_striker": "N Advani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Bodha",
+              "bowler": "R Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Advani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bodha",
+              "bowler": "R Kumar",
+              "non_striker": "N Advani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bodha",
+              "bowler": "R Kumar",
+              "non_striker": "N Advani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bodha",
+                  "fielders": [
+                    {
+                      "name": "R Satheesan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Advani",
+              "bowler": "R Kumar",
+              "non_striker": "R Cunningham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Advani",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "BA Pai",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "BA Pai",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "BA Pai",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "BA Pai",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "BA Pai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "BA Pai",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "BA Pai",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "L Bruce",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Reyes",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Reyes",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Reyes",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Reyes",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Reyes",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Reyes",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "L Bruce",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "S Bodha",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "S Bodha",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "S Bodha",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "S Bodha",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "S Bodha",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "S Bodha",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "RJ Hatchman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "RJ Hatchman",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "RJ Hatchman",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "RJ Hatchman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "L Bruce",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "L Bruce",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "L Bruce",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "L Bruce",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Satheesan",
+                  "fielders": [
+                    {
+                      "name": "A Reyes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "L Bruce",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "R Cunningham",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "R Cunningham",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "R Cunningham",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "N Advani",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "N Advani",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "R Cunningham",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Saini",
+                  "fielders": [
+                    {
+                      "name": "J Marples"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "R Cunningham",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "R Cunningham",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "N Advani",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "N Advani",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "N Advani",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "R Cunningham",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 142
+      }
+    }
+  ]
+}

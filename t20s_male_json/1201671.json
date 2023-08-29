@@ -1,0 +1,2960 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-10-27",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Murcia",
+    "dates": [
+      "2019-10-26"
+    ],
+    "event": {
+      "name": "Iberia Cup",
+      "match_number": 4
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 976,
+    "missing": [
+      "player_of_match",
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Spain",
+      "by": {
+        "runs": 29
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Spain": [
+        "Farzan Afzal",
+        "PD Hennessy",
+        "Yasir Ali",
+        "C Munoz-Mills",
+        "R Panchal",
+        "Kuldeep Lal",
+        "Awais Ahmed",
+        "Tauqeer Hussain",
+        "Zulqarnain Haider",
+        "Atif Mehmood",
+        "NH Naureen"
+      ],
+      "Portugal": [
+        "Mian Mehmood",
+        "Imran Khan",
+        "Tariq Aziz",
+        "Aamer Ikram",
+        "Zohaib Sarwar",
+        "F Stoman",
+        "Najjam Shahzad",
+        "Fakhrul Mohon",
+        "S Singh",
+        "P Buccimazza",
+        "Ali Naqi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aamer Ikram": "161641cd",
+        "Ali Naqi": "7db29f25",
+        "Atif Mehmood": "7fcc57bf",
+        "Awais Ahmed": "f9f857dc",
+        "C Munoz-Mills": "17bc032c",
+        "F Stoman": "69e53eb3",
+        "Fakhrul Mohon": "33328ec7",
+        "Farzan Afzal": "6ebf4d4e",
+        "Imran Khan": "a0a32dd1",
+        "Kuldeep Lal": "8a1d0222",
+        "Mian Mehmood": "4a4991c1",
+        "NH Naureen": "ecbd4377",
+        "Najjam Shahzad": "58aa33cd",
+        "P Buccimazza": "ddc7e056",
+        "PD Hennessy": "a3b9191a",
+        "R Panchal": "91cd337c",
+        "S Singh": "321fcf79",
+        "Tariq Aziz": "a049c39b",
+        "Tauqeer Hussain": "84d0b84c",
+        "Yasir Ali": "79209272",
+        "Zohaib Sarwar": "bd3cecc6",
+        "Zulqarnain Haider": "2d46e8ed"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "Spain",
+      "Portugal"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Portugal"
+    },
+    "venue": "La Manga Club Bottom Ground"
+  },
+  "innings": [
+    {
+      "team": "Spain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Ali Naqi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Ali Naqi",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Ali Naqi",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Ali Naqi",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Ali Naqi",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Ali Naqi",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Ali Naqi",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Tariq Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Tariq Aziz",
+              "non_striker": "PD Hennessy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Hennessy",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PD Hennessy",
+                  "fielders": [
+                    {
+                      "name": "F Stoman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "P Buccimazza",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "P Buccimazza",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "P Buccimazza",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Farzan Afzal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Farzan Afzal",
+              "bowler": "P Buccimazza",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Farzan Afzal",
+                  "fielders": [
+                    {
+                      "name": "F Stoman"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "P Buccimazza",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "P Buccimazza",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "P Buccimazza",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Tariq Aziz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Tariq Aziz",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Tariq Aziz",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munoz-Mills",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "P Buccimazza",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Panchal",
+              "bowler": "Tariq Aziz",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Panchal",
+              "bowler": "Tariq Aziz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Tariq Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Tariq Aziz",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Tariq Aziz",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Tariq Aziz",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasir Ali",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Kuldeep Lal",
+              "bowler": "Tariq Aziz",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "R Panchal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Kuldeep Lal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Panchal",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Kuldeep Lal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kuldeep Lal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kuldeep Lal",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Panchal",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Kuldeep Lal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kuldeep Lal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kuldeep Lal",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Panchal",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Panchal",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Panchal",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Fakhrul Mohon",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Panchal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Panchal",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Panchal",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Tauqeer Hussain",
+              "bowler": "Fakhrul Mohon",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Tauqeer Hussain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Tauqeer Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tauqeer Hussain",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Tauqeer Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Tauqeer Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tauqeer Hussain",
+              "bowler": "Zohaib Sarwar",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Portugal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mian Mehmood",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mian Mehmood",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Tariq Aziz",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tariq Aziz",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tariq Aziz",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tariq Aziz",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Imran Khan",
+              "bowler": "R Panchal",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "R Panchal",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "R Panchal",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "R Panchal",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "R Panchal",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "R Panchal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Aamer Ikram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Aamer Ikram",
+              "bowler": "PD Hennessy",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aamer Ikram",
+                  "fielders": [
+                    {
+                      "name": "Awais Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zohaib Sarwar",
+              "bowler": "PD Hennessy",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zohaib Sarwar",
+              "bowler": "PD Hennessy",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zohaib Sarwar",
+              "bowler": "PD Hennessy",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zohaib Sarwar",
+                  "fielders": [
+                    {
+                      "name": "R Panchal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "F Stoman",
+              "bowler": "PD Hennessy",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "PD Hennessy",
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "F Stoman",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Stoman",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Stoman",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Stoman",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Tauqeer Hussain",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Imran Khan",
+              "bowler": "PD Hennessy",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "PD Hennessy",
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Stoman",
+              "bowler": "PD Hennessy",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "PD Hennessy",
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "PD Hennessy",
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "PD Hennessy",
+              "non_striker": "F Stoman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "F Stoman",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Stoman",
+                  "fielders": [
+                    {
+                      "name": "Yasir Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Yasir Ali",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Yasir Ali",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Yasir Ali",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Yasir Ali",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Yasir Ali",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "Yasir Ali",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Imran Khan",
+              "bowler": "NH Naureen",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imran Khan",
+                  "fielders": [
+                    {
+                      "name": "Tauqeer Hussain"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "Fakhrul Mohon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "Fakhrul Mohon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fakhrul Mohon",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "NH Naureen",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "NH Naureen",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "NH Naureen",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "NH Naureen",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Zulqarnain Haider",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Singh",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "NH Naureen",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Zulqarnain Haider",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Atif Mehmood",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Atif Mehmood",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Buccimazza",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Ali Naqi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "Tauqeer Hussain",
+              "non_striker": "Ali Naqi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Najjam Shahzad",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 144
+      }
+    }
+  ]
+}

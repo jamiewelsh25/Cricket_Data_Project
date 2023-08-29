@@ -1,0 +1,3014 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2016-03-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Delhi",
+    "dates": [
+      "2016-03-23"
+    ],
+    "event": {
+      "group": 1,
+      "match_number": 24,
+      "name": "World T20",
+      "stage": "Super 10"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 546,
+    "officials": {
+      "match_referees": [
+        "DC Boon"
+      ],
+      "reserve_umpires": [
+        "PR Reiffel"
+      ],
+      "tv_umpires": [
+        "CB Gaffaney"
+      ],
+      "umpires": [
+        "S Ravi",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 15
+      },
+      "winner": "England"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MM Ali"
+    ],
+    "players": {
+      "Afghanistan": [
+        "Mohammad Shahzad",
+        "Noor Ali Zadran",
+        "Asghar Stanikzai",
+        "Gulbadin Naib",
+        "Rashid Khan",
+        "Mohammad Nabi",
+        "Samiullah Shenwari",
+        "Najibullah Zadran",
+        "Shafiqullah",
+        "Amir Hamza",
+        "Shapoor Zadran"
+      ],
+      "England": [
+        "JJ Roy",
+        "JM Vince",
+        "JE Root",
+        "EJG Morgan",
+        "BA Stokes",
+        "JC Buttler",
+        "MM Ali",
+        "CJ Jordan",
+        "DJ Willey",
+        "AU Rashid",
+        "LE Plunkett"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AU Rashid": "249d60c9",
+        "Amir Hamza": "dca1ac2e",
+        "Asghar Stanikzai": "88679525",
+        "BA Stokes": "e087956b",
+        "CB Gaffaney": "d5ac41d8",
+        "CJ Jordan": "ffe699c0",
+        "DC Boon": "e79a1fe3",
+        "DJ Willey": "7f048519",
+        "EJG Morgan": "d2a6c0e6",
+        "Gulbadin Naib": "9f77963a",
+        "JC Buttler": "99b75528",
+        "JE Root": "a343262c",
+        "JJ Roy": "d1c36f5c",
+        "JM Vince": "a15618fe",
+        "LE Plunkett": "9a963804",
+        "MM Ali": "bb351c23",
+        "Mohammad Nabi": "62af8546",
+        "Mohammad Shahzad": "d6dcb0c9",
+        "Najibullah Zadran": "1212cbec",
+        "Noor Ali Zadran": "72e46d30",
+        "PR Reiffel": "c9354f29",
+        "RJ Tucker": "38810cfc",
+        "Rashid Khan": "5f547c8b",
+        "S Ravi": "9b9ee0df",
+        "Samiullah Shenwari": "61646132",
+        "Shafiqullah": "ba4d600a",
+        "Shapoor Zadran": "fccebff9"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "international",
+    "teams": [
+      "Afghanistan",
+      "England"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "England"
+    },
+    "venue": "Feroz Shah Kotla"
+  },
+  "innings": [
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "Amir Hamza",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "Amir Hamza",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JM Vince",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "Shapoor Zadran",
+              "extras": {
+                "legbyes": 3
+              },
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "Amir Hamza",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "JJ Roy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JM Vince",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "Amir Hamza",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "Amir Hamza",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "Amir Hamza",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Amir Hamza",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "JM Vince"
+                }
+              ]
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "EJG Morgan"
+                }
+              ]
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "JE Root",
+                  "fielders": [
+                    {
+                      "name": "Rashid Khan"
+                    },
+                    {
+                      "name": "Mohammad Nabi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JC Buttler",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nabi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "BA Stokes"
+                }
+              ]
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MM Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Samiullah Shenwari",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "CJ Jordan"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DJ Willey",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Rashid Khan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MM Ali",
+              "bowler": "Amir Hamza",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Amir Hamza",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Amir Hamza",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Amir Hamza",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Amir Hamza",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Amir Hamza",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Shapoor Zadran",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Willey",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "Shapoor Zadran",
+              "non_striker": "DJ Willey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Afghanistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Shahzad",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Mohammad Shahzad"
+                }
+              ]
+            },
+            {
+              "batter": "Asghar Stanikzai",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "non_striker": "Asghar Stanikzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asghar Stanikzai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "non_striker": "Asghar Stanikzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "CJ Jordan",
+              "non_striker": "Asghar Stanikzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "CJ Jordan",
+              "non_striker": "Asghar Stanikzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "CJ Jordan",
+              "non_striker": "Asghar Stanikzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asghar Stanikzai",
+              "bowler": "CJ Jordan",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asghar Stanikzai",
+              "bowler": "CJ Jordan",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asghar Stanikzai",
+              "bowler": "CJ Jordan",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Asghar Stanikzai",
+                  "fielders": [
+                    {
+                      "name": "JE Root"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "non_striker": "Gulbadin Naib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulbadin Naib",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Gulbadin Naib",
+                  "fielders": [
+                    {
+                      "name": "BA Stokes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "DJ Willey",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "DJ Willey",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "CJ Jordan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "CJ Jordan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "LE Plunkett",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "LE Plunkett",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Rashid Khan",
+              "bowler": "MM Ali",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "MM Ali",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "MM Ali",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "MM Ali",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "MM Ali",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Rashid Khan",
+                  "fielders": [
+                    {
+                      "name": "EJG Morgan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "MM Ali",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "AU Rashid",
+              "non_striker": "Noor Ali Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Ali Zadran",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Noor Ali Zadran"
+                }
+              ]
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "LE Plunkett",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "AU Rashid",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "AU Rashid",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "AU Rashid",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "AU Rashid",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "LE Plunkett",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "LE Plunkett",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "LE Plunkett",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "AU Rashid",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "AU Rashid",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mohammad Nabi",
+                  "fielders": [
+                    {
+                      "name": "CJ Jordan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "AU Rashid",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "MM Ali",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MM Ali",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MM Ali",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MM Ali",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "MM Ali",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MM Ali",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "BA Stokes",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "BA Stokes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "BA Stokes",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "BA Stokes",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "BA Stokes",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "BA Stokes",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "BA Stokes",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "CJ Jordan",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "CJ Jordan",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "CJ Jordan",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "CJ Jordan",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Najibullah Zadran",
+                  "fielders": [
+                    {
+                      "name": "CJ Jordan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shafiqullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "CJ Jordan",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "BA Stokes",
+              "non_striker": "Shafiqullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "BA Stokes",
+              "non_striker": "Shafiqullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "BA Stokes",
+              "non_striker": "Shafiqullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Samiullah Shenwari",
+                  "fielders": [
+                    {
+                      "name": "JE Root"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Amir Hamza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Amir Hamza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Amir Hamza",
+              "bowler": "DJ Willey",
+              "non_striker": "Shafiqullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "DJ Willey",
+              "non_striker": "Amir Hamza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "DJ Willey",
+              "non_striker": "Amir Hamza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "DJ Willey",
+              "non_striker": "Amir Hamza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "DJ Willey",
+              "non_striker": "Amir Hamza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Hamza",
+              "bowler": "DJ Willey",
+              "non_striker": "Shafiqullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shafiqullah",
+              "bowler": "CJ Jordan",
+              "non_striker": "Amir Hamza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Amir Hamza",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    },
+                    {
+                      "name": "CJ Jordan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafiqullah",
+              "bowler": "BA Stokes",
+              "non_striker": "Shapoor Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 143
+      }
+    }
+  ]
+}

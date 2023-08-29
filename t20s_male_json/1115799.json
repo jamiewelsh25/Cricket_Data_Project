@@ -1,0 +1,787 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-07-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mount Maunganui",
+    "dates": [
+      "2018-01-01"
+    ],
+    "event": {
+      "name": "West Indies tour of New Zealand",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 637,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "A Mehrotra"
+      ],
+      "tv_umpires": [
+        "WR Knights"
+      ],
+      "umpires": [
+        "CM Brown",
+        "SB Haig"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "New Zealand": [
+        "MJ Guptill",
+        "C Munro",
+        "KS Williamson",
+        "GD Phillips",
+        "TC Bruce",
+        "AK Kitchen",
+        "MJ Santner",
+        "DAJ Bracewell",
+        "TG Southee",
+        "IS Sodhi",
+        "SHA Rance"
+      ],
+      "West Indies": [
+        "CAK Walton",
+        "CH Gayle",
+        "ADS Fletcher",
+        "SD Hope",
+        "SO Hetmyer",
+        "CR Brathwaite",
+        "R Powell",
+        "AR Nurse",
+        "SS Cottrell",
+        "KOK Williams",
+        "S Badree"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mehrotra": "f336ff13",
+        "ADS Fletcher": "1bae756b",
+        "AJ Pycroft": "685d3f80",
+        "AK Kitchen": "63a1874a",
+        "AR Nurse": "4a745f65",
+        "C Munro": "af2c687b",
+        "CAK Walton": "bbff906c",
+        "CH Gayle": "db584dad",
+        "CM Brown": "448f4f1c",
+        "CR Brathwaite": "e342e5fb",
+        "DAJ Bracewell": "2e9fdf9b",
+        "GD Phillips": "9a46c4e5",
+        "IS Sodhi": "641ac5ff",
+        "KOK Williams": "78cb83f3",
+        "KS Williamson": "d027ba9f",
+        "MJ Guptill": "2be41edb",
+        "MJ Santner": "e4a0deae",
+        "R Powell": "650d5e49",
+        "S Badree": "76388dc8",
+        "SB Haig": "811655b3",
+        "SD Hope": "1fc6ef83",
+        "SHA Rance": "69c994e4",
+        "SO Hetmyer": "48a1d7b7",
+        "SS Cottrell": "a1d053dd",
+        "TC Bruce": "f92c9151",
+        "TG Southee": "13c35c9e",
+        "WR Knights": "63cbf8d8"
+      }
+    },
+    "season": "2017/18",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Bay Oval"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MJ Guptill",
+                  "fielders": [
+                    {
+                      "name": "CAK Walton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "S Badree",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "S Badree",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "SS Cottrell",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "SS Cottrell",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "SS Cottrell",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "SS Cottrell",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "S Badree",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "CR Brathwaite",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "CR Brathwaite",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "CR Brathwaite",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "CR Brathwaite",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "CR Brathwaite",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "CR Brathwaite",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "CR Brathwaite",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Munro",
+              "bowler": "KOK Williams",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "KOK Williams",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "KOK Williams",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "KOK Williams",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "KOK Williams",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munro",
+                  "fielders": [
+                    {
+                      "name": "R Powell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "KOK Williams",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "KOK Williams",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "AR Nurse",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "AR Nurse",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "AR Nurse",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "AR Nurse",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "AR Nurse",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "AR Nurse",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GD Phillips",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GD Phillips",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "S Badree",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "S Badree",
+              "non_striker": "TC Bruce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TC Bruce",
+              "bowler": "AR Nurse",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "AR Nurse",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "AR Nurse",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TC Bruce",
+                  "fielders": [
+                    {
+                      "name": "CR Brathwaite"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AK Kitchen",
+              "bowler": "AR Nurse",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "AR Nurse",
+              "non_striker": "AK Kitchen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "AR Nurse",
+              "non_striker": "AK Kitchen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

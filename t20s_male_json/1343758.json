@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-11-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-11-22"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 19
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1914,
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "John Mayeku"
+      ],
+      "umpires": [
+        "BM White",
+        "D Odhiambo"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Seychelles": [
+        "Mazharul Islam",
+        "TKP Rajapaksha",
+        "SKDT Madusanka",
+        "N Krishna",
+        "S Udhayan",
+        "VL Mukesh",
+        "STRA de Silva",
+        "P Abhijit",
+        "SR Rocket",
+        "T Shanmugam",
+        "S Rukmal"
+      ],
+      "Malawi": [
+        "MA Baig",
+        "C Chete",
+        "M Choamba",
+        "D Kansonkho",
+        "G Kansonkho",
+        "GM Ntambalika",
+        "B Pondani",
+        "Sami Sohail",
+        "B Masauko",
+        "D Jakiel",
+        "A Limdawala"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Limdawala": "2bcbcac3",
+        "B Masauko": "47c66d8a",
+        "B Pondani": "e5117568",
+        "BM White": "66c21d35",
+        "C Chete": "ef4f539a",
+        "D Jakiel": "8b7ce771",
+        "D Kansonkho": "45ca12a7",
+        "D Odhiambo": "45994517",
+        "G Kansonkho": "f3ca5af8",
+        "GM Ntambalika": "8c8a3f08",
+        "John Mayeku": "9d819a32",
+        "M Choamba": "5570c4c1",
+        "MA Baig": "89394502",
+        "Mazharul Islam": "30564b3e",
+        "N Krishna": "c62a0327",
+        "P Abhijit": "bc0083f7",
+        "S Rukmal": "f5be7b08",
+        "S Udhayan": "a8d6305d",
+        "S Wadvalla": "c1a1acf3",
+        "SKDT Madusanka": "95c2d309",
+        "SR Rocket": "ee3bfb9b",
+        "STRA de Silva": "21fe743b",
+        "Sami Sohail": "602ebd4c",
+        "T Shanmugam": "60fc2c8c",
+        "TKP Rajapaksha": "b5dcec37",
+        "VL Mukesh": "44744467"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Seychelles",
+      "Malawi"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malawi"
+    },
+    "venue": "Gahanga International Cricket Stadium. Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Seychelles",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "D Jakiel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "D Jakiel",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "B Pondani",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "B Pondani",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "B Pondani",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "B Pondani",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "D Jakiel",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "D Jakiel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "D Jakiel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "B Pondani",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "B Pondani",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "B Pondani",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Sami Sohail",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TKP Rajapaksha",
+                  "fielders": [
+                    {
+                      "name": "D Jakiel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "Sami Sohail",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Sami Sohail",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Sami Sohail",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Sami Sohail",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Sami Sohail",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

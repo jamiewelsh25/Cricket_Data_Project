@@ -1,0 +1,3016 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-07-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2018-07-03"
+    ],
+    "event": {
+      "name": "Zimbabwe Twenty20 Tri-Series",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 683,
+    "officials": {
+      "match_referees": [
+        "JJ Crowe"
+      ],
+      "reserve_umpires": [
+        "I Chabi"
+      ],
+      "tv_umpires": [
+        "RB Tiffin"
+      ],
+      "umpires": [
+        "TJ Matibiri",
+        "L Rusere"
+      ]
+    },
+    "outcome": {
+      "winner": "Australia",
+      "by": {
+        "runs": 100
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AJ Finch"
+    ],
+    "players": {
+      "Australia": [
+        "AJ Finch",
+        "DJM Short",
+        "GJ Maxwell",
+        "MP Stoinis",
+        "TM Head",
+        "NJ Maddinson",
+        "AT Carey",
+        "AC Agar",
+        "AJ Tye",
+        "JA Richardson",
+        "B Stanlake"
+      ],
+      "Zimbabwe": [
+        "CJ Chibhabha",
+        "SF Mire",
+        "H Masakadza",
+        "TK Musakanda",
+        "PJ Moor",
+        "E Chigumbura",
+        "RP Burl",
+        "TS Chisoro",
+        "CB Mpofu",
+        "B Muzarabani",
+        "J Nyumbu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Agar": "a2421394",
+        "AJ Finch": "b8d490fd",
+        "AJ Tye": "7c7d63a2",
+        "AT Carey": "69d03465",
+        "B Muzarabani": "449f4e3c",
+        "B Stanlake": "6834d1f2",
+        "CB Mpofu": "49691d7a",
+        "CJ Chibhabha": "f32dbc84",
+        "DJM Short": "1a156c88",
+        "E Chigumbura": "d2babdd5",
+        "GJ Maxwell": "b681e71e",
+        "H Masakadza": "31fbf891",
+        "I Chabi": "5e39110e",
+        "J Nyumbu": "024a173d",
+        "JA Richardson": "1ee08e9a",
+        "JJ Crowe": "2e760301",
+        "L Rusere": "6a4734ae",
+        "MP Stoinis": "d9273ee7",
+        "NJ Maddinson": "44afbf2d",
+        "PJ Moor": "a1d3540a",
+        "RB Tiffin": "89087a0d",
+        "RP Burl": "b08252b8",
+        "SF Mire": "3300d23c",
+        "TJ Matibiri": "4a3132b1",
+        "TK Musakanda": "9f9b903e",
+        "TM Head": "12b610c2",
+        "TS Chisoro": "4b2d6789"
+      }
+    },
+    "season": "2018",
+    "team_type": "international",
+    "teams": [
+      "Australia",
+      "Zimbabwe"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Zimbabwe"
+    },
+    "venue": "Harare Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "J Nyumbu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "J Nyumbu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "J Nyumbu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "J Nyumbu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "J Nyumbu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "CB Mpofu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "CB Mpofu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DJM Short",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Burl",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Burl",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Burl",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Burl",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CJ Chibhabha",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "TS Chisoro",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TS Chisoro",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DJM Short",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Burl",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Burl",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "J Nyumbu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "J Nyumbu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Nyumbu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DJM Short",
+              "bowler": "SF Mire",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SF Mire",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SF Mire",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SF Mire",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SF Mire",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SF Mire",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DJM Short",
+              "bowler": "CB Mpofu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DJM Short",
+              "bowler": "CB Mpofu",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "CB Mpofu",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "CB Mpofu",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "DJM Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJM Short",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJM Short",
+                  "fielders": [
+                    {
+                      "name": "PJ Moor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Finch",
+                  "kind": "hit wicket"
+                }
+              ]
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "B Muzarabani",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "B Muzarabani",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "B Stanlake",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "JA Richardson",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "JA Richardson",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "JA Richardson",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "JA Richardson",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "JA Richardson",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "JA Richardson",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "CJ Chibhabha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "JA Richardson",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "JA Richardson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "JA Richardson",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "JA Richardson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Chibhabha",
+              "bowler": "JA Richardson",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CJ Chibhabha",
+                  "fielders": [
+                    {
+                      "name": "AT Carey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "JA Richardson",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "JA Richardson",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "JA Richardson",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SF Mire",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "AC Agar",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "AC Agar",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "H Masakadza",
+              "bowler": "B Stanlake",
+              "non_striker": "SF Mire",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Mire",
+              "bowler": "B Stanlake",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SF Mire",
+                  "fielders": [
+                    {
+                      "name": "MP Stoinis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "B Stanlake",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "H Masakadza",
+              "bowler": "DJM Short",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "DJM Short",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "DJM Short",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TK Musakanda",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "AC Agar",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "AC Agar",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TK Musakanda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "PJ Moor",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "DJM Short",
+              "non_striker": "PJ Moor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "DJM Short",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "H Masakadza",
+              "bowler": "AC Agar",
+              "non_striker": "PJ Moor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "AC Agar",
+              "non_striker": "H Masakadza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Masakadza",
+              "bowler": "AC Agar",
+              "non_striker": "PJ Moor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Masakadza",
+                  "fielders": [
+                    {
+                      "name": "AT Carey"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AC Agar",
+              "non_striker": "PJ Moor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AC Agar",
+              "non_striker": "PJ Moor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "AC Agar",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AJ Tye",
+              "non_striker": "PJ Moor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AJ Tye",
+              "non_striker": "PJ Moor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "AJ Tye",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "AJ Tye",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Moor",
+              "bowler": "AJ Tye",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PJ Moor",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AJ Tye",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "E Chigumbura",
+              "bowler": "JA Richardson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Chigumbura",
+              "bowler": "JA Richardson",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "E Chigumbura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AJ Tye",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AJ Tye",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AJ Tye",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chigumbura",
+              "bowler": "AJ Tye",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Chigumbura",
+                  "fielders": [
+                    {
+                      "name": "DJM Short"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TS Chisoro",
+              "bowler": "AJ Tye",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TS Chisoro",
+              "bowler": "AJ Tye",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "GJ Maxwell",
+              "non_striker": "TS Chisoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TS Chisoro",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TS Chisoro",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TS Chisoro",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TS Chisoro",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TS Chisoro",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TS Chisoro",
+                  "fielders": [
+                    {
+                      "name": "AC Agar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AC Agar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AC Agar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AC Agar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AC Agar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AC Agar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AC Agar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "JA Richardson",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "JA Richardson",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JA Richardson",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "MP Stoinis",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "MP Stoinis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "MP Stoinis",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "MP Stoinis",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "MP Stoinis",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "MP Stoinis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "MP Stoinis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "MP Stoinis",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "MP Stoinis",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "AJ Tye",
+              "non_striker": "CB Mpofu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RP Burl",
+                  "fielders": [
+                    {
+                      "name": "JA Richardson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Mpofu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CB Mpofu",
+              "bowler": "MP Stoinis",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CB Mpofu",
+                  "fielders": [
+                    {
+                      "name": "DJM Short"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "MP Stoinis",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "MP Stoinis",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "MP Stoinis",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "MP Stoinis",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "MP Stoinis",
+              "non_striker": "J Nyumbu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Nyumbu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "AJ Tye",
+              "non_striker": "J Nyumbu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Nyumbu",
+              "bowler": "AJ Tye",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 230
+      }
+    }
+  ]
+}

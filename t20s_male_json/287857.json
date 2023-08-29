@@ -1,0 +1,2868 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-02-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Johannesburg",
+    "dates": [
+      "2007-09-13"
+    ],
+    "event": {
+      "group": "A",
+      "match_number": 5,
+      "name": "ICC World Twenty20"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 24,
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "KH Hurter"
+      ],
+      "tv_umpires": [
+        "DJ Harper"
+      ],
+      "umpires": [
+        "MR Benson",
+        "NJ Llong"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 6
+      },
+      "winner": "Bangladesh"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mohammad Ashraful"
+    ],
+    "players": {
+      "Bangladesh": [
+        "Tamim Iqbal",
+        "Nazimuddin",
+        "Aftab Ahmed",
+        "Mohammad Ashraful",
+        "Shakib Al Hasan",
+        "Alok Kapali",
+        "Farhad Reza",
+        "Mushfiqur Rahim",
+        "Mashrafe Mortaza",
+        "Syed Rasel",
+        "Abdur Razzak"
+      ],
+      "West Indies": [
+        "CH Gayle",
+        "DS Smith",
+        "S Chanderpaul",
+        "MN Samuels",
+        "RR Sarwan",
+        "D Ramdin",
+        "DR Smith",
+        "DJ Bravo",
+        "DBL Powell",
+        "R Rampaul",
+        "FH Edwards"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdur Razzak": "888e32bf",
+        "Aftab Ahmed": "53bc7b84",
+        "Alok Kapali": "54279e23",
+        "BC Broad": "d6a7dd38",
+        "CH Gayle": "db584dad",
+        "D Ramdin": "d1523761",
+        "DBL Powell": "83904270",
+        "DJ Bravo": "87e562a9",
+        "DJ Harper": "0ec08b27",
+        "DR Smith": "35205dfc",
+        "DS Smith": "85ad2217",
+        "FH Edwards": "a7c226e1",
+        "Farhad Reza": "4948a447",
+        "KH Hurter": "bda8cca8",
+        "MN Samuels": "f846de6a",
+        "MR Benson": "790e14d3",
+        "Mashrafe Mortaza": "e186f49c",
+        "Mohammad Ashraful": "2bb09eb2",
+        "Mushfiqur Rahim": "a94e08ea",
+        "NJ Llong": "573fb985",
+        "Nazimuddin": "4aef496b",
+        "R Rampaul": "d68e7f48",
+        "RR Sarwan": "36d33dd0",
+        "S Chanderpaul": "881a9bdd",
+        "Shakib Al Hasan": "7dc35884",
+        "Syed Rasel": "b743f01b",
+        "Tamim Iqbal": "3b041a12"
+      }
+    },
+    "season": "2007/08",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bangladesh"
+    },
+    "venue": "New Wanderers Stadium"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "Alok Kapali"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Syed Rasel",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Syed Rasel",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Farhad Reza",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Farhad Reza",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Farhad Reza",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Farhad Reza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Farhad Reza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Farhad Reza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Farhad Reza",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Farhad Reza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Farhad Reza",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Farhad Reza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Farhad Reza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Farhad Reza",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "S Chanderpaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chanderpaul",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Chanderpaul",
+                  "fielders": [
+                    {
+                      "name": "Mashrafe Mortaza"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Abdur Razzak",
+              "non_striker": "DS Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Smith",
+              "bowler": "Abdur Razzak",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DS Smith"
+                }
+              ]
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "Abdur Razzak",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "Abdur Razzak",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Abdur Razzak",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MN Samuels",
+                  "fielders": [
+                    {
+                      "name": "Shakib Al Hasan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RR Sarwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "D Ramdin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "D Ramdin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ramdin",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ramdin",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ramdin",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "D Ramdin",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DR Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "Mohammad Ashraful",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RR Sarwan",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "RR Sarwan",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "DJ Bravo",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DBL Powell",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DBL Powell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DBL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DR Smith"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Nazimuddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Nazimuddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazimuddin",
+              "bowler": "DBL Powell",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazimuddin",
+              "bowler": "DBL Powell",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazimuddin",
+              "bowler": "DBL Powell",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Nazimuddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Nazimuddin",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Nazimuddin",
+                  "fielders": [
+                    {
+                      "name": "RR Sarwan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "R Rampaul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Tamim Iqbal",
+                  "fielders": [
+                    {
+                      "name": "S Chanderpaul"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DBL Powell",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "DJ Bravo",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "DJ Bravo",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "DJ Bravo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "DJ Bravo",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DJ Bravo",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DJ Bravo",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "DJ Bravo",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "FH Edwards",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "FH Edwards",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "CH Gayle",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "CH Gayle",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "FH Edwards",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "FH Edwards",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "FH Edwards",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "RR Sarwan",
+              "non_striker": "Mohammad Ashraful",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ashraful",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mohammad Ashraful",
+                  "fielders": [
+                    {
+                      "name": "CH Gayle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "DJ Bravo",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DJ Bravo",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DJ Bravo",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "DJ Bravo",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "DJ Bravo",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "DJ Bravo",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shakib Al Hasan",
+                  "fielders": [
+                    {
+                      "name": "DBL Powell"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Alok Kapali",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alok Kapali",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alok Kapali",
+              "bowler": "RR Sarwan",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "RR Sarwan",
+              "non_striker": "Alok Kapali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Alok Kapali",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Alok Kapali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aftab Ahmed",
+              "bowler": "R Rampaul",
+              "non_striker": "Alok Kapali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alok Kapali",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alok Kapali",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alok Kapali",
+              "bowler": "R Rampaul",
+              "non_striker": "Aftab Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 165
+      }
+    }
+  ]
+}

@@ -1,0 +1,1450 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-07-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2019-07-24"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Asia Region Final",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 835,
+    "officials": {
+      "match_referees": [
+        "M Nayyar"
+      ],
+      "reserve_umpires": [
+        "BB Pradhan"
+      ],
+      "umpires": [
+        "V Kalidas",
+        "Tabarak Dar"
+      ]
+    },
+    "outcome": {
+      "winner": "Nepal",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "G Malla"
+    ],
+    "players": {
+      "Malaysia": [
+        "Anwar Arudin",
+        "Shafiq Sharif",
+        "Syed Aziz",
+        "Aminuddin Ramly",
+        "M Syahadat Ramli",
+        "Virandeep Singh",
+        "Ahmed Faiz",
+        "S Muniandy",
+        "Fitri Sham",
+        "Anwar Rahman",
+        "Pavandeep Singh"
+      ],
+      "Nepal": [
+        "PS Airee",
+        "G Malla",
+        "B Bhandari",
+        "DS Airee",
+        "S Vesawkar",
+        "Karan KC",
+        "S Lamichhane",
+        "B Regmi",
+        "A Bohara",
+        "Sompal Kami",
+        "RK Paudel"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bohara": "64fb6b15",
+        "Ahmed Faiz": "f6b4f746",
+        "Aminuddin Ramly": "8cae5b48",
+        "Anwar Arudin": "6d24561a",
+        "Anwar Rahman": "28adcce9",
+        "B Bhandari": "82342b13",
+        "B Regmi": "98d05440",
+        "BB Pradhan": "8603d942",
+        "DS Airee": "1747ea18",
+        "Fitri Sham": "d2ec068c",
+        "G Malla": "b2e1d224",
+        "Karan KC": "f53b3e1d",
+        "M Nayyar": "b7bccddb",
+        "M Syahadat Ramli": "5efa8af3",
+        "PS Airee": "cc18ba92",
+        "Pavandeep Singh": "78fcc740",
+        "RK Paudel": "1a3cc554",
+        "S Lamichhane": "b410bd3d",
+        "S Muniandy": "57fcfd3b",
+        "S Vesawkar": "3de06845",
+        "Shafiq Sharif": "033ac24e",
+        "Sompal Kami": "1adb8ee8",
+        "Syed Aziz": "6667067e",
+        "Tabarak Dar": "2259c12d",
+        "V Kalidas": "42d76418",
+        "Virandeep Singh": "415d30b6"
+      }
+    },
+    "season": "2019",
+    "team_type": "international",
+    "teams": [
+      "Malaysia",
+      "Nepal"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Nepal"
+    },
+    "venue": "Indian Association Ground"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Anwar Arudin",
+              "bowler": "Sompal Kami",
+              "non_striker": "Shafiq Sharif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Anwar Arudin",
+                  "fielders": [
+                    {
+                      "name": "A Bohara"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Shafiq Sharif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Shafiq Sharif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Shafiq Sharif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shafiq Sharif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafiq Sharif",
+              "bowler": "Sompal Kami",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Shafiq Sharif"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Lamichhane",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Lamichhane",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "S Lamichhane",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Lamichhane",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "S Lamichhane",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "S Lamichhane",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Sompal Kami",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "Sompal Kami",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Aminuddin Ramly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Lamichhane",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Lamichhane",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Lamichhane",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Syed Aziz",
+                  "fielders": [
+                    {
+                      "name": "DS Airee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "S Lamichhane",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "S Lamichhane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "S Lamichhane",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "S Lamichhane",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "Karan KC",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M Syahadat Ramli",
+                  "fielders": [
+                    {
+                      "name": "G Malla"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Karan KC",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "A Bohara",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "A Bohara",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "A Bohara",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "A Bohara",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "A Bohara",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "A Bohara",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Karan KC",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Karan KC",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Karan KC",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "B Regmi",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "B Regmi",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "B Regmi",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "B Regmi",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "B Regmi",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Virandeep Singh",
+                  "fielders": [
+                    {
+                      "name": "S Lamichhane"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "B Regmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "B Regmi",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Ahmed Faiz",
+                  "fielders": [
+                    {
+                      "name": "G Malla"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Muniandy",
+              "bowler": "A Bohara",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fitri Sham",
+              "bowler": "A Bohara",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "A Bohara",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fitri Sham",
+              "bowler": "A Bohara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "A Bohara",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "A Bohara",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PS Airee",
+              "bowler": "Syed Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Syed Aziz",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Syed Aziz",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Syed Aziz",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Syed Aziz",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Syed Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Syed Aziz",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Syed Aziz",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Syed Aziz",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Fitri Sham",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Fitri Sham",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Fitri Sham",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Fitri Sham",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Fitri Sham",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Fitri Sham",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "S Muniandy",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "S Muniandy",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "S Muniandy",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "S Muniandy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "S Muniandy",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "S Muniandy",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "S Muniandy",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PS Airee",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Anwar Rahman",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Anwar Rahman",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Anwar Rahman",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Anwar Rahman",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Anwar Rahman",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Anwar Rahman",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "G Malla",
+                  "fielders": [
+                    {
+                      "name": "Aminuddin Ramly"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bhandari",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PS Airee",
+                  "fielders": [
+                    {
+                      "name": "Pavandeep Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "B Bhandari",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "B Bhandari",
+              "bowler": "Anwar Rahman",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bhandari",
+              "bowler": "Anwar Rahman",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "Anwar Rahman",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bhandari",
+              "bowler": "Anwar Rahman",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Bhandari",
+              "bowler": "Anwar Rahman",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "Anwar Rahman",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DS Airee",
+              "bowler": "M Syahadat Ramli",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bhandari",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DS Airee",
+                  "fielders": [
+                    {
+                      "name": "Anwar Arudin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bhandari",
+              "bowler": "M Syahadat Ramli",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 9,
+        "runs": 84
+      }
+    }
+  ]
+}

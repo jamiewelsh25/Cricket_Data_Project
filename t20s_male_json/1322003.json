@@ -1,0 +1,1717 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-07-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2022-07-06"
+    ],
+    "event": {
+      "name": "Quadrangular Twenty20 Series (Malaysia)",
+      "match_number": 6
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1612,
+    "officials": {
+      "match_referees": [
+        "B Ramani"
+      ],
+      "reserve_umpires": [
+        "Rudy Ismandy"
+      ],
+      "umpires": [
+        "N Sivan",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Bhutan",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Ngawang Thinley"
+    ],
+    "players": {
+      "Thailand": [
+        "S Desungnoen",
+        "N Nuntarach",
+        "P Suanchuai",
+        "C Pengkumta",
+        "C Chatphaisan",
+        "Vichanath Singh",
+        "Y Saranonnakkun",
+        "K Senamontree",
+        "P Thongsa",
+        "J Pakhiaokajee",
+        "K Namchaikul"
+      ],
+      "Bhutan": [
+        "T Jamtsho",
+        "Namgay Thinley",
+        "S Loday",
+        "RM Dorji",
+        "N Chejay",
+        "S Pradhan",
+        "J Singye",
+        "Manoj Adhikari",
+        "GK Ghalley",
+        "Ngawang Thinley",
+        "S Yeshi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "B Ramani": "92ad5353",
+        "C Chatphaisan": "85c56be8",
+        "C Pengkumta": "b3540b2a",
+        "GK Ghalley": "2d1b6dee",
+        "J Pakhiaokajee": "44d623c9",
+        "J Singye": "28574428",
+        "K Namchaikul": "f4ccbe6f",
+        "K Senamontree": "e553e27f",
+        "Manoj Adhikari": "26529e00",
+        "N Chejay": "a9e63549",
+        "N Nuntarach": "9e3575ce",
+        "N Sivan": "8f4a0102",
+        "Namgay Thinley": "9c333e40",
+        "Ngawang Thinley": "cc62ec8a",
+        "P Suanchuai": "e6948355",
+        "P Thongsa": "62318525",
+        "RM Dorji": "3d7f02d4",
+        "Rudy Ismandy": "84682045",
+        "S Desungnoen": "3eb26dc4",
+        "S Loday": "448dab1a",
+        "S Pradhan": "04f0d409",
+        "S Yeshi": "0c24fb7b",
+        "T Jamtsho": "c01d1c0a",
+        "V Kalidas": "42d76418",
+        "Vichanath Singh": "dfa6db1a",
+        "Y Saranonnakkun": "9c93c0a3"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Thailand",
+      "Bhutan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bhutan"
+    },
+    "venue": "UKM-YSD Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "S Pradhan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nuntarach",
+              "bowler": "S Pradhan",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nuntarach",
+              "bowler": "S Pradhan",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "S Pradhan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Desungnoen",
+                  "fielders": [
+                    {
+                      "name": "Manoj Adhikari"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Pradhan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nuntarach",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "T Jamtsho",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "T Jamtsho",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "T Jamtsho",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nuntarach",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nuntarach",
+              "bowler": "T Jamtsho",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "T Jamtsho",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "T Jamtsho",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Nuntarach",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Nuntarach",
+                  "fielders": [
+                    {
+                      "name": "GK Ghalley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Pradhan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Pradhan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Pradhan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Namgay Thinley",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Pradhan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Pradhan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Pradhan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Pradhan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Pradhan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Namgay Thinley",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Namgay Thinley",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Namgay Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Namgay Thinley",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Yeshi",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Yeshi",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Yeshi",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Yeshi",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "S Yeshi",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Yeshi",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Suanchuai",
+                  "fielders": [
+                    {
+                      "name": "S Yeshi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Pengkumta",
+                  "fielders": [
+                    {
+                      "name": "T Jamtsho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vichanath Singh",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Vichanath Singh",
+              "bowler": "S Yeshi",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vichanath Singh",
+              "bowler": "S Yeshi",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "S Yeshi",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "S Yeshi",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "S Yeshi",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "S Yeshi",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Chatphaisan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vichanath Singh",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vichanath Singh",
+                  "fielders": [
+                    {
+                      "name": "Namgay Thinley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "K Senamontree",
+              "bowler": "J Singye",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "J Singye",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "K Senamontree",
+                  "fielders": [
+                    {
+                      "name": "RM Dorji"
+                    },
+                    {
+                      "name": "Manoj Adhikari"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "J Singye",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "J Singye",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "J Singye",
+              "non_striker": "P Thongsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "J Singye",
+              "non_striker": "P Thongsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Thongsa",
+                  "fielders": [
+                    {
+                      "name": "J Singye"
+                    },
+                    {
+                      "name": "Manoj Adhikari"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "J Pakhiaokajee",
+              "bowler": "J Singye",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bhutan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "C Pengkumta",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "C Pengkumta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "C Pengkumta",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "C Pengkumta",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "C Pengkumta",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "C Pengkumta",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "C Pengkumta",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Namgay Thinley",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "K Senamontree",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "K Senamontree",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "K Senamontree",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "K Senamontree",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Jamtsho",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "K Senamontree",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "K Senamontree",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "K Senamontree",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "K Senamontree",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Loday",
+              "bowler": "C Pengkumta",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "C Pengkumta",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Pengkumta",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "C Pengkumta",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Pengkumta",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Pengkumta",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Loday",
+              "bowler": "Vichanath Singh",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "Vichanath Singh",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "Vichanath Singh",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Vichanath Singh",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Vichanath Singh",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Vichanath Singh",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "S Desungnoen",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RM Dorji",
+                  "fielders": [
+                    {
+                      "name": "N Nuntarach"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "S Desungnoen",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "S Desungnoen",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Loday",
+              "bowler": "Vichanath Singh",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "Vichanath Singh",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "Vichanath Singh",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "Vichanath Singh",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "Vichanath Singh",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "Vichanath Singh",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "S Desungnoen",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "S Desungnoen",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Loday",
+              "bowler": "C Chatphaisan",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "C Chatphaisan",
+              "non_striker": "S Loday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Chatphaisan",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Chatphaisan",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Chatphaisan",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Chatphaisan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Loday",
+              "bowler": "C Chatphaisan",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Loday",
+                  "fielders": [
+                    {
+                      "name": "K Senamontree"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Pradhan",
+              "bowler": "K Senamontree",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "K Senamontree",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "K Senamontree",
+              "non_striker": "S Pradhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "K Senamontree",
+              "non_striker": "S Pradhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "K Senamontree",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "K Senamontree",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "N Chejay",
+              "bowler": "Vichanath Singh",
+              "non_striker": "S Pradhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chejay",
+              "bowler": "Vichanath Singh",
+              "non_striker": "S Pradhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "N Chejay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 11,
+        "runs": 50
+      }
+    }
+  ]
+}

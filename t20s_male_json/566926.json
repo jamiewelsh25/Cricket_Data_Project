@@ -1,0 +1,3024 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-06-28",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "London",
+    "dates": [
+      "2013-06-25"
+    ],
+    "event": {
+      "match_number": 1,
+      "name": "New Zealand in England T20I Series"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 317,
+    "officials": {
+      "match_referees": [
+        "J Srinath"
+      ],
+      "reserve_umpires": [
+        "MA Gough"
+      ],
+      "tv_umpires": [
+        "RT Robinson"
+      ],
+      "umpires": [
+        "RJ Bailey",
+        "RK Illingworth"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 5
+      },
+      "winner": "New Zealand"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "HD Rutherford"
+    ],
+    "players": {
+      "England": [
+        "MJ Lumb",
+        "AD Hales",
+        "LJ Wright",
+        "EJG Morgan",
+        "RS Bopara",
+        "JC Buttler",
+        "BA Stokes",
+        "CR Woakes",
+        "JC Tredwell",
+        "JW Dernbach",
+        "WB Rankin"
+      ],
+      "New Zealand": [
+        "HD Rutherford",
+        "JEC Franklin",
+        "BB McCullum",
+        "LRPL Taylor",
+        "TWM Latham",
+        "C Munro",
+        "IG Butler",
+        "NL McCullum",
+        "CJ Anderson",
+        "MJ McClenaghan",
+        "RM Hira"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Hales": "92aeac25",
+        "BA Stokes": "e087956b",
+        "BB McCullum": "b8a55852",
+        "C Munro": "af2c687b",
+        "CJ Anderson": "8abdf100",
+        "CR Woakes": "4c5d73db",
+        "EJG Morgan": "d2a6c0e6",
+        "HD Rutherford": "0605de92",
+        "IG Butler": "b68a30f0",
+        "J Srinath": "bad31fac",
+        "JC Buttler": "99b75528",
+        "JC Tredwell": "49b6c09f",
+        "JEC Franklin": "cf73ad76",
+        "JW Dernbach": "7be8a0ed",
+        "LJ Wright": "cca50cd6",
+        "LRPL Taylor": "b61a3e1a",
+        "MA Gough": "76752ac8",
+        "MJ Lumb": "11df3dc8",
+        "MJ McClenaghan": "51a3c5ef",
+        "NL McCullum": "5673a3fc",
+        "RJ Bailey": "6bd04fa5",
+        "RK Illingworth": "20672246",
+        "RM Hira": "2e966563",
+        "RS Bopara": "7ca5e05d",
+        "RT Robinson": "b143c87d",
+        "TWM Latham": "e824e6ee",
+        "WB Rankin": "29b89ae8"
+      }
+    },
+    "season": 2013,
+    "team_type": "international",
+    "teams": [
+      "England",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "England"
+    },
+    "venue": "Kennington Oval"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JEC Franklin",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HD Rutherford",
+              "bowler": "CR Woakes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "CR Woakes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "CR Woakes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "CR Woakes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "CR Woakes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CR Woakes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JW Dernbach",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JW Dernbach",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JW Dernbach",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "BA Stokes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "BA Stokes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JC Tredwell",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HD Rutherford",
+              "bowler": "RS Bopara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "RS Bopara",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "RS Bopara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "RS Bopara",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "RS Bopara",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "JC Tredwell",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JC Tredwell",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JC Tredwell",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "JC Tredwell",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "BA Stokes",
+              "non_striker": "HD Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "HD Rutherford",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HD Rutherford",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "HD Rutherford",
+                  "fielders": [
+                    {
+                      "name": "AD Hales"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "LJ Wright",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "WB Rankin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "WB Rankin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "LJ Wright",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "LJ Wright",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RS Bopara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RS Bopara",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RS Bopara",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "LJ Wright",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "LJ Wright",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "BB McCullum"
+                }
+              ]
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "LJ Wright",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "JW Dernbach",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "LJ Wright",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "LJ Wright",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "LJ Wright",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "BA Stokes",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "BA Stokes",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "BA Stokes",
+              "non_striker": "TWM Latham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BA Stokes",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BA Stokes",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "BA Stokes",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TWM Latham",
+              "bowler": "JW Dernbach",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TWM Latham",
+                  "fielders": [
+                    {
+                      "name": "RS Bopara"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "JW Dernbach",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MJ Lumb",
+              "bowler": "IG Butler",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "IG Butler",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "IG Butler",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "IG Butler",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "IG Butler",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "IG Butler",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJ McClenaghan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJ McClenaghan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "NL McCullum",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NL McCullum",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MJ Lumb"
+                }
+              ]
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "LJ Wright",
+              "bowler": "CJ Anderson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "CJ Anderson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "CJ Anderson",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "CJ Anderson",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "CJ Anderson",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "CJ Anderson",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "LJ Wright",
+              "bowler": "CJ Anderson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "CJ Anderson",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "CJ Anderson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "CJ Anderson",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "CJ Anderson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "CJ Anderson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "NL McCullum",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NL McCullum",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RM Hira",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AD Hales",
+                  "fielders": [
+                    {
+                      "name": "JEC Franklin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "RM Hira",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "EJG Morgan",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "EJG Morgan",
+              "bowler": "JEC Franklin",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "JEC Franklin",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "JEC Franklin",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "JEC Franklin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "JEC Franklin",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "JEC Franklin",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LJ Wright",
+              "bowler": "IG Butler",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "IG Butler",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "IG Butler",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "IG Butler",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "IG Butler",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "EJG Morgan",
+                  "fielders": [
+                    {
+                      "name": "LRPL Taylor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "IG Butler",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "MJ McClenaghan",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "LJ Wright",
+                  "fielders": [
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RS Bopara",
+              "bowler": "IG Butler",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "IG Butler",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "IG Butler",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "IG Butler",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "IG Butler",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "IG Butler",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "NL McCullum",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "NL McCullum",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "NL McCullum",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "NL McCullum",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "NL McCullum",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "NL McCullum",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "IG Butler",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "IG Butler",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "IG Butler",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "IG Butler",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "JC Buttler",
+                  "fielders": [
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "IG Butler",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "IG Butler",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "CJ Anderson",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CJ Anderson",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CJ Anderson",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "CJ Anderson",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "CJ Anderson",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 202
+      }
+    }
+  ]
+}

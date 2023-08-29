@@ -1,0 +1,2986 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-06-24",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Castel",
+    "dates": [
+      "2019-06-20"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Europe Region Final",
+      "match_number": 11
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 806,
+    "officials": {
+      "match_referees": [
+        "Wayne Noon"
+      ],
+      "reserve_umpires": [
+        "Adriaan van den Dries"
+      ],
+      "umpires": [
+        "Rizwan Akram",
+        "MV Waldron"
+      ]
+    },
+    "outcome": {
+      "winner": "Denmark",
+      "by": {
+        "runs": 30
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Zishan Shah"
+    ],
+    "players": {
+      "Denmark": [
+        "ND Laegsgaard",
+        "HAM Shah",
+        "Anique Uddin",
+        "Zishan Shah",
+        "Rizwan Mahmood",
+        "J Jojo",
+        "Delawar Khan",
+        "T Bharaj",
+        "OD Hald",
+        "Omar Hayat",
+        "Bashir Shah"
+      ],
+      "Italy": [
+        "BBJL Perera",
+        "Jaspreet Singh",
+        "NA Maiolo",
+        "Manpreet Singh",
+        "Rehman Abdul",
+        "GP Meade",
+        "MJ Ross",
+        "Simranjit Singh",
+        "Rakibul Hasan",
+        "Baljit Singh",
+        "GRD Munasinghe"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Adriaan van den Dries": "94b5ec3b",
+        "Anique Uddin": "1f41b702",
+        "BBJL Perera": "c8c9d60b",
+        "Baljit Singh": "39f0b039",
+        "Bashir Shah": "3b282e51",
+        "Delawar Khan": "28b99edd",
+        "GP Meade": "3957a70a",
+        "GRD Munasinghe": "eff8b730",
+        "HAM Shah": "007113d7",
+        "J Jojo": "d981a1de",
+        "Jaspreet Singh": "d76ab352",
+        "MJ Ross": "d1c7dd6d",
+        "MV Waldron": "2e4f11e9",
+        "Manpreet Singh": "e9d6a2ce",
+        "NA Maiolo": "362fde0f",
+        "ND Laegsgaard": "b0f2d3bd",
+        "OD Hald": "38189be1",
+        "Omar Hayat": "d35a520a",
+        "Rakibul Hasan": "b75b7b09",
+        "Rehman Abdul": "83fc78e8",
+        "Rizwan Akram": "b5346f1e",
+        "Rizwan Mahmood": "56e771ef",
+        "Simranjit Singh": "97e5d4bb",
+        "T Bharaj": "49556abb",
+        "Wayne Noon": "736e1761",
+        "Zishan Shah": "432bf4f5"
+      }
+    },
+    "season": "2019",
+    "team_type": "international",
+    "teams": [
+      "Denmark",
+      "Italy"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Denmark"
+    },
+    "venue": "King George V Sports Ground"
+  },
+  "innings": [
+    {
+      "team": "Denmark",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "GRD Munasinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "HAM Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "ND Laegsgaard",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ND Laegsgaard",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "ND Laegsgaard",
+                  "fielders": [
+                    {
+                      "name": "Manpreet Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Anique Uddin",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Anique Uddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anique Uddin",
+              "bowler": "Baljit Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Anique Uddin",
+                  "fielders": [
+                    {
+                      "name": "Manpreet Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "NA Maiolo",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "HAM Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "NA Maiolo",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HAM Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HAM Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "HAM Shah"
+                }
+              ]
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Rakibul Hasan",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "MJ Ross",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "MJ Ross",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Zishan Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "Rizwan Mahmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mahmood",
+              "bowler": "Baljit Singh",
+              "non_striker": "Zishan Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Rizwan Mahmood",
+                  "fielders": [
+                    {
+                      "name": "Rehman Abdul"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Zishan Shah",
+              "bowler": "Baljit Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Zishan Shah"
+                }
+              ]
+            },
+            {
+              "batter": "Delawar Khan",
+              "bowler": "Baljit Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Delawar Khan",
+              "bowler": "Baljit Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "J Jojo",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "Delawar Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Delawar Khan",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Delawar Khan",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Delawar Khan",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Delawar Khan",
+                  "fielders": [
+                    {
+                      "name": "Rehman Abdul"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "J Jojo",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "T Bharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bharaj",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Jojo",
+              "bowler": "Baljit Singh",
+              "non_striker": "T Bharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bharaj",
+              "bowler": "Baljit Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jojo",
+              "bowler": "Baljit Singh",
+              "non_striker": "T Bharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Bharaj",
+              "bowler": "Baljit Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "T Bharaj",
+                  "fielders": [
+                    {
+                      "name": "GP Meade"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "J Jojo",
+              "bowler": "Baljit Singh",
+              "non_striker": "OD Hald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OD Hald",
+              "bowler": "Baljit Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Jojo",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OD Hald",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Jojo",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OD Hald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OD Hald",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OD Hald",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OD Hald",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OD Hald",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Jojo",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "OD Hald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OD Hald",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "OD Hald",
+                  "fielders": [
+                    {
+                      "name": "Manpreet Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Omar Hayat",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Omar Hayat",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Omar Hayat",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Omar Hayat"
+                }
+              ]
+            },
+            {
+              "batter": "Bashir Shah",
+              "bowler": "GRD Munasinghe",
+              "non_striker": "J Jojo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Italy",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BBJL Perera",
+              "bowler": "OD Hald",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "OD Hald",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "OD Hald",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "OD Hald",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "OD Hald",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "OD Hald",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Jaspreet Singh",
+                  "fielders": [
+                    {
+                      "name": "Omar Hayat"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NA Maiolo",
+              "bowler": "OD Hald",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "OD Hald",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "OD Hald",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "OD Hald",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "OD Hald",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "OD Hald",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "BBJL Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BBJL Perera",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BBJL Perera",
+                  "fielders": [
+                    {
+                      "name": "OD Hald"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Delawar Khan",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Delawar Khan",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Delawar Khan",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Delawar Khan",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Delawar Khan",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Delawar Khan",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "J Jojo",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "J Jojo",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "J Jojo",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "J Jojo",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "J Jojo",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "J Jojo",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Bashir Shah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Bashir Shah",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Bashir Shah",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Bashir Shah",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Bashir Shah",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Bashir Shah",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Bashir Shah",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NA Maiolo",
+              "bowler": "J Jojo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "J Jojo",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Manpreet Singh"
+                }
+              ]
+            },
+            {
+              "batter": "Rehman Abdul",
+              "bowler": "J Jojo",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rehman Abdul",
+              "bowler": "J Jojo",
+              "non_striker": "NA Maiolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "J Jojo",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA Maiolo",
+              "bowler": "J Jojo",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NA Maiolo",
+              "bowler": "Bashir Shah",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "NA Maiolo"
+                }
+              ]
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rehman Abdul",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rehman Abdul",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GP Meade",
+              "bowler": "J Jojo",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Jojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Jojo",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Jojo",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Jojo",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rehman Abdul",
+              "bowler": "J Jojo",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rehman Abdul",
+              "bowler": "J Jojo",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "Rehman Abdul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rehman Abdul",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Rehman Abdul",
+                  "fielders": [
+                    {
+                      "name": "ND Laegsgaard"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MJ Ross",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "ND Laegsgaard",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MJ Ross",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Bashir Shah",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Bashir Shah",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MJ Ross",
+              "bowler": "Delawar Khan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Delawar Khan",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "GP Meade",
+                  "fielders": [
+                    {
+                      "name": "OD Hald"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Delawar Khan",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MJ Ross",
+              "bowler": "Omar Hayat",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "Omar Hayat",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Omar Hayat",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Omar Hayat",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "Omar Hayat",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Omar Hayat",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MJ Ross",
+              "bowler": "Delawar Khan",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "Delawar Khan",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "Delawar Khan",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "OD Hald",
+              "non_striker": "MJ Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "OD Hald",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Ross",
+              "bowler": "OD Hald",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MJ Ross",
+                  "fielders": [
+                    {
+                      "name": "ND Laegsgaard"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "OD Hald",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "OD Hald",
+              "non_striker": "Simranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Simranjit Singh",
+              "bowler": "OD Hald",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Simranjit Singh",
+                  "fielders": [
+                    {
+                      "name": "ND Laegsgaard"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Baljit Singh",
+              "bowler": "J Jojo",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "J Jojo",
+              "non_striker": "Baljit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Baljit Singh",
+              "bowler": "J Jojo",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Baljit Singh",
+              "bowler": "J Jojo",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Baljit Singh",
+              "bowler": "J Jojo",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Baljit Singh"
+                }
+              ]
+            },
+            {
+              "batter": "GRD Munasinghe",
+              "bowler": "J Jojo",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "OD Hald",
+              "non_striker": "GRD Munasinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rakibul Hasan",
+              "bowler": "OD Hald",
+              "non_striker": "GRD Munasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GRD Munasinghe",
+              "bowler": "OD Hald",
+              "non_striker": "Rakibul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "GRD Munasinghe"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 159
+      }
+    }
+  ]
+}

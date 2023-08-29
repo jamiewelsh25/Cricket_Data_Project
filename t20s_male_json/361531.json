@@ -1,0 +1,2836 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2012-12-30",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Belfast",
+    "dates": [
+      "2008-08-04"
+    ],
+    "event": {
+      "name": "ICC World Twenty20 Qualifier",
+      "stage": "Semi Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 65,
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "I Reid"
+      ],
+      "umpires": [
+        "NG Bagh",
+        "PK Baldwin"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 5
+      },
+      "winner": "Netherlands"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RN ten Doeschate"
+    ],
+    "players": {
+      "Netherlands": [
+        "DJ Reekers",
+        "ES Szwarczynski",
+        "TN de Grooth",
+        "Mudassar Bukhari",
+        "RN ten Doeschate",
+        "DLS van Bunge",
+        "PW Borren",
+        "HJC Mol",
+        "E Schiferli",
+        "J Smits",
+        "PM Seelaar"
+      ],
+      "Scotland": [
+        "RR Watson",
+        "KJ Coetzer",
+        "NS Poonia",
+        "CJO Smith",
+        "GM Hamilton",
+        "NFI McCallum",
+        "GD Drummond",
+        "RD Berrington",
+        "JAR Blain",
+        "RM Haq",
+        "JD Nel"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BC Broad": "d6a7dd38",
+        "CJO Smith": "c46e9e56",
+        "DJ Reekers": "d84a2d8e",
+        "DLS van Bunge": "3185266a",
+        "E Schiferli": "cefe0886",
+        "ES Szwarczynski": "6a7239a7",
+        "GD Drummond": "5b8fffb4",
+        "GM Hamilton": "8187519b",
+        "HJC Mol": "e33616eb",
+        "I Reid": "74cd02ea",
+        "J Smits": "7c681ee9",
+        "JAR Blain": "e662b18f",
+        "JD Nel": "7c7303eb",
+        "KJ Coetzer": "85d8110a",
+        "Mudassar Bukhari": "37312a74",
+        "NFI McCallum": "ef5cbaf6",
+        "NG Bagh": "6e98744c",
+        "NS Poonia": "e343abe9",
+        "PK Baldwin": "6bb53c12",
+        "PM Seelaar": "abbdca1a",
+        "PW Borren": "91052c96",
+        "RD Berrington": "e21bc7f3",
+        "RM Haq": "27159c6a",
+        "RN ten Doeschate": "4ec07775",
+        "RR Watson": "a670d624",
+        "TN de Grooth": "52980a48"
+      }
+    },
+    "season": 2008,
+    "team_type": "international",
+    "teams": [
+      "Netherlands",
+      "Scotland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Netherlands"
+    },
+    "venue": "Civil Service Cricket Club, Stormont"
+  },
+  "innings": [
+    {
+      "team": "Scotland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "E Schiferli",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "E Schiferli",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "PM Seelaar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Watson",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RR Watson",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "RR Watson"
+                }
+              ]
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "NS Poonia",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PW Borren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "NS Poonia",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "KJ Coetzer",
+                  "fielders": [
+                    {
+                      "name": "PW Borren"
+                    },
+                    {
+                      "name": "PM Seelaar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "PM Seelaar",
+              "non_striker": "CJO Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "NS Poonia",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "CJO Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "CJO Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJO Smith",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CJO Smith",
+                  "fielders": [
+                    {
+                      "name": "PM Seelaar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "NS Poonia",
+              "bowler": "E Schiferli",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "E Schiferli",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "E Schiferli",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "E Schiferli",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "E Schiferli",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "E Schiferli",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GM Hamilton",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NS Poonia",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Hamilton",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "GM Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GM Hamilton",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "GM Hamilton",
+                  "fielders": [
+                    {
+                      "name": "DJ Reekers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NS Poonia",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NFI McCallum",
+                  "fielders": [
+                    {
+                      "name": "E Schiferli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GD Drummond",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "NS Poonia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "NS Poonia",
+                  "fielders": [
+                    {
+                      "name": "E Schiferli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "GD Drummond",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "RN ten Doeschate",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GD Drummond",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "RN ten Doeschate",
+              "non_striker": "GD Drummond",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "GD Drummond",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Drummond",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GD Drummond",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Drummond",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "RD Berrington",
+                  "fielders": [
+                    {
+                      "name": "J Smits"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JAR Blain",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "GD Drummond",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "GD Drummond",
+                  "fielders": [
+                    {
+                      "name": "PW Borren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JAR Blain",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RM Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DJ Reekers",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "DJ Reekers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "DJ Reekers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Reekers",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "DJ Reekers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Reekers",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DJ Reekers",
+                  "fielders": [
+                    {
+                      "name": "NS Poonia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JD Nel",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JD Nel",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "TN de Grooth",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "GD Drummond",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "RD Berrington",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TN de Grooth",
+                  "fielders": [
+                    {
+                      "name": "CJO Smith"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mudassar Bukhari",
+                  "fielders": [
+                    {
+                      "name": "RR Watson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RD Berrington",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RD Berrington",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "JAR Blain",
+              "non_striker": "ES Szwarczynski",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ES Szwarczynski",
+              "bowler": "JAR Blain",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "ES Szwarczynski",
+                  "fielders": [
+                    {
+                      "name": "CJO Smith"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "JAR Blain",
+              "non_striker": "DLS van Bunge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "JD Nel",
+              "non_striker": "DLS van Bunge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DLS van Bunge",
+              "bowler": "JD Nel",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DLS van Bunge",
+              "bowler": "JD Nel",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DLS van Bunge",
+                  "fielders": [
+                    {
+                      "name": "RR Watson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "JD Nel",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "JD Nel",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "JD Nel",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 108
+      }
+    }
+  ]
+}

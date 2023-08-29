@@ -1,0 +1,2304 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-07-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Edinburgh",
+    "dates": [
+      "2023-07-24"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Europe Region Qualifier",
+      "match_number": 12
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2162,
+    "officials": {
+      "match_referees": [
+        "Phil Whitticase"
+      ],
+      "reserve_umpires": [
+        "DH Mclean"
+      ],
+      "umpires": [
+        "J Jensen",
+        "N Bathi"
+      ]
+    },
+    "outcome": {
+      "winner": "Ireland",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "BJ McCarthy"
+    ],
+    "players": {
+      "Jersey": [
+        "H Carlyon",
+        "J Sumerauer",
+        "NA Greenwood",
+        "JW Jenner",
+        "AM Tribe",
+        "B Ward",
+        "JAD Lawrenson",
+        "ZM Tribe",
+        "CW Perchard",
+        "RJG Palmer",
+        "EJB Miles"
+      ],
+      "Ireland": [
+        "A Balbirnie",
+        "PR Stirling",
+        "L Tucker",
+        "HT Tector",
+        "C Campher",
+        "GH Dockrell",
+        "NA Rock",
+        "MR Adair",
+        "BJ McCarthy",
+        "J Little",
+        "B White"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "AM Tribe": "86f84b37",
+        "B Ward": "9e0bd203",
+        "B White": "1a448be0",
+        "BJ McCarthy": "3766056b",
+        "C Campher": "478a63e7",
+        "CW Perchard": "9f998ed8",
+        "DH Mclean": "281d4749",
+        "EJB Miles": "6b46ce43",
+        "GH Dockrell": "99cddc5e",
+        "H Carlyon": "42bf1b7d",
+        "HT Tector": "59ea70a4",
+        "J Jensen": "fc80e7a2",
+        "J Little": "9061a703",
+        "J Sumerauer": "0b581ed6",
+        "JAD Lawrenson": "c810b349",
+        "JW Jenner": "32a8161e",
+        "L Tucker": "3979b5e0",
+        "MR Adair": "fc55ec67",
+        "N Bathi": "96a0edf9",
+        "NA Greenwood": "7ca68967",
+        "NA Rock": "43f4087c",
+        "PR Stirling": "cf494ffe",
+        "Phil Whitticase": "99d5f6fa",
+        "RJG Palmer": "bc6f8328",
+        "ZM Tribe": "96fe3e9f"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Jersey",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Ireland"
+    },
+    "venue": "Goldenacre, Edinburgh"
+  },
+  "innings": [
+    {
+      "team": "Jersey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "H Carlyon",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "MR Adair",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "MR Adair",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "MR Adair",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "MR Adair",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "MR Adair",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "MR Adair",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "H Carlyon",
+              "bowler": "J Little",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "J Little",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "J Little",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Sumerauer",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "NA Greenwood",
+              "bowler": "J Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Greenwood",
+              "bowler": "J Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Greenwood",
+              "bowler": "J Little",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NA Greenwood",
+                  "fielders": [
+                    {
+                      "name": "C Campher"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "J Little",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "J Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "J Little",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JW Jenner",
+              "bowler": "MR Adair",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "MR Adair",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "MR Adair",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "MR Adair",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "MR Adair",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "MR Adair",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Carlyon",
+                  "fielders": [
+                    {
+                      "name": "J Little"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JW Jenner",
+              "bowler": "J Little",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "J Little",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "J Little",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "J Little",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "J Little",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "J Little",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JW Jenner",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JW Jenner",
+                  "fielders": [
+                    {
+                      "name": "HT Tector"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "BJ McCarthy",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "BJ McCarthy",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "B Ward",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Ward",
+                  "fielders": [
+                    {
+                      "name": "A Balbirnie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "C Campher",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "C Campher",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "C Campher",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "B White",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "B White",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AM Tribe",
+              "bowler": "J Little",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "J Little",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "J Little",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "J Little",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "J Little",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "J Little",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AM Tribe",
+              "bowler": "B White",
+              "non_striker": "JAD Lawrenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAD Lawrenson",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JAD Lawrenson",
+                  "fielders": [
+                    {
+                      "name": "GH Dockrell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "B White",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "B White",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "B White",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "B White",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Tribe",
+                  "fielders": [
+                    {
+                      "name": "A Balbirnie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "B White",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "B White",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "B White",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "GH Dockrell",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "GH Dockrell",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "GH Dockrell",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "GH Dockrell",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "GH Dockrell",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZM Tribe",
+                  "fielders": [
+                    {
+                      "name": "PR Stirling"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CW Perchard",
+              "bowler": "B White",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "B White",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "B White",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "B White",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "B White",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "B White",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CW Perchard",
+              "bowler": "J Little",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "J Little",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "J Little",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "J Little",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "J Little",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "J Little",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RJG Palmer",
+              "bowler": "BJ McCarthy",
+              "non_striker": "CW Perchard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CW Perchard",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CW Perchard",
+                  "fielders": [
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "EJB Miles",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "BJ McCarthy",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Palmer",
+              "bowler": "BJ McCarthy",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RJG Palmer",
+              "bowler": "MR Adair",
+              "non_striker": "EJB Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "MR Adair",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "MR Adair",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "MR Adair",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "MR Adair",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJB Miles",
+              "bowler": "MR Adair",
+              "non_striker": "RJG Palmer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "CW Perchard",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "CW Perchard",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "CW Perchard",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "CW Perchard",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "CW Perchard",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "CW Perchard",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "J Sumerauer",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "RJG Palmer",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "RJG Palmer",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "RJG Palmer",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "RJG Palmer",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "RJG Palmer",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "RJG Palmer",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "CW Perchard",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "CW Perchard",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "CW Perchard",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "CW Perchard",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "CW Perchard",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "CW Perchard",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Balbirnie",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Balbirnie",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "EJB Miles",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "EJB Miles",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "EJB Miles",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "EJB Miles",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "EJB Miles",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "EJB Miles",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "B Ward",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "EJB Miles",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "EJB Miles",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "EJB Miles",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "EJB Miles",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "EJB Miles",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "EJB Miles",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "B Ward",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Ward",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 79
+      }
+    }
+  ]
+}

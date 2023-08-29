@@ -1,0 +1,776 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-11-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-11-24"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 21
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1916,
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "Patric Makumbi"
+      ],
+      "umpires": [
+        "BM White",
+        "Itangishaka Olivier"
+      ]
+    },
+    "outcome": {
+      "winner": "Malawi",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Sami Sohail"
+    ],
+    "players": {
+      "St Helena": [
+        "AR Leo",
+        "A Langham",
+        "A Yon",
+        "J Henry",
+        "R Francis",
+        "S Crowie",
+        "CR Richards",
+        "DL Richards",
+        "B Isaac",
+        "BK Stroud",
+        "G Johnson"
+      ],
+      "Malawi": [
+        "D Kansonkho",
+        "Sami Sohail",
+        "MA Baig",
+        "C Chete",
+        "M Choamba",
+        "G Kansonkho",
+        "GM Ntambalika",
+        "B Pondani",
+        "B Masauko",
+        "D Jakiel",
+        "A Limdawala"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Langham": "fe0b3bdf",
+        "A Limdawala": "2bcbcac3",
+        "A Yon": "99bf1fb7",
+        "AR Leo": "e13f8b16",
+        "B Isaac": "2c14421f",
+        "B Masauko": "47c66d8a",
+        "B Pondani": "e5117568",
+        "BK Stroud": "6577a6ad",
+        "BM White": "66c21d35",
+        "C Chete": "ef4f539a",
+        "CR Richards": "c10a581f",
+        "D Jakiel": "8b7ce771",
+        "D Kansonkho": "45ca12a7",
+        "DL Richards": "e613c509",
+        "G Johnson": "ceec82cd",
+        "G Kansonkho": "f3ca5af8",
+        "GM Ntambalika": "8c8a3f08",
+        "Itangishaka Olivier": "0ee3bb49",
+        "J Henry": "68e7e8d5",
+        "M Choamba": "5570c4c1",
+        "MA Baig": "89394502",
+        "Patric Makumbi": "e4c69c16",
+        "R Francis": "06b766f4",
+        "S Crowie": "4040951f",
+        "S Wadvalla": "c1a1acf3",
+        "Sami Sohail": "602ebd4c"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "St Helena",
+      "Malawi"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malawi"
+    },
+    "venue": "Gahanga International Cricket Stadium. Rwanda"
+  },
+  "innings": [
+    {
+      "team": "St Helena",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AR Leo",
+              "bowler": "D Jakiel",
+              "non_striker": "A Langham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Leo",
+                  "fielders": [
+                    {
+                      "name": "MA Baig"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "D Jakiel",
+              "non_striker": "A Langham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Langham",
+              "bowler": "D Jakiel",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Langham",
+              "bowler": "D Jakiel",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Langham",
+              "bowler": "D Jakiel",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Langham",
+              "bowler": "D Jakiel",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Langham",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Yon",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Yon",
+                  "fielders": [
+                    {
+                      "name": "M Choamba"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "Sami Sohail",
+              "non_striker": "R Francis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Francis",
+                  "fielders": [
+                    {
+                      "name": "B Pondani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Henry",
+              "bowler": "MA Baig",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "MA Baig",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Crowie",
+              "bowler": "MA Baig",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "MA Baig",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "MA Baig",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "MA Baig",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Crowie",
+              "bowler": "Sami Sohail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Crowie",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Crowie",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Henry",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Crowie",
+              "bowler": "D Jakiel",
+              "non_striker": "CR Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Crowie",
+              "bowler": "D Jakiel",
+              "non_striker": "CR Richards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Crowie",
+              "bowler": "D Jakiel",
+              "non_striker": "CR Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Crowie",
+              "bowler": "D Jakiel",
+              "non_striker": "CR Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CR Richards",
+                  "fielders": [
+                    {
+                      "name": "D Jakiel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Crowie",
+              "bowler": "D Jakiel",
+              "non_striker": "DL Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Richards",
+              "bowler": "D Jakiel",
+              "non_striker": "S Crowie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malawi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "G Johnson",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "G Johnson",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "G Johnson",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "G Johnson",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "G Johnson",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "G Johnson",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "BK Stroud",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "BK Stroud",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "BK Stroud",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "BK Stroud",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "BK Stroud",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "BK Stroud",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "A Yon",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "A Yon",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "A Yon",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "A Yon",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "A Yon",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "A Yon",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "J Henry",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "J Henry",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "J Henry",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "J Henry",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 38
+      }
+    }
+  ]
+}

@@ -1,0 +1,2492 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-11-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-11-25"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 27
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1922,
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "umpires": [
+        "BM White",
+        "John Mayeku"
+      ]
+    },
+    "outcome": {
+      "winner": "Kenya",
+      "by": {
+        "wickets": 7
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "P Koech"
+    ],
+    "players": {
+      "Seychelles": [
+        "Mazharul Islam",
+        "TKP Rajapaksha",
+        "SKDT Madusanka",
+        "STRA de Silva",
+        "VL Mukesh",
+        "S Udhayan",
+        "P Abhijit",
+        "SR Rocket",
+        "HL Harji",
+        "N Krishna",
+        "S Rukmal"
+      ],
+      "Kenya": [
+        "P Sharma",
+        "S Singh",
+        "Tanzeel Sheikh",
+        "IA Karim",
+        "RN Patel",
+        "RR Patel",
+        "Vraj Patel",
+        "EB Ringera",
+        "LN Oluoch",
+        "SO Ngoche",
+        "P Koech"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BM White": "66c21d35",
+        "D Odhiambo": "45994517",
+        "EB Ringera": "6cedad99",
+        "HL Harji": "29663fda",
+        "IA Karim": "ca92a578",
+        "John Mayeku": "9d819a32",
+        "LN Oluoch": "eb4f9c61",
+        "Mazharul Islam": "30564b3e",
+        "N Krishna": "c62a0327",
+        "P Abhijit": "bc0083f7",
+        "P Koech": "f4a0a615",
+        "P Sharma": "d047f983",
+        "RN Patel": "db1bf9c2",
+        "RR Patel": "7fa6bd8e",
+        "S Rukmal": "f5be7b08",
+        "S Singh": "612a395c",
+        "S Udhayan": "a8d6305d",
+        "S Wadvalla": "c1a1acf3",
+        "SKDT Madusanka": "95c2d309",
+        "SO Ngoche": "49118dc7",
+        "SR Rocket": "ee3bfb9b",
+        "STRA de Silva": "21fe743b",
+        "TKP Rajapaksha": "b5dcec37",
+        "Tanzeel Sheikh": "5493ad5c",
+        "VL Mukesh": "44744467",
+        "Vraj Patel": "2af28253"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Seychelles",
+      "Kenya"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Seychelles"
+    },
+    "venue": "Gahanga International Cricket Stadium. Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Seychelles",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "LN Oluoch",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "LN Oluoch",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "P Koech",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "P Koech",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "LN Oluoch",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TKP Rajapaksha",
+                  "fielders": [
+                    {
+                      "name": "RN Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "EB Ringera",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "EB Ringera",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "EB Ringera",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SKDT Madusanka",
+                  "fielders": [
+                    {
+                      "name": "Vraj Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "P Koech",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "EB Ringera",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Tanzeel Sheikh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Tanzeel Sheikh",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "Vraj Patel",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "STRA de Silva",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VL Mukesh",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VL Mukesh",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VL Mukesh",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "LN Oluoch",
+              "non_striker": "VL Mukesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VL Mukesh",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VL Mukesh",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "S Udhayan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Udhayan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Udhayan",
+                  "fielders": [
+                    {
+                      "name": "P Koech"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Abhijit",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Abhijit",
+                  "fielders": [
+                    {
+                      "name": "S Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SR Rocket",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SO Ngoche",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Rocket",
+              "bowler": "SO Ngoche",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "LN Oluoch",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Rocket",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "LN Oluoch",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Rocket",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Rocket",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Rocket",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "LN Oluoch",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mazharul Islam",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    },
+                    {
+                      "name": "LN Oluoch"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "HL Harji",
+              "bowler": "P Koech",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HL Harji",
+              "bowler": "P Koech",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HL Harji",
+              "bowler": "P Koech",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HL Harji",
+                  "fielders": [
+                    {
+                      "name": "RR Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Krishna",
+              "bowler": "P Koech",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Krishna",
+              "bowler": "P Koech",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Krishna",
+              "bowler": "P Koech",
+              "non_striker": "SR Rocket",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kenya",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "S Rukmal",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "S Rukmal",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "S Rukmal",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "S Rukmal",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SR Rocket",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "S Rukmal",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SR Rocket",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SR Rocket",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SR Rocket",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SR Rocket",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "HL Harji",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HL Harji",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HL Harji",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HL Harji",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HL Harji",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HL Harji",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Sharma",
+              "bowler": "N Krishna",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "N Krishna",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "N Krishna",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "N Krishna",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "N Krishna",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "N Krishna",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sharma",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Sharma",
+                  "fielders": [
+                    {
+                      "name": "S Udhayan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Tanzeel Sheikh",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzeel Sheikh",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanzeel Sheikh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Krishna",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Singh",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "N Krishna",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Krishna",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Krishna",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "N Krishna",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SKDT Madusanka",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "S Rukmal",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "S Rukmal",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "S Rukmal",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "S Rukmal",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "S Rukmal",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "S Rukmal",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Mazharul Islam",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Mazharul Islam",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Mazharul Islam",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Mazharul Islam",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Mazharul Islam",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 17,
+        "runs": 82
+      }
+    }
+  ]
+}

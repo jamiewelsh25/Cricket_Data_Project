@@ -1,0 +1,3004 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-10-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hobart",
+    "dates": [
+      "2022-10-19"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup",
+      "match_number": 8,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1834,
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "CM Brown"
+      ],
+      "tv_umpires": [
+        "HDPK Dharmasena"
+      ],
+      "umpires": [
+        "Aleem Dar",
+        "P Wilson"
+      ]
+    },
+    "outcome": {
+      "winner": "West Indies",
+      "by": {
+        "runs": 31
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AS Joseph"
+    ],
+    "players": {
+      "West Indies": [
+        "KR Mayers",
+        "J Charles",
+        "E Lewis",
+        "N Pooran",
+        "R Powell",
+        "SSJ Brooks",
+        "JO Holder",
+        "AJ Hosein",
+        "OF Smith",
+        "AS Joseph",
+        "OC McCoy"
+      ],
+      "Zimbabwe": [
+        "W Madhevere",
+        "RW Chakabva",
+        "T Munyonga",
+        "SC Williams",
+        "Sikandar Raza",
+        "M Shumba",
+        "RP Burl",
+        "LM Jongwe",
+        "R Ngarava",
+        "TL Chatara",
+        "B Muzarabani"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Hosein": "4d7f517e",
+        "AS Joseph": "b0946605",
+        "Aleem Dar": "f02778d1",
+        "B Muzarabani": "449f4e3c",
+        "BC Broad": "d6a7dd38",
+        "CM Brown": "448f4f1c",
+        "E Lewis": "0ebfb1ad",
+        "HDPK Dharmasena": "323e4c16",
+        "J Charles": "09a9d073",
+        "JO Holder": "0f721006",
+        "KR Mayers": "73c18486",
+        "LM Jongwe": "b8704508",
+        "M Shumba": "6766ca00",
+        "N Pooran": "3241e3fd",
+        "OC McCoy": "529eb9e0",
+        "OF Smith": "23cca426",
+        "P Wilson": "68304a36",
+        "R Ngarava": "6e3f5a5c",
+        "R Powell": "650d5e49",
+        "RP Burl": "b08252b8",
+        "RW Chakabva": "2f0d7e4a",
+        "SC Williams": "afe57f7a",
+        "SSJ Brooks": "977b841a",
+        "Sikandar Raza": "26d041c4",
+        "T Munyonga": "fbcfa528",
+        "TL Chatara": "5bbabe59",
+        "W Madhevere": "a879b92c"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "Zimbabwe"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "West Indies"
+    },
+    "venue": "Bellerive Oval, Hobart"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "R Ngarava",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "R Ngarava",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "R Ngarava",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TL Chatara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "TL Chatara",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "TL Chatara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "TL Chatara",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "R Ngarava",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "R Ngarava",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "R Ngarava",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KR Mayers",
+                  "fielders": [
+                    {
+                      "name": "RW Chakabva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Muzarabani",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "TL Chatara",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "TL Chatara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "TL Chatara",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Muzarabani",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Muzarabani",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Muzarabani",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "B Muzarabani",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RP Burl",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RP Burl",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "RP Burl",
+              "non_striker": "J Charles",
+              "review": {
+                "by": "Zimbabwe",
+                "umpire": "Aleem Dar",
+                "batter": "E Lewis",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RP Burl",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "RP Burl",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Lewis",
+                  "fielders": [
+                    {
+                      "name": "M Shumba"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "SC Williams",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "SC Williams",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Sikandar Raza",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "Sikandar Raza",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "SC Williams",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "SC Williams",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Charles",
+                  "fielders": [
+                    {
+                      "name": "T Munyonga"
+                    },
+                    {
+                      "name": "SC Williams"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SSJ Brooks",
+              "bowler": "Sikandar Raza",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSJ Brooks",
+              "bowler": "Sikandar Raza",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSJ Brooks",
+              "bowler": "Sikandar Raza",
+              "non_striker": "R Powell",
+              "review": {
+                "by": "West Indies",
+                "umpire": "P Wilson",
+                "batter": "SSJ Brooks",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SSJ Brooks",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Sikandar Raza",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Sikandar Raza",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Sikandar Raza",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JO Holder",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "SC Williams",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "SC Williams",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "SC Williams",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Powell",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "RP Burl",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "RP Burl",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "RP Burl",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "RP Burl",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "RP Burl",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "R Powell",
+              "bowler": "TL Chatara",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "TL Chatara",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "TL Chatara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AJ Hosein",
+              "review": {
+                "by": "Zimbabwe",
+                "umpire": "Aleem Dar",
+                "batter": "R Powell",
+                "decision": "struck down",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "TL Chatara",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "TL Chatara",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "TL Chatara",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Powell",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "B Muzarabani",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "B Muzarabani",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "B Muzarabani",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "B Muzarabani",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "B Muzarabani",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AJ Hosein",
+              "bowler": "R Ngarava",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "R Ngarava",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "R Ngarava",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "R Ngarava",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "R Ngarava",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "R Ngarava",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Powell",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Powell",
+                  "fielders": [
+                    {
+                      "name": "R Ngarava"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "B Muzarabani",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "KR Mayers",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "KR Mayers",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "KR Mayers",
+              "non_striker": "W Madhevere",
+              "review": {
+                "by": "West Indies",
+                "umpire": "Aleem Dar",
+                "batter": "RW Chakabva",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "KR Mayers",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "KR Mayers",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "KR Mayers",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "KR Mayers",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "AJ Hosein",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AJ Hosein",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "AJ Hosein",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "AJ Hosein",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AJ Hosein",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AJ Hosein",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AJ Hosein",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RW Chakabva",
+              "bowler": "AS Joseph",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "AS Joseph",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RW Chakabva",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "T Munyonga",
+              "bowler": "AS Joseph",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Munyonga",
+              "bowler": "AS Joseph",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AS Joseph",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AS Joseph",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Munyonga",
+              "bowler": "OC McCoy",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "OC McCoy",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "OC McCoy",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "OC McCoy",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Munyonga",
+              "bowler": "OC McCoy",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Munyonga",
+              "bowler": "OC McCoy",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "AS Joseph",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AS Joseph",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AS Joseph",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "AS Joseph",
+              "non_striker": "T Munyonga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Munyonga",
+              "bowler": "AS Joseph",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Munyonga",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SC Williams",
+              "bowler": "AS Joseph",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SC Williams",
+              "bowler": "OC McCoy",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SC Williams",
+                  "fielders": [
+                    {
+                      "name": "N Pooran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "OC McCoy",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "OC McCoy",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "OC McCoy",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "OC McCoy",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "OC McCoy",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JO Holder",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JO Holder",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JO Holder",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "JO Holder",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "JO Holder",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Madhevere",
+                  "fielders": [
+                    {
+                      "name": "E Lewis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "JO Holder",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sikandar Raza",
+                  "fielders": [
+                    {
+                      "name": "R Powell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "JO Holder",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "JO Holder",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "JO Holder",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JO Holder",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JO Holder",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JO Holder",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Shumba",
+              "bowler": "OF Smith",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "OF Smith",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "OF Smith",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OF Smith",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "AJ Hosein",
+              "non_striker": "M Shumba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shumba",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Shumba",
+                  "fielders": [
+                    {
+                      "name": "SSJ Brooks"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AJ Hosein",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AJ Hosein",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LM Jongwe",
+              "bowler": "OC McCoy",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OC McCoy",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OC McCoy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "OC McCoy",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OC McCoy",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "OC McCoy",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AJ Hosein",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LM Jongwe",
+              "bowler": "JO Holder",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "JO Holder",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "JO Holder",
+              "non_striker": "LM Jongwe",
+              "review": {
+                "by": "Zimbabwe",
+                "umpire": "P Wilson",
+                "batter": "RP Burl",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RP Burl",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "R Ngarava",
+              "bowler": "JO Holder",
+              "non_striker": "LM Jongwe",
+              "review": {
+                "by": "West Indies",
+                "umpire": "P Wilson",
+                "batter": "R Ngarava",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ngarava",
+              "bowler": "JO Holder",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "JO Holder",
+              "non_striker": "R Ngarava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "R Ngarava",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "R Ngarava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "R Ngarava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "R Ngarava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AJ Hosein",
+              "non_striker": "R Ngarava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ngarava",
+              "bowler": "AJ Hosein",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Ngarava",
+              "bowler": "AS Joseph",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ngarava",
+              "bowler": "AS Joseph",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ngarava",
+              "bowler": "AS Joseph",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ngarava",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "TL Chatara",
+              "bowler": "AS Joseph",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Chatara",
+              "bowler": "AS Joseph",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Chatara",
+              "bowler": "AS Joseph",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "TL Chatara",
+              "bowler": "OF Smith",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "OF Smith",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "OF Smith",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "OF Smith",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "OF Smith",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "OF Smith",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Chatara",
+              "bowler": "OF Smith",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "LM Jongwe",
+              "bowler": "AS Joseph",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LM Jongwe",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "AS Joseph",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "AS Joseph",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "AS Joseph",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "AS Joseph",
+              "non_striker": "TL Chatara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Chatara",
+              "bowler": "AS Joseph",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "TL Chatara",
+              "bowler": "JO Holder",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Chatara",
+              "bowler": "JO Holder",
+              "non_striker": "B Muzarabani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TL Chatara",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 154
+      }
+    }
+  ]
+}

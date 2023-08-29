@@ -1,0 +1,3089 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-02-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Southampton",
+    "dates": [
+      "2006-06-15"
+    ],
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 7,
+    "officials": {
+      "match_referees": [
+        "CH Lloyd"
+      ],
+      "tv_umpires": [
+        "PJ Hartley"
+      ],
+      "umpires": [
+        "IJ Gould",
+        "NJ Llong"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 2
+      },
+      "winner": "Sri Lanka"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "ST Jayasuriya"
+    ],
+    "players": {
+      "England": [
+        "ME Trescothick",
+        "AJ Strauss",
+        "KP Pietersen",
+        "PD Collingwood",
+        "JWM Dalrymple",
+        "GO Jones",
+        "TT Bresnan",
+        "EC Joyce",
+        "LE Plunkett",
+        "SI Mahmood",
+        "SJ Harmison"
+      ],
+      "Sri Lanka": [
+        "ST Jayasuriya",
+        "WU Tharanga",
+        "DPMD Jayawardene",
+        "TM Dilshan",
+        "KC Sangakkara",
+        "RP Arnold",
+        "CK Kapugedera",
+        "MF Maharoof",
+        "SL Malinga",
+        "CRD Fernando",
+        "PDRL Perera"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Strauss": "b68d14a9",
+        "CH Lloyd": "5b445db0",
+        "CK Kapugedera": "cfad138c",
+        "CRD Fernando": "342d8ade",
+        "DPMD Jayawardene": "d18f9182",
+        "EC Joyce": "a48fc79d",
+        "GO Jones": "2e929b99",
+        "IJ Gould": "a9dfdf6c",
+        "IR Bell": "33155d1b",
+        "JWM Dalrymple": "1afdbdbf",
+        "KC Sangakkara": "6b71e6cf",
+        "KP Pietersen": "39f01cdb",
+        "LE Plunkett": "9a963804",
+        "ME Trescothick": "ea42ddb9",
+        "MF Maharoof": "ab89348d",
+        "NJ Llong": "573fb985",
+        "PD Collingwood": "a386e91b",
+        "PDRL Perera": "f6b5d11a",
+        "PJ Hartley": "17c7ff26",
+        "RP Arnold": "cccdde80",
+        "SI Mahmood": "e97aefe2",
+        "SJ Harmison": "c16d2e28",
+        "SL Malinga": "a12e1d51",
+        "ST Jayasuriya": "f233bbb4",
+        "TM Dilshan": "5bdcdb72",
+        "TT Bresnan": "58043739",
+        "WU Tharanga": "7ed9fd56"
+      }
+    },
+    "season": 2006,
+    "team_type": "international",
+    "teams": [
+      "England",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Sri Lanka"
+    },
+    "venue": "The Rose Bowl"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TT Bresnan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TT Bresnan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TT Bresnan",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SJ Harmison",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SJ Harmison",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SJ Harmison",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SJ Harmison",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SJ Harmison",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SJ Harmison",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TT Bresnan",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TT Bresnan",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SJ Harmison",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SJ Harmison",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SJ Harmison",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SJ Harmison",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SJ Harmison",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SJ Harmison",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SJ Harmison",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SI Mahmood",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "LE Plunkett",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "LE Plunkett",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "LE Plunkett",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "LE Plunkett",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "LE Plunkett",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "LE Plunkett",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SI Mahmood",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SI Mahmood",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SI Mahmood",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "SI Mahmood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PD Collingwood",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "PD Collingwood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "PD Collingwood",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PD Collingwood",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "PD Collingwood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "WU Tharanga"
+                }
+              ]
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "PD Collingwood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "DPMD Jayawardene",
+                  "fielders": [
+                    {
+                      "name": "IR Bell",
+                      "substitute": true
+                    },
+                    {
+                      "name": "JWM Dalrymple"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PD Collingwood",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "PD Collingwood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "PD Collingwood",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PD Collingwood",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PD Collingwood",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "ST Jayasuriya"
+                }
+              ]
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PD Collingwood",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TM Dilshan",
+                  "fielders": [
+                    {
+                      "name": "GO Jones"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RP Arnold",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "RP Arnold",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "JWM Dalrymple",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RP Arnold",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Arnold",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "JWM Dalrymple",
+              "non_striker": "RP Arnold",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RP Arnold",
+              "bowler": "PD Collingwood",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Arnold",
+              "bowler": "PD Collingwood",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PD Collingwood",
+              "non_striker": "RP Arnold",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Arnold",
+              "bowler": "PD Collingwood",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RP Arnold",
+              "bowler": "PD Collingwood",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RP Arnold",
+              "bowler": "PD Collingwood",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Arnold",
+              "bowler": "PD Collingwood",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "RP Arnold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "SJ Harmison",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SJ Harmison",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PD Collingwood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PD Collingwood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "PD Collingwood",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PD Collingwood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PD Collingwood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "KC Sangakkara",
+                  "fielders": [
+                    {
+                      "name": "AJ Strauss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MF Maharoof",
+              "bowler": "PD Collingwood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MF Maharoof",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MF Maharoof",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MF Maharoof",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MF Maharoof",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SJ Harmison",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MF Maharoof",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SJ Harmison",
+              "non_striker": "MF Maharoof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MF Maharoof",
+              "bowler": "SJ Harmison",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MF Maharoof",
+              "bowler": "LE Plunkett",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "LE Plunkett",
+              "non_striker": "MF Maharoof",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "LE Plunkett",
+              "non_striker": "MF Maharoof",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "LE Plunkett",
+              "non_striker": "MF Maharoof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MF Maharoof",
+              "bowler": "LE Plunkett",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "MF Maharoof",
+                  "fielders": [
+                    {
+                      "name": "IR Bell",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "LE Plunkett",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SI Mahmood",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SI Mahmood",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "SI Mahmood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "SI Mahmood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "SI Mahmood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SI Mahmood",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SL Malinga",
+              "bowler": "LE Plunkett",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "LE Plunkett",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "LE Plunkett",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "LE Plunkett",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "LE Plunkett",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "LE Plunkett",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SI Mahmood",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "SI Mahmood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "SI Mahmood",
+              "non_striker": "CK Kapugedera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SI Mahmood",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Kapugedera",
+              "bowler": "SI Mahmood",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CK Kapugedera",
+                  "fielders": [
+                    {
+                      "name": "KP Pietersen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "SI Mahmood",
+              "non_striker": "CRD Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "SI Mahmood",
+              "non_striker": "CRD Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CRD Fernando",
+              "bowler": "LE Plunkett",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CRD Fernando",
+              "bowler": "LE Plunkett",
+              "non_striker": "SL Malinga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "LE Plunkett",
+              "non_striker": "CRD Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Malinga",
+              "bowler": "LE Plunkett",
+              "non_striker": "CRD Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SL Malinga",
+                  "fielders": [
+                    {
+                      "name": "IR Bell",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CRD Fernando",
+              "bowler": "LE Plunkett",
+              "non_striker": "PDRL Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CRD Fernando",
+              "bowler": "LE Plunkett",
+              "non_striker": "PDRL Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "CRD Fernando",
+                  "fielders": [
+                    {
+                      "name": "GO Jones"
+                    },
+                    {
+                      "name": "LE Plunkett"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Strauss",
+              "bowler": "SL Malinga",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "SL Malinga",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "SL Malinga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "SL Malinga",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "SL Malinga",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "SL Malinga",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "SL Malinga",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "PDRL Perera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "PDRL Perera",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AJ Strauss",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "AJ Strauss",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Strauss",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "AJ Strauss"
+                }
+              ]
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KP Pietersen",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "CRD Fernando",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "CRD Fernando",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KP Pietersen",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KP Pietersen",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "KP Pietersen",
+                  "fielders": [
+                    {
+                      "name": "SL Malinga"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "PD Collingwood",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "MF Maharoof",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "MF Maharoof",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "PD Collingwood",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "PD Collingwood",
+              "bowler": "TM Dilshan",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "TM Dilshan",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "TM Dilshan",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PD Collingwood",
+                  "fielders": [
+                    {
+                      "name": "DPMD Jayawardene"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JWM Dalrymple",
+              "bowler": "TM Dilshan",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "TM Dilshan",
+              "non_striker": "JWM Dalrymple",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "TM Dilshan",
+              "non_striker": "JWM Dalrymple",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JWM Dalrymple",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JWM Dalrymple",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "TM Dilshan",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "TM Dilshan",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "TM Dilshan",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "TM Dilshan",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "TM Dilshan",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "TM Dilshan",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "SL Malinga",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "SL Malinga",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GO Jones",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "ME Trescothick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Trescothick",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "ME Trescothick",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "ST Jayasuriya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CRD Fernando",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "CRD Fernando",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CRD Fernando",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CRD Fernando",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GO Jones",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CRD Fernando",
+              "non_striker": "GO Jones",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 164
+      }
+    }
+  ]
+}

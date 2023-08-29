@@ -1,0 +1,2806 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-10-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Geelong",
+    "dates": [
+      "2022-10-18"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup",
+      "match_number": 6,
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1832,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "RA Kettleborough"
+      ],
+      "tv_umpires": [
+        "JS Wilson"
+      ],
+      "umpires": [
+        "M Erasmus",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "winner": "Sri Lanka",
+      "by": {
+        "runs": 79
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "P Nissanka"
+    ],
+    "players": {
+      "Sri Lanka": [
+        "P Nissanka",
+        "BKG Mendis",
+        "DM de Silva",
+        "PBB Rajapaksa",
+        "KIC Asalanka",
+        "MD Shanaka",
+        "PWH de Silva",
+        "C Karunaratne",
+        "PM Liyanagamage",
+        "PVD Chameera",
+        "M Theekshana"
+      ],
+      "United Arab Emirates": [
+        "Waseem Muhammad",
+        "Chirag Suri",
+        "Aryan Lakra",
+        "CP Rizwan",
+        "V Aravind",
+        "Basil Hameed",
+        "Aayan Afzal Khan",
+        "Kashif Daud",
+        "KP Meiyappan",
+        "Junaid Siddique",
+        "Zahoor Khan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Pycroft": "685d3f80",
+        "Aayan Afzal Khan": "d2d15439",
+        "Aryan Lakra": "099135ad",
+        "BKG Mendis": "5d1e7582",
+        "Basil Hameed": "adbf0400",
+        "C Karunaratne": "fb3e0d39",
+        "CP Rizwan": "e5309baa",
+        "Chirag Suri": "6176f240",
+        "DM de Silva": "7d608e12",
+        "JS Wilson": "d7f3b72f",
+        "Junaid Siddique": "84dc72db",
+        "KIC Asalanka": "732c038e",
+        "KP Meiyappan": "b91f2a31",
+        "Kashif Daud": "24fcd95d",
+        "M Erasmus": "15d3c895",
+        "M Theekshana": "f24c6701",
+        "MD Shanaka": "3ff033bb",
+        "P Nissanka": "8ee36b18",
+        "PBB Rajapaksa": "6c882e9a",
+        "PM Liyanagamage": "3ee0050f",
+        "PVD Chameera": "327b58d3",
+        "PWH de Silva": "a97c8ec2",
+        "RA Kettleborough": "4017868f",
+        "RJ Tucker": "38810cfc",
+        "V Aravind": "cddafe26",
+        "Waseem Muhammad": "6f02fe2a",
+        "Zahoor Khan": "f0e293b0"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Sri Lanka",
+      "United Arab Emirates"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "United Arab Emirates"
+    },
+    "venue": "GMHBA Stadium, South Geelong, Victoria"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Kashif Daud",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Kashif Daud",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Kashif Daud",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Kashif Daud",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Kashif Daud",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Kashif Daud",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKG Mendis",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Basil Hameed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Basil Hameed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Basil Hameed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Basil Hameed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Basil Hameed",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Basil Hameed",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM de Silva",
+              "bowler": "Aryan Lakra",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aryan Lakra",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DM de Silva",
+                  "fielders": [
+                    {
+                      "name": "Waseem Muhammad"
+                    },
+                    {
+                      "name": "Aayan Afzal Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PBB Rajapaksa",
+                  "fielders": [
+                    {
+                      "name": "Kashif Daud"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KIC Asalanka",
+                  "fielders": [
+                    {
+                      "name": "V Aravind"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Shanaka",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PWH de Silva",
+                  "fielders": [
+                    {
+                      "name": "Basil Hameed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "C Karunaratne",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "KP Meiyappan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "KP Meiyappan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Junaid Siddique",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "Junaid Siddique",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "C Karunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Karunaratne",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Karunaratne",
+                  "fielders": [
+                    {
+                      "name": "Kashif Daud"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PM Liyanagamage",
+              "bowler": "Zahoor Khan",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PM Liyanagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Nissanka",
+                  "fielders": [
+                    {
+                      "name": "Basil Hameed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PVD Chameera",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PM Liyanagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "M Theekshana",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "M Theekshana",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "M Theekshana",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "M Theekshana",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "M Theekshana",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "M Theekshana",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waseem Muhammad",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Aryan Lakra",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PVD Chameera",
+              "non_striker": "Aryan Lakra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aryan Lakra",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aryan Lakra",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aryan Lakra",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "CP Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CP Rizwan",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "CP Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "CP Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "CP Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "CP Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CP Rizwan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CP Rizwan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CP Rizwan",
+                  "fielders": [
+                    {
+                      "name": "PBB Rajapaksa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PVD Chameera",
+              "non_striker": "Chirag Suri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chirag Suri",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Chirag Suri",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Basil Hameed",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Basil Hameed",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Basil Hameed",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "V Aravind",
+              "bowler": "C Karunaratne",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "C Karunaratne",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "C Karunaratne",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "C Karunaratne",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "C Karunaratne",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Basil Hameed",
+              "bowler": "C Karunaratne",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Basil Hameed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Basil Hameed",
+              "bowler": "MD Shanaka",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Basil Hameed",
+              "bowler": "MD Shanaka",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Basil Hameed",
+                  "fielders": [
+                    {
+                      "name": "DM de Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "MD Shanaka",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "MD Shanaka",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "MD Shanaka",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "MD Shanaka",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PWH de Silva",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PWH de Silva",
+              "non_striker": "V Aravind",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Aravind",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "RJ Tucker",
+                "batter": "V Aravind",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Aravind",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Kashif Daud",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Kashif Daud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Kashif Daud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Kashif Daud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PVD Chameera",
+              "non_striker": "Kashif Daud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashif Daud",
+              "bowler": "PVD Chameera",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kashif Daud",
+              "bowler": "PVD Chameera",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Kashif Daud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Kashif Daud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashif Daud",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kashif Daud",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "C Karunaratne",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "C Karunaratne",
+              "non_striker": "KP Meiyappan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "C Karunaratne",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "C Karunaratne",
+              "non_striker": "KP Meiyappan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "C Karunaratne",
+              "non_striker": "KP Meiyappan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "C Karunaratne",
+              "non_striker": "KP Meiyappan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "M Theekshana",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "M Theekshana",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "M Theekshana",
+              "non_striker": "KP Meiyappan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "M Theekshana",
+              "non_striker": "KP Meiyappan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Meiyappan",
+              "bowler": "M Theekshana",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KP Meiyappan",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "M Theekshana",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Junaid Siddique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Junaid Siddique",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PWH de Silva",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aayan Afzal Khan",
+              "bowler": "PWH de Silva",
+              "non_striker": "Junaid Siddique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aayan Afzal Khan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "M Theekshana",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahoor Khan",
+              "bowler": "M Theekshana",
+              "non_striker": "Junaid Siddique",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "M Theekshana",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "M Theekshana",
+              "non_striker": "Zahoor Khan",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "RJ Tucker",
+                "batter": "Junaid Siddique",
+                "decision": "struck down",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "M Theekshana",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "M Theekshana",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PVD Chameera",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PVD Chameera",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PVD Chameera",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PVD Chameera",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "PVD Chameera",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "MD Shanaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zahoor Khan",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "MD Shanaka",
+                    "out": "PVD Chameera",
+                    "reason": "injury",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "MD Shanaka",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "M Theekshana",
+              "non_striker": "Zahoor Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Junaid Siddique",
+                  "fielders": [
+                    {
+                      "name": "P Nissanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 153
+      }
+    }
+  ]
+}

@@ -1,0 +1,3140 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2010-03-28",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Christchurch",
+    "dates": [
+      "2010-02-28"
+    ],
+    "event": {
+      "match_number": 2,
+      "name": "Australia in New Zealand T20I Series"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 149,
+    "officials": {
+      "match_referees": [
+        "RS Madugalle"
+      ],
+      "reserve_umpires": [
+        "EA Watkin"
+      ],
+      "tv_umpires": [
+        "GAV Baxter"
+      ],
+      "umpires": [
+        "CB Gaffaney",
+        "AL Hill"
+      ]
+    },
+    "outcome": {
+      "eliminator": "New Zealand",
+      "result": "tie"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "BB McCullum"
+    ],
+    "players": {
+      "Australia": [
+        "DA Warner",
+        "BJ Haddin",
+        "MJ Clarke",
+        "DJ Hussey",
+        "CL White",
+        "TR Birt",
+        "SPD Smith",
+        "DT Christian",
+        "RJ Harris",
+        "SW Tait",
+        "DP Nannes"
+      ],
+      "New Zealand": [
+        "BB McCullum",
+        "PJ Ingram",
+        "MJ Guptill",
+        "LRPL Taylor",
+        "JEC Franklin",
+        "GJ Hopkins",
+        "JDP Oram",
+        "NL McCullum",
+        "DL Vettori",
+        "SE Bond",
+        "TG Southee"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AL Hill": "4165ced0",
+        "BB McCullum": "b8a55852",
+        "BJ Haddin": "b0c772ee",
+        "CB Gaffaney": "d5ac41d8",
+        "CL White": "d0513f63",
+        "DA Warner": "dcce6f09",
+        "DJ Hussey": "fd835ab3",
+        "DL Vettori": "d7c6af50",
+        "DP Nannes": "c404f58a",
+        "DT Christian": "2a2e6343",
+        "EA Watkin": "147afe9d",
+        "GAV Baxter": "cb4b3ab0",
+        "GJ Hopkins": "4d3097d8",
+        "JDP Oram": "3eac9d95",
+        "JEC Franklin": "cf73ad76",
+        "LRPL Taylor": "b61a3e1a",
+        "MJ Clarke": "f842c2cf",
+        "MJ Guptill": "2be41edb",
+        "NL McCullum": "5673a3fc",
+        "PJ Ingram": "5bd3bb5d",
+        "RJ Harris": "12eddf28",
+        "RS Madugalle": "766b5798",
+        "SE Bond": "4f629497",
+        "SPD Smith": "30a45b23",
+        "SW Tait": "addfb70e",
+        "TG Southee": "13c35c9e",
+        "TR Birt": "d2d4bb0a"
+      }
+    },
+    "season": "2009/10",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "New Zealand"
+    },
+    "venue": "AMI Stadium"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "PJ Ingram",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "PJ Ingram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "PJ Ingram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "PJ Ingram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Ingram",
+              "bowler": "SW Tait",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Ingram",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Ingram",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "PJ Ingram"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "DP Nannes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "DP Nannes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "DP Nannes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "DP Nannes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MJ Guptill",
+                  "fielders": [
+                    {
+                      "name": "SPD Smith"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "SPD Smith",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SPD Smith",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "LRPL Taylor",
+                  "fielders": [
+                    {
+                      "name": "CL White"
+                    },
+                    {
+                      "name": "BJ Haddin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Hussey",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JEC Franklin",
+                  "fielders": [
+                    {
+                      "name": "MJ Clarke"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SPD Smith",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DT Christian",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DT Christian",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DT Christian",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DT Christian",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DT Christian",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DT Christian",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SPD Smith",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SPD Smith",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "SPD Smith",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SPD Smith",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SPD Smith",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DT Christian",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DT Christian",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DT Christian",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DT Christian",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DT Christian",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DT Christian",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "GJ Hopkins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DP Nannes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Hopkins",
+              "bowler": "DP Nannes",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "hit wicket",
+                  "player_out": "GJ Hopkins"
+                }
+              ]
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "DP Nannes",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DP Nannes",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "JDP Oram"
+                }
+              ]
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NL McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RJ Harris",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "SW Tait",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "SW Tait",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "SW Tait",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "NL McCullum",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Hussey",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "DJ Hussey",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DA Warner",
+              "bowler": "SE Bond",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "SE Bond",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TG Southee",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DA Warner",
+              "bowler": "SE Bond",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "SE Bond",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "SE Bond",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DA Warner",
+                  "fielders": [
+                    {
+                      "name": "TG Southee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "SE Bond",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "SE Bond",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JDP Oram",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BJ Haddin",
+                  "fielders": [
+                    {
+                      "name": "PJ Ingram"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JEC Franklin",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "JEC Franklin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JEC Franklin",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JEC Franklin",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "NL McCullum",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "NL McCullum",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "NL McCullum",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "NL McCullum",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "NL McCullum",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "NL McCullum",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JEC Franklin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DJ Hussey"
+                }
+              ]
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CL White",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "DL Vettori",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "DL Vettori",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JEC Franklin",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JEC Franklin",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JEC Franklin",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "SE Bond",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "SE Bond",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "SE Bond",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "SE Bond",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CL White",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "JDP Oram",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JDP Oram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JDP Oram",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "MJ Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Clarke",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "MJ Clarke",
+                  "fielders": [
+                    {
+                      "name": "NL McCullum"
+                    },
+                    {
+                      "name": "TG Southee"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 215
+      }
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DA Warner",
+                  "fielders": [
+                    {
+                      "name": "NL McCullum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CL White",
+              "bowler": "TG Southee",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TG Southee",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    },
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "SW Tait",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "SW Tait",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    }
+  ]
+}

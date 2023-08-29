@@ -1,0 +1,3243 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-11-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-11-17"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1886,
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "umpires": [
+        "IO Oyieko",
+        "R D'Mello"
+      ]
+    },
+    "outcome": {
+      "winner": "Lesotho",
+      "by": {
+        "runs": 31
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "LM Gabriel"
+    ],
+    "players": {
+      "Lesotho": [
+        "Maaz Khan",
+        "C Tlali",
+        "Sameer Patel",
+        "LM Gabriel",
+        "Waseem Yaqoob",
+        "Khan Arbaaz",
+        "YYM Jakda",
+        "ME Leoela",
+        "TD Chaoana",
+        "MV Matsau",
+        "TG Thamae"
+      ],
+      "Mali": [
+        "M Sidibe",
+        "Mohamed Coulibaly",
+        "D Traore",
+        "MS Diawara",
+        "MT Diaby",
+        "CA Keita",
+        "TM Macalou",
+        "SG Diaby",
+        "MS Diakite",
+        "S Kamate",
+        "L Sanogo"
+      ]
+    },
+    "registry": {
+      "people": {
+        "C Tlali": "70841eab",
+        "CA Keita": "5b9b8d98",
+        "D Odhiambo": "45994517",
+        "D Traore": "273be75a",
+        "IO Oyieko": "de4828fa",
+        "Khan Arbaaz": "b84be97f",
+        "L Sanogo": "abbc06cf",
+        "LM Gabriel": "88a5adcf",
+        "M Sidibe": "78091b14",
+        "ME Leoela": "3b107df5",
+        "MS Diakite": "69795fcd",
+        "MS Diawara": "8c95e2dd",
+        "MT Diaby": "5d00cd6f",
+        "MV Matsau": "dad64776",
+        "Maaz Khan": "6f14ddcb",
+        "Mohamed Coulibaly": "86ea6123",
+        "R D'Mello": "f3c22863",
+        "S Kamate": "d7af6207",
+        "S Wadvalla": "c1a1acf3",
+        "SG Diaby": "fe3e9880",
+        "Sameer Patel": "2bae86b6",
+        "TD Chaoana": "16ddd36b",
+        "TG Thamae": "d08fe309",
+        "TM Macalou": "8a9320a1",
+        "Waseem Yaqoob": "06b387f1",
+        "YYM Jakda": "2e3dc859"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Lesotho",
+      "Mali"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Mali"
+    },
+    "venue": "Integrated Polytechnic Regional Centre"
+  },
+  "innings": [
+    {
+      "team": "Lesotho",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Maaz Khan",
+              "bowler": "SG Diaby",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maaz Khan",
+              "bowler": "SG Diaby",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Maaz Khan",
+                  "fielders": [
+                    {
+                      "name": "Mohamed Coulibaly"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "SG Diaby",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "L Sanogo",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "SG Diaby",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "SG Diaby",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "SG Diaby",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "SG Diaby",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "SG Diaby",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "L Sanogo",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "L Sanogo",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "C Tlali",
+              "bowler": "Mohamed Coulibaly",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "Sameer Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameer Patel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sameer Patel",
+                  "fielders": [
+                    {
+                      "name": "L Sanogo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "C Tlali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Tlali",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tlali",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Tlali",
+                  "fielders": [
+                    {
+                      "name": "S Kamate"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "MS Diawara",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "MS Diawara",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LM Gabriel",
+              "bowler": "S Kamate",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "S Kamate",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "S Kamate",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "S Kamate",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "S Kamate",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "S Kamate",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "S Kamate",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "S Kamate",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LM Gabriel",
+              "bowler": "L Sanogo",
+              "non_striker": "Waseem Yaqoob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Yaqoob",
+              "bowler": "L Sanogo",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waseem Yaqoob",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "L Sanogo",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "L Sanogo",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "L Sanogo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "L Sanogo",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "SG Diaby",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "SG Diaby",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "SG Diaby",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "SG Diaby",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "SG Diaby",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "SG Diaby",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "L Sanogo",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "L Sanogo",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "L Sanogo",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "L Sanogo",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "L Sanogo",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "L Sanogo",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "MS Diawara",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "MS Diawara",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "TM Macalou",
+              "non_striker": "Khan Arbaaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khan Arbaaz",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khan Arbaaz",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "YYM Jakda",
+              "bowler": "TM Macalou",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YYM Jakda",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "LM Gabriel",
+              "bowler": "MS Diawara",
+              "non_striker": "ME Leoela",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "MS Diawara",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "MS Diawara",
+              "non_striker": "ME Leoela",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "ME Leoela",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "SG Diaby",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "SG Diaby",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "SG Diaby",
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ME Leoela",
+              "bowler": "SG Diaby",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LM Gabriel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "SG Diaby",
+              "non_striker": "ME Leoela",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Gabriel",
+              "bowler": "SG Diaby",
+              "non_striker": "ME Leoela",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Mali",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Sidibe",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sidibe",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Sidibe",
+                  "fielders": [
+                    {
+                      "name": "TG Thamae"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Waseem Yaqoob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "Khan Arbaaz",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Coulibaly",
+                  "fielders": [
+                    {
+                      "name": "Khan Arbaaz"
+                    },
+                    {
+                      "name": "TD Chaoana"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Traore",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Waseem Yaqoob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Waseem Yaqoob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MS Diawara",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "D Traore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Traore",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Traore",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "Khan Arbaaz",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MT Diaby",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MT Diaby",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "Waseem Yaqoob",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MS Diawara",
+              "bowler": "LM Gabriel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "LM Gabriel",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "LM Gabriel",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "LM Gabriel",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "LM Gabriel",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "LM Gabriel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "LM Gabriel",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "LM Gabriel",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MS Diawara",
+              "bowler": "MV Matsau",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "MV Matsau",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "MV Matsau",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "MV Matsau",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "MV Matsau",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "MV Matsau",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MS Diawara",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "TM Macalou",
+                    "out": "MS Diawara",
+                    "reason": "injury",
+                    "role": "batter"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CA Keita",
+              "bowler": "MV Matsau",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "MV Matsau",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "MV Matsau",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "MV Matsau",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "MV Matsau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "MV Matsau",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "MV Matsau",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "MV Matsau",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "non_striker": "TM Macalou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TM Macalou",
+              "bowler": "TG Thamae",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TG Thamae",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Macalou",
+              "bowler": "TG Thamae",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TM Macalou",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "TG Thamae",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "TG Thamae",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TG Thamae",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SG Diaby",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SG Diaby",
+              "bowler": "TG Thamae",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TG Thamae",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TG Thamae",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TG Thamae",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TG Thamae",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TG Thamae",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SG Diaby",
+              "bowler": "YYM Jakda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "YYM Jakda",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "YYM Jakda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "YYM Jakda",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "YYM Jakda",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "YYM Jakda",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "YYM Jakda",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "YYM Jakda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "YYM Jakda",
+              "non_striker": "SG Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SG Diaby",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SG Diaby",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SG Diaby",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "TD Chaoana",
+              "non_striker": "CA Keita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Keita",
+              "bowler": "TD Chaoana",
+              "non_striker": "MS Diawara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CA Keita",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MS Diawara",
+              "bowler": "YYM Jakda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "YYM Jakda",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Diawara",
+              "bowler": "YYM Jakda",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Diawara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "YYM Jakda",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "YYM Jakda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "YYM Jakda",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "YYM Jakda",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "YYM Jakda",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Kamate",
+              "bowler": "MV Matsau",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "MV Matsau",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diakite",
+              "bowler": "MV Matsau",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "MV Matsau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "MV Matsau",
+              "non_striker": "MS Diakite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Diakite",
+              "bowler": "MV Matsau",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Diakite",
+              "bowler": "MV Matsau",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Diakite",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Sanogo",
+              "bowler": "YYM Jakda",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Sanogo",
+              "bowler": "YYM Jakda",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Sanogo",
+              "bowler": "YYM Jakda",
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Sanogo",
+              "bowler": "YYM Jakda",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Kamate",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "YYM Jakda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Sanogo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kamate",
+              "bowler": "YYM Jakda",
+              "non_striker": "L Sanogo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kamate",
+                  "fielders": [
+                    {
+                      "name": "C Tlali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 139
+      }
+    }
+  ]
+}

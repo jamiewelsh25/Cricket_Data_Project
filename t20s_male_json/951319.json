@@ -1,0 +1,716 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2016-03-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dharamsala",
+    "dates": [
+      "2016-03-11"
+    ],
+    "event": {
+      "group": "A",
+      "match_number": 8,
+      "name": "World T20",
+      "stage": "First Round"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 530,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "S Ravi"
+      ],
+      "tv_umpires": [
+        "CB Gaffaney"
+      ],
+      "umpires": [
+        "NJ Llong",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Bangladesh": [
+        "Tamim Iqbal",
+        "Soumya Sarkar",
+        "Sabbir Rahman",
+        "Shakib Al Hasan",
+        "Mahmudullah",
+        "Mushfiqur Rahim",
+        "Mohammad Mithun",
+        "Mashrafe Mortaza",
+        "Abu Hider",
+        "Taskin Ahmed",
+        "Al-Amin Hossain"
+      ],
+      "Ireland": [
+        "WTS Porterfield",
+        "PR Stirling",
+        "GC Wilson",
+        "NJ O'Brien",
+        "KJ O'Brien",
+        "AD Poynter",
+        "AR McBrine",
+        "MC Sorensen",
+        "TJ Murtagh",
+        "WB Rankin",
+        "GH Dockrell"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Poynter": "b98cdbf0",
+        "AJ Pycroft": "685d3f80",
+        "AR McBrine": "e957b38f",
+        "Abu Hider": "31803fac",
+        "Al-Amin Hossain": "3f5f39cd",
+        "CB Gaffaney": "d5ac41d8",
+        "GC Wilson": "05de1a5a",
+        "GH Dockrell": "99cddc5e",
+        "KJ O'Brien": "243431b5",
+        "MC Sorensen": "3f18724b",
+        "Mahmudullah": "bf1d7d3e",
+        "Mashrafe Mortaza": "e186f49c",
+        "Mohammad Mithun": "77191792",
+        "Mushfiqur Rahim": "a94e08ea",
+        "NJ Llong": "573fb985",
+        "NJ O'Brien": "84826f48",
+        "PR Stirling": "cf494ffe",
+        "RJ Tucker": "38810cfc",
+        "S Ravi": "9b9ee0df",
+        "Sabbir Rahman": "7147f314",
+        "Shakib Al Hasan": "7dc35884",
+        "Soumya Sarkar": "4d9f9686",
+        "TJ Murtagh": "c89474d1",
+        "Tamim Iqbal": "3b041a12",
+        "Taskin Ahmed": "ef18b66e",
+        "WB Rankin": "29b89ae8",
+        "WTS Porterfield": "ec02b798"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Ireland"
+    },
+    "venue": "Himachal Pradesh Cricket Association Stadium"
+  },
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "WB Rankin",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "WB Rankin",
+              "extras": {
+                "legbyes": 5
+              },
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "WB Rankin",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "WB Rankin",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "WB Rankin",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "WB Rankin",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "TJ Murtagh",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "KJ O'Brien",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "KJ O'Brien",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "KJ O'Brien",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "KJ O'Brien",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "KJ O'Brien",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "KJ O'Brien",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "KJ O'Brien",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "KJ O'Brien",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "AR McBrine",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "AR McBrine",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "AR McBrine",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "AR McBrine",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Soumya Sarkar",
+                  "fielders": [
+                    {
+                      "name": "NJ O'Brien"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "AR McBrine",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "AR McBrine",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "GH Dockrell",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "GH Dockrell",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "AR McBrine",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "AR McBrine",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "AR McBrine",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "AR McBrine",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "AR McBrine",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "AR McBrine",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "GH Dockrell",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "GH Dockrell",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "GH Dockrell",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Tamim Iqbal",
+                  "fielders": [
+                    {
+                      "name": "WTS Porterfield"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.8,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

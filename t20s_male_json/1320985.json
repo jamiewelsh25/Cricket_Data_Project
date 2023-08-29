@@ -1,0 +1,3067 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-07-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Waterloo",
+    "dates": [
+      "2022-07-03"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C",
+      "stage": "7th Place Play-Off"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1604,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "Phil Whitticase"
+      ],
+      "reserve_umpires": [
+        "Adriaan van den Dries"
+      ],
+      "umpires": [
+        "Jonathan Kennedy",
+        "Vinay Malhotra"
+      ]
+    },
+    "outcome": {
+      "winner": "Israel",
+      "by": {
+        "runs": 12
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Israel": [
+        "Yogev Nagavkar",
+        "G Schachat",
+        "E Solomon",
+        "J Evans",
+        "M Cohen",
+        "E Kahamker",
+        "E Samson",
+        "Elan Talker",
+        "Yair Nagavkar",
+        "Niv Nagavkar",
+        "T Kahamker"
+      ],
+      "Hungary": [
+        "Zeeshan Kukikhel",
+        "Abhijeet Ahuja",
+        "Zahir Mohammed",
+        "S Ashwathnarayana",
+        "AG Weligamage",
+        "HV Mandhyan",
+        "Ali Farasat",
+        "Ali Yalmaz",
+        "SA Mohandas",
+        "Akramullah Malikzada",
+        "BP Adapaka"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AG Weligamage": "747209e0",
+        "Abhijeet Ahuja": "b91083bd",
+        "Adriaan van den Dries": "94b5ec3b",
+        "Akramullah Malikzada": "dd3df124",
+        "Ali Farasat": "5845b99b",
+        "Ali Yalmaz": "026e1314",
+        "BP Adapaka": "e6082b10",
+        "E Kahamker": "41acc8bf",
+        "E Samson": "d11272c4",
+        "E Solomon": "8da9a284",
+        "Elan Talker": "bb939fa3",
+        "G Schachat": "ff92e604",
+        "HV Mandhyan": "11f56b14",
+        "J Evans": "027662be",
+        "Jonathan Kennedy": "f7ad4494",
+        "M Cohen": "fc75bbba",
+        "Niv Nagavkar": "e2abcf16",
+        "Phil Whitticase": "99d5f6fa",
+        "S Ashwathnarayana": "8f8d30be",
+        "SA Mohandas": "8b0b3bba",
+        "T Kahamker": "125853c3",
+        "Vinay Malhotra": "452837d1",
+        "Yair Nagavkar": "138e30ab",
+        "Yogev Nagavkar": "c85bea6b",
+        "Zahir Mohammed": "7c38942a",
+        "Zeeshan Kukikhel": "5d6a1f76"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Israel",
+      "Hungary"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Hungary"
+    },
+    "venue": "Royal Brussels Cricket Club Ground, Waterloo"
+  },
+  "innings": [
+    {
+      "team": "Israel",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yogev Nagavkar",
+                  "fielders": [
+                    {
+                      "name": "S Ashwathnarayana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "SA Mohandas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "SA Mohandas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "SA Mohandas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "SA Mohandas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "SA Mohandas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "SA Mohandas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Solomon",
+                  "fielders": [
+                    {
+                      "name": "S Ashwathnarayana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "BP Adapaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Evans",
+                  "fielders": [
+                    {
+                      "name": "Ali Yalmaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "HV Mandhyan",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "HV Mandhyan",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "BP Adapaka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "BP Adapaka",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "Akramullah Malikzada",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Akramullah Malikzada",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Akramullah Malikzada",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Akramullah Malikzada",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Akramullah Malikzada",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Akramullah Malikzada",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Cohen",
+              "bowler": "Zeeshan Kukikhel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Schachat",
+                  "fielders": [
+                    {
+                      "name": "AG Weligamage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "E Kahamker",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "M Cohen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Cohen",
+              "bowler": "Ali Yalmaz",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Cohen",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Samson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Samson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Samson",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Samson",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Samson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "E Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Kahamker",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hungary",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeeshan Kukikhel",
+                  "fielders": [
+                    {
+                      "name": "G Schachat"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Elan Talker",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Elan Talker",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Elan Talker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "E Samson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "E Samson",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahir Mohammed",
+                  "fielders": [
+                    {
+                      "name": "G Schachat"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "T Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "T Kahamker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "T Kahamker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "T Kahamker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "T Kahamker",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "T Kahamker",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "T Kahamker",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ashwathnarayana",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ashwathnarayana",
+                  "fielders": [
+                    {
+                      "name": "Niv Nagavkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "J Evans",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "J Evans",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "J Evans",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "J Evans",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "J Evans",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "J Evans",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "E Samson",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "E Samson",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Samson",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhijeet Ahuja",
+                  "fielders": [
+                    {
+                      "name": "Niv Nagavkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "E Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Weligamage",
+              "bowler": "J Evans",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AG Weligamage",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "J Evans",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "J Evans",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "J Evans",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "J Evans",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "J Evans",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "J Evans",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "J Evans",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "J Evans",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "J Evans",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "J Evans",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "J Evans",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Ali Farasat",
+              "bowler": "E Samson",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Farasat",
+                  "fielders": [
+                    {
+                      "name": "M Cohen"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "E Samson",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "E Samson",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "E Samson",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "E Samson",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "E Samson",
+              "non_striker": "Ali Yalmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "T Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "T Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Yalmaz",
+              "bowler": "T Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Yalmaz",
+                  "fielders": [
+                    {
+                      "name": "M Cohen"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "T Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "T Kahamker",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Mohandas",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "HV Mandhyan",
+              "bowler": "T Kahamker",
+              "non_striker": "Akramullah Malikzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HV Mandhyan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "BP Adapaka",
+              "bowler": "T Kahamker",
+              "non_striker": "Akramullah Malikzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 167
+      }
+    }
+  ]
+}

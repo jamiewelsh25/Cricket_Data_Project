@@ -1,0 +1,3019 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-05-02",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Almeria",
+    "dates": [
+      "2022-04-30"
+    ],
+    "event": {
+      "name": "Spain Triangular T20I Series",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1514,
+    "officials": {
+      "reserve_umpires": [
+        "DJ Clark"
+      ],
+      "umpires": [
+        "A Elliott",
+        "G Ashford"
+      ]
+    },
+    "outcome": {
+      "winner": "Spain",
+      "by": {
+        "runs": 51
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Yasir Ali"
+    ],
+    "players": {
+      "Spain": [
+        "D Doyle-Calle",
+        "Awais Ahmed",
+        "J Trembeath-Moro",
+        "Yasir Ali",
+        "Hamza Dar",
+        "LA Burns",
+        "C Munoz-Mills",
+        "Mohammad Kamran",
+        "C Rumistrzewicz",
+        "Zulqarnain Haider",
+        "Raja Adeel"
+      ],
+      "Norway": [
+        "Khizer Ahmed",
+        "Wahidullah Sahak",
+        "Walid Ghauri",
+        "Bilal Safdar",
+        "Tafseer Ali",
+        "Ali Saleem",
+        "Sher Sahak",
+        "Abdullah Sheikh",
+        "Ahmadullah Shinwari",
+        "Raza Iqbal",
+        "Vinay Ravi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Elliott": "f48d5563",
+        "Abdullah Sheikh": "336a85f6",
+        "Ahmadullah Shinwari": "e068d48e",
+        "Ali Saleem": "661e8a03",
+        "Awais Ahmed": "f9f857dc",
+        "Bilal Safdar": "1c4161b3",
+        "C Munoz-Mills": "17bc032c",
+        "C Rumistrzewicz": "3ed4e2ad",
+        "D Doyle-Calle": "74be2916",
+        "DJ Clark": "d547fe55",
+        "G Ashford": "3bac0164",
+        "Hamza Dar": "557550a4",
+        "J Trembeath-Moro": "788d661c",
+        "Khizer Ahmed": "723ca856",
+        "LA Burns": "5b616bf0",
+        "Mohammad Kamran": "1a628a92",
+        "Raja Adeel": "7ee25c46",
+        "Raza Iqbal": "eee46f77",
+        "Sher Sahak": "8299b9a2",
+        "Tafseer Ali": "b9c3ffcd",
+        "Vinay Ravi": "9c181b99",
+        "Wahidullah Sahak": "6913e38e",
+        "Walid Ghauri": "331e137f",
+        "Yasir Ali": "79209272",
+        "Zulqarnain Haider": "2d46e8ed"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Spain",
+      "Norway"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Spain"
+    },
+    "venue": "Desert Springs Cricket Ground, Almeria"
+  },
+  "innings": [
+    {
+      "team": "Spain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Vinay Ravi",
+              "non_striker": "Awais Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Awais Ahmed",
+                  "fielders": [
+                    {
+                      "name": "Walid Ghauri"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Vinay Ravi",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Vinay Ravi",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Vinay Ravi",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Doyle-Calle",
+              "bowler": "Vinay Ravi",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Doyle-Calle",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Vinay Ravi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Vinay Ravi",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Vinay Ravi",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Abdullah Sheikh",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Raza Iqbal",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Raza Iqbal",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Sher Sahak",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Sher Sahak",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sher Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Sher Sahak",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sher Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasir Ali",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Sher Sahak",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Sher Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Walid Ghauri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Walid Ghauri",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hamza Dar",
+                  "fielders": [
+                    {
+                      "name": "Tafseer Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Walid Ghauri",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "LA Burns",
+              "bowler": "Wahidullah Sahak",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "LA Burns",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "J Trembeath-Moro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Wahidullah Sahak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Trembeath-Moro",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Trembeath-Moro",
+                  "fielders": [
+                    {
+                      "name": "Vinay Ravi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Burns",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Vinay Ravi",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Burns",
+              "bowler": "Vinay Ravi",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Vinay Ravi",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Vinay Ravi",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Vinay Ravi",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Burns",
+              "bowler": "Vinay Ravi",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munoz-Mills",
+                  "kind": "retired hurt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Mohammad Kamran",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Kamran",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Burns",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "Mohammad Kamran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LA Burns",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "Mohammad Kamran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LA Burns",
+              "bowler": "Wahidullah Sahak",
+              "non_striker": "Mohammad Kamran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Kamran",
+              "bowler": "Wahidullah Sahak",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "LA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Norway",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Wahidullah Sahak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wahidullah Sahak",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wahidullah Sahak",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Wahidullah Sahak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wahidullah Sahak",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wahidullah Sahak",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Wahidullah Sahak",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Raja Adeel",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Raja Adeel",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Raja Adeel",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Raja Adeel",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Raja Adeel",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Raja Adeel",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Raja Adeel",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Raja Adeel",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Raja Adeel",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Raja Adeel",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Raja Adeel",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Raja Adeel",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizer Ahmed",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khizer Ahmed",
+                  "fielders": [
+                    {
+                      "name": "Yasir Ali"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Bilal Safdar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Bilal Safdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Bilal Safdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Bilal Safdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Bilal Safdar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Bilal Safdar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Safdar",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bilal Safdar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Yasir Ali",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Yasir Ali",
+              "non_striker": "Walid Ghauri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Ghauri",
+              "bowler": "Yasir Ali",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Walid Ghauri",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ali Saleem",
+              "bowler": "Yasir Ali",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Yasir Ali",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Yasir Ali",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Ali Saleem",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Saleem",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Saleem",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Saleem",
+                  "fielders": [
+                    {
+                      "name": "Awais Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sher Sahak",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sher Sahak",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sher Sahak",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Yasir Ali",
+              "non_striker": "Sher Sahak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Yasir Ali",
+              "non_striker": "Sher Sahak",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tafseer Ali",
+              "bowler": "Yasir Ali",
+              "non_striker": "Sher Sahak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tafseer Ali",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Abdullah Sheikh",
+              "bowler": "Yasir Ali",
+              "non_striker": "Sher Sahak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sher Sahak",
+              "bowler": "Yasir Ali",
+              "non_striker": "Abdullah Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Sheikh",
+              "bowler": "Yasir Ali",
+              "non_striker": "Sher Sahak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Abdullah Sheikh",
+              "bowler": "LA Burns",
+              "non_striker": "Sher Sahak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Sheikh",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Kamran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sher Sahak",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "LA Burns",
+              "non_striker": "Sher Sahak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sher Sahak",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sher Sahak",
+                  "fielders": [
+                    {
+                      "name": "C Rumistrzewicz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Yasir Ali",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Yasir Ali",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Yasir Ali",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Yasir Ali",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Yasir Ali",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Yasir Ali",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "LA Burns",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "LA Burns",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "LA Burns",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "LA Burns",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "LA Burns",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Raza Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmadullah Shinwari",
+                  "fielders": [
+                    {
+                      "name": "Awais Ahmed"
+                    },
+                    {
+                      "name": "Raja Adeel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Raza Iqbal",
+              "bowler": "Zulqarnain Haider",
+              "non_striker": "Vinay Ravi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 130
+      }
+    }
+  ]
+}

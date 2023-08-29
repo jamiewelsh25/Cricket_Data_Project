@@ -1,0 +1,2464 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-09-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Entebbe",
+    "dates": [
+      "2021-09-16"
+    ],
+    "event": {
+      "name": "Uganda T20 Tri-Series",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1277,
+    "officials": {
+      "umpires": [
+        "E Wandera",
+        "Patric Makumbi"
+      ]
+    },
+    "outcome": {
+      "winner": "Nigeria",
+      "by": {
+        "runs": 4
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "JO Adedeji"
+    ],
+    "players": {
+      "Nigeria": [
+        "AJ Ayannaike",
+        "O Olaleye",
+        "JO Adedeji",
+        "VD Adewoye",
+        "CN Onwuzulike",
+        "P Aho",
+        "Mohameed Taiwo",
+        "RA Abolarin",
+        "Sulaimon Runsewe",
+        "P Useni",
+        "O Isesele"
+      ],
+      "Kenya": [
+        "Gurdeep Singh",
+        "RN Patel",
+        "IA Karim",
+        "NM Odhiambo",
+        "Zahid Abbas",
+        "SO Ngoche",
+        "E Ochieng",
+        "E Otieno",
+        "Vraj Patel",
+        "P Koech",
+        "DS Wesonga"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Ayannaike": "f74b682b",
+        "CN Onwuzulike": "715dbf27",
+        "DS Wesonga": "7545a91a",
+        "E Ochieng": "b64e3749",
+        "E Otieno": "c57fa67e",
+        "E Wandera": "671cf580",
+        "Gurdeep Singh": "31865a5b",
+        "IA Karim": "ca92a578",
+        "JO Adedeji": "abee08c7",
+        "Mohameed Taiwo": "a9d788e3",
+        "NM Odhiambo": "c07a1f41",
+        "O Isesele": "6034840a",
+        "O Olaleye": "811785d2",
+        "P Aho": "2e392afa",
+        "P Koech": "f4a0a615",
+        "P Useni": "71fa64d6",
+        "Patric Makumbi": "e4c69c16",
+        "RA Abolarin": "ed524599",
+        "RN Patel": "db1bf9c2",
+        "SO Ngoche": "49118dc7",
+        "Sulaimon Runsewe": "c25d26dc",
+        "VD Adewoye": "45a34a2d",
+        "Vraj Patel": "2af28253",
+        "Zahid Abbas": "dce01d1e"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "Nigeria",
+      "Kenya"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Nigeria"
+    },
+    "venue": "Entebbe Cricket Oval"
+  },
+  "innings": [
+    {
+      "team": "Nigeria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AJ Ayannaike",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Ayannaike",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Ayannaike",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Ayannaike",
+                  "fielders": [
+                    {
+                      "name": "RN Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "O Olaleye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Olaleye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Olaleye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Olaleye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Olaleye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Olaleye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Olaleye",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Olaleye",
+                  "fielders": [
+                    {
+                      "name": "DS Wesonga"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VD Adewoye",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VD Adewoye",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Otieno",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Otieno",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Otieno",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VD Adewoye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VD Adewoye",
+              "bowler": "E Otieno",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VD Adewoye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VD Adewoye",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VD Adewoye",
+              "bowler": "E Otieno",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "VD Adewoye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "VD Adewoye",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VD Adewoye",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Vraj Patel",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Vraj Patel",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Vraj Patel",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Zahid Abbas",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Zahid Abbas",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Zahid Abbas",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Zahid Abbas",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "SO Ngoche",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Zahid Abbas",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "Zahid Abbas",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "Zahid Abbas",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "P Koech",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "P Koech",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "P Koech",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "P Koech",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "P Koech",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "P Koech",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "SO Ngoche",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "SO Ngoche",
+              "non_striker": "JO Adedeji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Otieno",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JO Adedeji",
+              "bowler": "E Otieno",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JO Adedeji",
+                  "fielders": [
+                    {
+                      "name": "Zahid Abbas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Aho",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Aho",
+              "bowler": "E Ochieng",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Ochieng",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "P Aho",
+              "bowler": "E Otieno",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Onwuzulike",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CN Onwuzulike",
+                  "fielders": [
+                    {
+                      "name": "DS Wesonga"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohameed Taiwo",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohameed Taiwo",
+              "bowler": "E Otieno",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kenya",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Aho",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Aho",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Aho",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Aho",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Aho",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Aho",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Useni",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Useni",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Useni",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Useni",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Useni",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Useni",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Aho",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Aho",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Aho",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "P Aho",
+              "non_striker": "Gurdeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Aho",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "P Aho",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Gurdeep Singh",
+              "bowler": "RA Abolarin",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gurdeep Singh",
+                  "fielders": [
+                    {
+                      "name": "CN Onwuzulike"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "RA Abolarin",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "RA Abolarin",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RN Patel",
+                  "fielders": [
+                    {
+                      "name": "JO Adedeji"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "RA Abolarin",
+              "non_striker": "NM Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "RA Abolarin",
+              "non_striker": "NM Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "RA Abolarin",
+              "non_striker": "NM Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "NM Odhiambo",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Odhiambo",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Odhiambo",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Odhiambo",
+              "bowler": "Mohameed Taiwo",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NM Odhiambo",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "NM Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NM Odhiambo",
+              "bowler": "RA Abolarin",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "RA Abolarin",
+              "non_striker": "NM Odhiambo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Odhiambo",
+              "bowler": "RA Abolarin",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NM Odhiambo",
+                  "fielders": [
+                    {
+                      "name": "Mohameed Taiwo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "RA Abolarin",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "RA Abolarin",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "RA Abolarin",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "JO Adedeji",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "JO Adedeji",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "JO Adedeji",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "P Useni",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "P Useni",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IA Karim",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Useni",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Useni",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Useni",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "P Useni",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "Zahid Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahid Abbas",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahid Abbas",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "E Ochieng",
+              "bowler": "P Useni",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "P Useni",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "P Useni",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "P Useni",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Useni",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Useni",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "E Ochieng",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Ochieng",
+              "bowler": "JO Adedeji",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "JO Adedeji",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Aho",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Aho",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Aho",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Aho",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Aho",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "P Aho",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "E Ochieng",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 15,
+        "runs": 112
+      }
+    }
+  ]
+}

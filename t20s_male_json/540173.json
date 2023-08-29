@@ -1,0 +1,2789 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2012-04-16",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "St Lucia",
+    "dates": [
+      "2012-03-27"
+    ],
+    "event": {
+      "match_number": 1,
+      "name": "Australia in West Indies T20I Series"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 241,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "JS Wilson"
+      ],
+      "tv_umpires": [
+        "N Duguid"
+      ],
+      "umpires": [
+        "GO Brathwaite",
+        "PJ Nero"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 8
+      },
+      "winner": "Australia"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "SR Watson"
+    ],
+    "players": {
+      "Australia": [
+        "DA Warner",
+        "SR Watson",
+        "MEK Hussey",
+        "GJ Bailey",
+        "MS Wade",
+        "DJ Hussey",
+        "DT Christian",
+        "CJ McKay",
+        "XJ Doherty",
+        "B Lee",
+        "JL Pattinson"
+      ],
+      "West Indies": [
+        "J Charles",
+        "DR Smith",
+        "NE Bonner",
+        "DM Bravo",
+        "KA Pollard",
+        "DJ Bravo",
+        "DJG Sammy",
+        "CS Baugh",
+        "GE Mathurin",
+        "K Santokie",
+        "SP Narine"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Pycroft": "685d3f80",
+        "B Lee": "dd09ff8e",
+        "CJ McKay": "94eac556",
+        "CS Baugh": "151e8077",
+        "DA Warner": "dcce6f09",
+        "DJ Bravo": "87e562a9",
+        "DJ Hussey": "fd835ab3",
+        "DJG Sammy": "c03c6200",
+        "DM Bravo": "14b14cd8",
+        "DR Smith": "35205dfc",
+        "DT Christian": "2a2e6343",
+        "GE Mathurin": "b67bfaae",
+        "GJ Bailey": "5056011d",
+        "GO Brathwaite": "1ace56d4",
+        "J Charles": "09a9d073",
+        "JL Pattinson": "f752db61",
+        "JS Wilson": "d7f3b72f",
+        "K Santokie": "531f0278",
+        "KA Pollard": "a757b0d8",
+        "MEK Hussey": "48fd7349",
+        "MS Wade": "afa7e784",
+        "N Duguid": "64495506",
+        "NE Bonner": "59ddd811",
+        "PJ Nero": "925d2e93",
+        "SP Narine": "9d430b40",
+        "SR Watson": "4329fbb5",
+        "XJ Doherty": "502b2c81"
+      }
+    },
+    "season": "2011/12",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "West Indies"
+    },
+    "venue": "Beausejour Stadium, Gros Islet"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DR Smith",
+              "bowler": "JL Pattinson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "JL Pattinson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "JL Pattinson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "JL Pattinson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "JL Pattinson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JL Pattinson",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JL Pattinson",
+              "non_striker": "DR Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DR Smith",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DR Smith",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DR Smith",
+                  "fielders": [
+                    {
+                      "name": "MS Wade"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "JL Pattinson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JL Pattinson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "JL Pattinson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "JL Pattinson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JL Pattinson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "JL Pattinson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "B Lee",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "B Lee",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "J Charles"
+                }
+              ]
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ McKay",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NE Bonner",
+              "bowler": "SR Watson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "SR Watson",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "SR Watson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "SR Watson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "SR Watson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "NE Bonner",
+              "bowler": "DT Christian",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "DT Christian",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "DT Christian",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "DT Christian",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "DT Christian",
+              "non_striker": "NE Bonner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DM Bravo",
+                  "fielders": [
+                    {
+                      "name": "JL Pattinson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "DT Christian",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bonner",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "NE Bonner",
+              "bowler": "DT Christian",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "NE Bonner"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "DT Christian",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "DT Christian",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "DT Christian",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "DT Christian",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "DT Christian",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DJ Bravo",
+              "bowler": "JL Pattinson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JL Pattinson",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "JL Pattinson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "JL Pattinson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JL Pattinson",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "JL Pattinson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DJ Bravo",
+              "bowler": "DT Christian",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "DT Christian",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "DT Christian",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "DT Christian",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "DT Christian",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "DT Christian",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DJ Bravo",
+                  "fielders": [
+                    {
+                      "name": "DJ Hussey"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "SR Watson",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SR Watson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SR Watson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "SR Watson",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SR Watson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SR Watson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DJG Sammy",
+              "bowler": "B Lee",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "B Lee",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "B Lee",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "B Lee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "B Lee",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DJG Sammy",
+                  "fielders": [
+                    {
+                      "name": "DJ Hussey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "B Lee",
+              "non_striker": "CS Baugh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "SR Watson",
+              "non_striker": "CS Baugh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Baugh",
+              "bowler": "SR Watson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "SR Watson",
+              "non_striker": "CS Baugh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "SR Watson",
+              "non_striker": "CS Baugh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "CS Baugh",
+                  "fielders": [
+                    {
+                      "name": "SR Watson"
+                    },
+                    {
+                      "name": "DT Christian"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "SR Watson",
+              "non_striker": "GE Mathurin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GE Mathurin",
+              "bowler": "SR Watson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DA Warner",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DA Warner"
+                }
+              ]
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "K Santokie",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "K Santokie",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "K Santokie",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "K Santokie",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "K Santokie",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "K Santokie",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "K Santokie",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "K Santokie",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "K Santokie",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "KA Pollard",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "KA Pollard",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "KA Pollard",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "KA Pollard",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "KA Pollard",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "KA Pollard",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SR Watson",
+                  "fielders": [
+                    {
+                      "name": "KA Pollard"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "GE Mathurin",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "GE Mathurin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DJ Bravo",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DJ Bravo",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DR Smith",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DR Smith",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DR Smith",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "DR Smith",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DR Smith",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DR Smith",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "SP Narine",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SP Narine",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "DJG Sammy",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 151
+      }
+    }
+  ]
+}

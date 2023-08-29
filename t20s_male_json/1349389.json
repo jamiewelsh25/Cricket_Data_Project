@@ -1,0 +1,1062 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-12-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2022-12-22"
+    ],
+    "event": {
+      "name": "Quadrangular Twenty20 Series (Malaysia)",
+      "match_number": 12
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1977,
+    "officials": {
+      "match_referees": [
+        "Ramesh Menon"
+      ],
+      "umpires": [
+        "Tabarak Dar",
+        "Zaidan Taha"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Bahrain": [
+        "P Kurup",
+        "Yousif Wali",
+        "Imran Anwar",
+        "Sohail Ahmed",
+        "Sarfaraz Ali",
+        "Haider Butt",
+        "Ahmer Bin Nisar",
+        "Junaid Aziz",
+        "Zeeshan Abbas",
+        "Rizwan Butt",
+        "Imran Khan"
+      ],
+      "Qatar": [
+        "Mohammad Rizlan",
+        "Kamran Khan",
+        "Mohammed Nadeem",
+        "Gayan Munaweera",
+        "Akash Babu",
+        "Dharmang Patel",
+        "I Liyanage",
+        "Assad Borham",
+        "Ikramullah Khan",
+        "Muhammad Tanveer",
+        "VN Veetil"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahmer Bin Nisar": "afbc53ba",
+        "Akash Babu": "fb59e5bc",
+        "Assad Borham": "219a417a",
+        "Dharmang Patel": "643f2e6a",
+        "Gayan Munaweera": "62141a22",
+        "Haider Butt": "14fd10b5",
+        "I Liyanage": "826e1017",
+        "Ikramullah Khan": "c6e1354c",
+        "Imran Anwar": "a9a18e3e",
+        "Imran Khan": "da3b91fd",
+        "Junaid Aziz": "c39ee9e0",
+        "Kamran Khan": "922e3dcc",
+        "Mohammad Rizlan": "82afc034",
+        "Mohammed Nadeem": "856cbb1e",
+        "Muhammad Tanveer": "aef39fe4",
+        "P Kurup": "50ceaef6",
+        "Ramesh Menon": "4ed80d22",
+        "Rizwan Butt": "e741ed8f",
+        "Sarfaraz Ali": "db95ddeb",
+        "Sohail Ahmed": "4db71b2e",
+        "Tabarak Dar": "2259c12d",
+        "VN Veetil": "3cf5a041",
+        "Yousif Wali": "ed27d267",
+        "Zaidan Taha": "a29dd0ec",
+        "Zeeshan Abbas": "328cca93"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Bahrain",
+      "Qatar"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Qatar"
+    },
+    "venue": "UKM-YSD Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Bahrain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "Ikramullah Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yousif Wali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yousif Wali",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yousif Wali",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yousif Wali",
+                  "fielders": [
+                    {
+                      "name": "Assad Borham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Kurup",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Gayan Munaweera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "VN Veetil",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "VN Veetil",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "VN Veetil",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "VN Veetil",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "VN Veetil",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "Mohammed Nadeem",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "VN Veetil",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "VN Veetil",
+              "non_striker": "Imran Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Anwar",
+              "bowler": "VN Veetil",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imran Anwar",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Sarfaraz Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfaraz Ali",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Sarfaraz Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sarfaraz Ali",
+                  "fielders": [
+                    {
+                      "name": "Gayan Munaweera"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Haider Butt",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Mohammed Nadeem",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Haider Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Butt",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Haider Butt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Haider Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Butt",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Sohail Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Ahmed",
+              "bowler": "Muhammad Tanveer",
+              "non_striker": "Haider Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

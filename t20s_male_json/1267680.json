@@ -1,0 +1,2839 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-07-22",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Harare",
+    "dates": [
+      "2021-07-22"
+    ],
+    "event": {
+      "name": "Bangladesh tour of Zimbabwe",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1196,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "F Mutizwa"
+      ],
+      "tv_umpires": [
+        "I Chabi"
+      ],
+      "umpires": [
+        "C Phiri",
+        "L Rusere"
+      ]
+    },
+    "outcome": {
+      "winner": "Bangladesh",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Soumya Sarkar"
+    ],
+    "players": {
+      "Zimbabwe": [
+        "W Madhevere",
+        "T Marumani",
+        "RW Chakabva",
+        "D Myers",
+        "Sikandar Raza",
+        "TK Musakanda",
+        "RP Burl",
+        "LM Jongwe",
+        "WP Masakadza",
+        "R Ngarava",
+        "B Muzarabani"
+      ],
+      "Bangladesh": [
+        "Mohammad Naim",
+        "Soumya Sarkar",
+        "Mahmudullah",
+        "Nurul Hasan",
+        "Liton Das",
+        "Shakib Al Hasan",
+        "Afif Hossain",
+        "Mahedi Hasan",
+        "Mohammad Saifuddin",
+        "Shoriful Islam",
+        "Mustafizur Rahman"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Pycroft": "685d3f80",
+        "Afif Hossain": "37138918",
+        "B Muzarabani": "449f4e3c",
+        "C Phiri": "ade73404",
+        "D Myers": "d96165b5",
+        "F Mutizwa": "d3e83eef",
+        "I Chabi": "5e39110e",
+        "L Rusere": "6a4734ae",
+        "LM Jongwe": "b8704508",
+        "Liton Das": "0404d43c",
+        "Mahedi Hasan": "9dad0f2e",
+        "Mahmudullah": "bf1d7d3e",
+        "Mohammad Naim": "7923a51d",
+        "Mohammad Saifuddin": "b3a28446",
+        "Mustafizur Rahman": "0a8fce53",
+        "Nurul Hasan": "d365d463",
+        "R Ngarava": "6e3f5a5c",
+        "RP Burl": "b08252b8",
+        "RW Chakabva": "2f0d7e4a",
+        "Shakib Al Hasan": "7dc35884",
+        "Shamim Hossain": "711249d1",
+        "Shoriful Islam": "bb34fd31",
+        "Sikandar Raza": "26d041c4",
+        "Soumya Sarkar": "4d9f9686",
+        "T Marumani": "3d5d51a5",
+        "TK Musakanda": "9f9b903e",
+        "W Madhevere": "a879b92c",
+        "WP Masakadza": "4bc0a378"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "Zimbabwe",
+      "Bangladesh"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Zimbabwe"
+    },
+    "venue": "Harare Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mohammad Saifuddin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Marumani",
+                  "fielders": [
+                    {
+                      "name": "Soumya Sarkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Madhevere",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "W Madhevere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "W Madhevere",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Madhevere",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Myers",
+              "bowler": "Mahmudullah",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Mahmudullah",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Mahmudullah",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Mahmudullah",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Mahmudullah",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Mahmudullah",
+              "non_striker": "RW Chakabva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RW Chakabva",
+              "bowler": "Shoriful Islam",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RW Chakabva",
+                  "fielders": [
+                    {
+                      "name": "Nurul Hasan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Shoriful Islam",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Shoriful Islam",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Shoriful Islam",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sikandar Raza",
+                  "fielders": [
+                    {
+                      "name": "Nurul Hasan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "Shoriful Islam",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Myers",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Myers",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "TK Musakanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Musakanda",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TK Musakanda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "D Myers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "Soumya Sarkar",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "D Myers",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Myers",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LM Jongwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Jongwe",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LM Jongwe",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "WP Masakadza",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WP Masakadza",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "WP Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RP Burl",
+                  "fielders": [
+                    {
+                      "name": "Shamim Hossain",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Ngarava",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "WP Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "WP Masakadza",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "R Ngarava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ngarava",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "WP Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ngarava",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "WP Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "WP Masakadza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "WP Masakadza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Muzarabani",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "WP Masakadza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Muzarabani",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "LM Jongwe",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "LM Jongwe",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "WP Masakadza",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "WP Masakadza",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "LM Jongwe",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "LM Jongwe",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "W Madhevere",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "W Madhevere",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Soumya Sarkar",
+                  "fielders": [
+                    {
+                      "name": "RW Chakabva"
+                    },
+                    {
+                      "name": "WP Masakadza"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "LM Jongwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "LM Jongwe",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mahmudullah",
+                  "fielders": [
+                    {
+                      "name": "B Muzarabani"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "WP Masakadza",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "WP Masakadza",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "R Ngarava",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "R Ngarava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "R Ngarava",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "R Ngarava",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nurul Hasan",
+              "bowler": "B Muzarabani",
+              "non_striker": "Mohammad Naim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Naim",
+              "bowler": "B Muzarabani",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 153
+      }
+    }
+  ]
+}

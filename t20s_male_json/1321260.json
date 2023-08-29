@@ -1,0 +1,3335 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-07-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kerava",
+    "dates": [
+      "2022-07-12"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier",
+      "match_number": 4,
+      "group": "2"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1644,
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "A Paleker"
+      ],
+      "umpires": [
+        "S Kuchimanchi",
+        "SB Ravindra"
+      ]
+    },
+    "outcome": {
+      "winner": "Romania",
+      "by": {
+        "runs": 51
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "V Saini"
+    ],
+    "players": {
+      "Romania": [
+        "R Satheesan",
+        "Taranjeet Singh",
+        "S Nadigotla",
+        "Rohit Kumar",
+        "S Periyalwar",
+        "V Saini",
+        "Ijaz Hussain",
+        "S Vashisht",
+        "M Koli",
+        "M Gherasim",
+        "L Gharasim"
+      ],
+      "Turkey": [
+        "Shamsullah Ehsan",
+        "R Nath",
+        "I Elec",
+        "C Bayraktar",
+        "E Kuyumcu",
+        "Zafer Durmaz",
+        "M Ozturk",
+        "GG Alta",
+        "Ilyas Ataullah",
+        "A Turkmen",
+        "T Ulutuna"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Paleker": "634b11ac",
+        "A Turkmen": "e56f4180",
+        "C Bayraktar": "0fa92a21",
+        "E Kuyumcu": "4e6bc859",
+        "GG Alta": "c7bb2416",
+        "GH Pienaar": "3516e46b",
+        "I Elec": "4d0d5b7d",
+        "Ijaz Hussain": "dc1dd6c4",
+        "Ilyas Ataullah": "357484e9",
+        "L Gharasim": "18f4d808",
+        "M Gherasim": "692d4cbe",
+        "M Koli": "eb0f2802",
+        "M Ozturk": "d62f04f5",
+        "R Nath": "126f1e28",
+        "R Satheesan": "1125ebe4",
+        "Rohit Kumar": "43462314",
+        "S Kuchimanchi": "b0cad015",
+        "S Nadigotla": "b78b3ffd",
+        "S Periyalwar": "d207e4fb",
+        "S Vashisht": "20ac8219",
+        "SB Ravindra": "394ba7a8",
+        "Shamsullah Ehsan": "356bf068",
+        "T Ulutuna": "1581c6be",
+        "Taranjeet Singh": "ec483176",
+        "V Saini": "0fa81719",
+        "Zafer Durmaz": "755819f4"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Romania",
+      "Turkey"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Turkey"
+    },
+    "venue": "Kerava National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Turkmen",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Turkmen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Turkmen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Satheesan",
+              "bowler": "A Turkmen",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Satheesan",
+                  "fielders": [
+                    {
+                      "name": "R Nath"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "A Turkmen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "A Turkmen",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "A Turkmen",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Turkmen",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "A Turkmen",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "E Kuyumcu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "E Kuyumcu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "E Kuyumcu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "E Kuyumcu",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "E Kuyumcu",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "E Kuyumcu",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Taranjeet Singh",
+              "bowler": "M Ozturk",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taranjeet Singh",
+                  "fielders": [
+                    {
+                      "name": "A Turkmen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "M Ozturk",
+              "non_striker": "Rohit Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "M Ozturk",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "M Ozturk",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "M Ozturk",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "M Ozturk",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohit Kumar",
+              "bowler": "GG Alta",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rohit Kumar",
+                  "fielders": [
+                    {
+                      "name": "Ilyas Ataullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "GG Alta",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "GG Alta",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "A Turkmen",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Nadigotla",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Nadigotla",
+                  "fielders": [
+                    {
+                      "name": "R Nath"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "M Ozturk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "M Ozturk",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "M Ozturk",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Zafer Durmaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "A Turkmen",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "A Turkmen",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "A Turkmen",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Zafer Durmaz",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "GG Alta",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "GG Alta",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "I Elec",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "I Elec",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "I Elec",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "I Elec",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "I Elec",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "I Elec",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "Ilyas Ataullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "I Elec",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "I Elec",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "I Elec",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "I Elec",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "I Elec",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "I Elec",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "Shamsullah Ehsan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "A Turkmen",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "A Turkmen",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "M Ozturk",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Periyalwar",
+              "bowler": "M Ozturk",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "M Ozturk",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "M Ozturk",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "M Ozturk",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "S Periyalwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Periyalwar",
+                  "fielders": [
+                    {
+                      "name": "GG Alta"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "Ijaz Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ijaz Hussain",
+              "bowler": "GG Alta",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "Ijaz Hussain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "Ijaz Hussain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Saini",
+              "bowler": "GG Alta",
+              "non_striker": "Ijaz Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Turkey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "S Vashisht",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "S Vashisht",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "S Vashisht",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "S Vashisht",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsullah Ehsan",
+              "bowler": "S Vashisht",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shamsullah Ehsan",
+                  "fielders": [
+                    {
+                      "name": "Taranjeet Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "S Vashisht",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "S Vashisht",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "M Koli",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Koli",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Koli",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Nath",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "non_striker": "R Nath",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Koli",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Koli",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Nath",
+              "bowler": "M Koli",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Nath",
+                  "fielders": [
+                    {
+                      "name": "Ijaz Hussain"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "M Koli",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "C Bayraktar",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "S Vashisht",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Elec",
+              "bowler": "S Vashisht",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Elec",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Vashisht",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Vashisht",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Vashisht",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Bayraktar",
+              "bowler": "V Saini",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "V Saini",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "V Saini",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "V Saini",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "V Saini",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "V Saini",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "V Saini",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "V Saini",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Nadigotla",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Nadigotla",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Nadigotla",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Nadigotla",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Nadigotla",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "S Nadigotla",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "C Bayraktar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Bayraktar",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bayraktar",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Nadigotla",
+              "non_striker": "Zafer Durmaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "S Nadigotla",
+              "non_striker": "Zafer Durmaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zafer Durmaz",
+              "bowler": "S Nadigotla",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zafer Durmaz",
+              "bowler": "S Nadigotla",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zafer Durmaz",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "S Nadigotla",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "S Nadigotla",
+              "non_striker": "E Kuyumcu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kuyumcu",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Kuyumcu",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Ozturk",
+              "bowler": "S Nadigotla",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "S Nadigotla",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "S Nadigotla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "S Nadigotla",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "S Nadigotla",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Alta",
+              "bowler": "S Nadigotla",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "S Nadigotla",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "GG Alta",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "GG Alta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GG Alta",
+                  "fielders": [
+                    {
+                      "name": "Rohit Kumar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "M Ozturk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Ozturk",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ozturk",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Ozturk",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "Ijaz Hussain",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Gherasim",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Gherasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Gherasim",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Gherasim",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Gherasim",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Gherasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Gherasim",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Gherasim",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Gherasim",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Koli",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Koli",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Koli",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Koli",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Koli",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Koli",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "S Vashisht",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "S Vashisht",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "S Vashisht",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "S Vashisht",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "S Vashisht",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "S Vashisht",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "S Vashisht",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Koli",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Turkmen",
+              "bowler": "M Koli",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Koli",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Koli",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Koli",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ilyas Ataullah",
+              "bowler": "M Koli",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 148
+      }
+    }
+  ]
+}

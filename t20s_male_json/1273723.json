@@ -1,0 +1,1464 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-10-23",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sharjah",
+    "dates": [
+      "2021-10-22"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup",
+      "match_number": 12,
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1346,
+    "officials": {
+      "match_referees": [
+        "JJ Crowe"
+      ],
+      "reserve_umpires": [
+        "CM Brown"
+      ],
+      "tv_umpires": [
+        "Aleem Dar"
+      ],
+      "umpires": [
+        "JS Wilson",
+        "RK Illingworth"
+      ]
+    },
+    "outcome": {
+      "winner": "Sri Lanka",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "CBRLS Kumara"
+    ],
+    "players": {
+      "Netherlands": [
+        "SJ Myburgh",
+        "MP O'Dowd",
+        "BN Cooper",
+        "CN Ackermann",
+        "BFW de Leede",
+        "SA Edwards",
+        "RE van der Merwe",
+        "PM Seelaar",
+        "FJ Klaassen",
+        "BD Glover",
+        "PA van Meekeren"
+      ],
+      "Sri Lanka": [
+        "P Nissanka",
+        "MDKJ Perera",
+        "KIC Asalanka",
+        "WIA Fernando",
+        "PBB Rajapaksa",
+        "MD Shanaka",
+        "C Karunaratne",
+        "PWH de Silva",
+        "PVD Chameera",
+        "M Theekshana",
+        "CBRLS Kumara"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aleem Dar": "f02778d1",
+        "BD Glover": "0dbe27b8",
+        "BFW de Leede": "fc4375ef",
+        "BN Cooper": "634a7b21",
+        "C Karunaratne": "fb3e0d39",
+        "CBRLS Kumara": "4751caa3",
+        "CM Brown": "448f4f1c",
+        "CN Ackermann": "e734d090",
+        "FJ Klaassen": "c042b412",
+        "JJ Crowe": "2e760301",
+        "JS Wilson": "d7f3b72f",
+        "KIC Asalanka": "732c038e",
+        "M Theekshana": "f24c6701",
+        "MD Shanaka": "3ff033bb",
+        "MDKJ Perera": "f21043a5",
+        "MP O'Dowd": "b699df47",
+        "P Nissanka": "8ee36b18",
+        "PA van Meekeren": "4557dc54",
+        "PBB Rajapaksa": "6c882e9a",
+        "PM Seelaar": "abbdca1a",
+        "PVD Chameera": "327b58d3",
+        "PWH de Silva": "a97c8ec2",
+        "RE van der Merwe": "05c2ca46",
+        "RK Illingworth": "20672246",
+        "SA Edwards": "b59db04f",
+        "SJ Myburgh": "18261c22",
+        "WIA Fernando": "9550470d"
+      }
+    },
+    "season": "2021/22",
+    "team_type": "international",
+    "teams": [
+      "Netherlands",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sri Lanka"
+    },
+    "venue": "Sharjah Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "C Karunaratne",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "C Karunaratne",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "C Karunaratne",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "C Karunaratne",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP O'Dowd",
+                  "fielders": [
+                    {
+                      "name": "MD Shanaka"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "C Karunaratne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "C Karunaratne",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "C Karunaratne",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BN Cooper",
+              "bowler": "PVD Chameera",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "PVD Chameera",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "PVD Chameera",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "PVD Chameera",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "PVD Chameera",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BN Cooper",
+              "bowler": "M Theekshana",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "M Theekshana",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "M Theekshana",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BN Cooper",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "M Theekshana",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "M Theekshana",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ Myburgh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "M Theekshana",
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CN Ackermann",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BFW de Leede",
+              "bowler": "PWH de Silva",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CN Ackermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "PWH de Silva",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Ackermann",
+              "bowler": "PWH de Silva",
+              "non_striker": "BFW de Leede",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "RK Illingworth",
+                "batter": "CN Ackermann",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CN Ackermann",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "PWH de Silva",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "PWH de Silva",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BFW de Leede",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BFW de Leede",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "PVD Chameera",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "PVD Chameera",
+              "non_striker": "RE van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "PVD Chameera",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "PVD Chameera",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE van der Merwe",
+              "bowler": "PVD Chameera",
+              "non_striker": "SA Edwards",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "JS Wilson",
+                "batter": "RE van der Merwe",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RE van der Merwe",
+                  "fielders": [
+                    {
+                      "name": "MDKJ Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PM Seelaar",
+              "bowler": "PVD Chameera",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "PWH de Silva",
+              "non_striker": "PM Seelaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "PWH de Silva",
+              "non_striker": "PM Seelaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PM Seelaar",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PM Seelaar",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PM Seelaar",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PM Seelaar",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PM Seelaar",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CBRLS Kumara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Klaassen",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Klaassen",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Klaassen",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CBRLS Kumara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "FJ Klaassen",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "JS Wilson",
+                "batter": "SA Edwards",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "PWH de Silva",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "PWH de Silva",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "PWH de Silva",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Klaassen",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Klaassen",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Klaassen",
+              "bowler": "PWH de Silva",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "FJ Klaassen",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "JS Wilson",
+                "batter": "SA Edwards",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Edwards",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "BD Glover",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BD Glover",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BD Glover",
+                  "fielders": [
+                    {
+                      "name": "MDKJ Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA van Meekeren",
+              "bowler": "CBRLS Kumara",
+              "non_striker": "FJ Klaassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PA van Meekeren",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Nissanka",
+              "bowler": "FJ Klaassen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "FJ Klaassen",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "FJ Klaassen",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "P Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Nissanka",
+              "bowler": "BD Glover",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Nissanka",
+                  "fielders": [
+                    {
+                      "name": "PA van Meekeren"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "BD Glover",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "FJ Klaassen",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "review": {
+                "by": "Netherlands",
+                "umpire": "JS Wilson",
+                "batter": "MDKJ Perera",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "BD Glover",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "BD Glover",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KIC Asalanka",
+              "bowler": "PA van Meekeren",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KIC Asalanka",
+                  "fielders": [
+                    {
+                      "name": "FJ Klaassen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "PA van Meekeren",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "WIA Fernando",
+              "bowler": "BD Glover",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "BD Glover",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "BD Glover",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "BD Glover",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "BD Glover",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "BD Glover",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "WIA Fernando",
+              "bowler": "FJ Klaassen",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 45
+      }
+    }
+  ]
+}

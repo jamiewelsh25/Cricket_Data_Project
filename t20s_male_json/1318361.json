@@ -1,0 +1,2966 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-06-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Krefeld",
+    "dates": [
+      "2022-06-11"
+    ],
+    "event": {
+      "name": "Germany T20 Tri-Series",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1560,
+    "officials": {
+      "reserve_umpires": [
+        "Vinay Malhotra"
+      ],
+      "umpires": [
+        "K Arun Kumar",
+        "S Gowda"
+      ]
+    },
+    "outcome": {
+      "winner": "Austria",
+      "by": {
+        "runs": 1
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Iqbal Hossain"
+    ],
+    "players": {
+      "Austria": [
+        "Iqbal Hossain",
+        "M Simpson-Parker",
+        "Razmal Shigiwal",
+        "A Randhawa",
+        "Aqib Iqbal",
+        "Mirza Ahsan",
+        "MPS Cheema",
+        "Abdullah Akbarjan",
+        "Itibarshah Deedar",
+        "A Nathwani",
+        "Sahel Zadran"
+      ],
+      "Sweden": [
+        "W Boshoff",
+        "Umar Nawaz",
+        "Hamid Mahmood",
+        "A Venkatesh",
+        "Azam Khalil",
+        "Ismaeel Zia",
+        "Zaker Taqawi",
+        "Khalid Zahid",
+        "F Choudary",
+        "L Karlsson",
+        "Tasaduq Hussain"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nathwani": "f1c4f2ea",
+        "A Randhawa": "1798078c",
+        "A Venkatesh": "06b45b20",
+        "Abdullah Akbarjan": "5de198db",
+        "Aqib Iqbal": "14157abf",
+        "Azam Khalil": "ff1e08eb",
+        "F Choudary": "ffbbf432",
+        "Hamid Mahmood": "5332fc2f",
+        "Iqbal Hossain": "e1824e7d",
+        "Ismaeel Zia": "70abbb67",
+        "Itibarshah Deedar": "711e73ac",
+        "K Arun Kumar": "8d34b308",
+        "Khalid Zahid": "5c93efb1",
+        "L Karlsson": "90a41671",
+        "M Simpson-Parker": "fecd828e",
+        "MPS Cheema": "97181d1b",
+        "Mirza Ahsan": "6b74c13b",
+        "Razmal Shigiwal": "60cc80ac",
+        "S Gowda": "52f6fb22",
+        "Sahel Zadran": "dae28050",
+        "Tasaduq Hussain": "f62fa324",
+        "Umar Nawaz": "1ed476fe",
+        "Vinay Malhotra": "452837d1",
+        "W Boshoff": "cad11a02",
+        "Zaker Taqawi": "d7074ddc"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Austria",
+      "Sweden"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sweden"
+    },
+    "venue": "Bayer Uerdingen Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Zaker Taqawi",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Simpson-Parker",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Simpson-Parker",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Razmal Shigiwal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Razmal Shigiwal",
+                  "fielders": [
+                    {
+                      "name": "Azam Khalil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Azam Khalil",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Azam Khalil",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Azam Khalil",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Khalid Zahid",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Randhawa",
+              "bowler": "Azam Khalil",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Azam Khalil",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Azam Khalil",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Randhawa",
+              "bowler": "Zaker Taqawi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Zaker Taqawi",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Azam Khalil",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Randhawa",
+              "bowler": "L Karlsson",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "L Karlsson",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "L Karlsson",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "L Karlsson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "L Karlsson",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "L Karlsson",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "L Karlsson",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "Hamid Mahmood",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "L Karlsson",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "L Karlsson",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "L Karlsson",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "L Karlsson",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "L Karlsson",
+              "non_striker": "Iqbal Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqbal Hossain",
+              "bowler": "L Karlsson",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Iqbal Hossain",
+                  "fielders": [
+                    {
+                      "name": "Azam Khalil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "F Choudary",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Randhawa",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Randhawa",
+                  "fielders": [
+                    {
+                      "name": "W Boshoff"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Mirza Ahsan",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirza Ahsan",
+              "bowler": "Hamid Mahmood",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirza Ahsan",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirza Ahsan",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mirza Ahsan",
+              "bowler": "Hamid Mahmood",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mirza Ahsan",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "F Choudary",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "F Choudary",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "F Choudary",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "F Choudary",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MPS Cheema",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Khalid Zahid",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "MPS Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aqib Iqbal",
+                  "fielders": [
+                    {
+                      "name": "L Karlsson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MPS Cheema",
+              "bowler": "Tasaduq Hussain",
+              "non_striker": "Abdullah Akbarjan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Akbarjan",
+                  "fielders": [
+                    {
+                      "name": "W Boshoff"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sweden",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "Umar Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Nawaz",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umar Nawaz",
+                  "fielders": [
+                    {
+                      "name": "M Simpson-Parker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Hamid Mahmood",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamid Mahmood",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "Hamid Mahmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hamid Mahmood",
+                  "fielders": [
+                    {
+                      "name": "MPS Cheema"
+                    },
+                    {
+                      "name": "Sahel Zadran"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "A Nathwani",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "A Nathwani",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Sahel Zadran",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Sahel Zadran",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Sahel Zadran",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Abdullah Akbarjan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Boshoff",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "W Boshoff",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "W Boshoff",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Boshoff",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "A Venkatesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Venkatesh",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Venkatesh",
+                  "fielders": [
+                    {
+                      "name": "Aqib Iqbal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ismaeel Zia",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Ismaeel Zia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ismaeel Zia",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ismaeel Zia",
+                  "fielders": [
+                    {
+                      "name": "Aqib Iqbal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Iqbal Hossain",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Iqbal Hossain",
+              "non_striker": "Azam Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azam Khalil",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Azam Khalil",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Sahel Zadran",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaker Taqawi",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Khalid Zahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Itibarshah Deedar",
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khalid Zahid",
+              "bowler": "Itibarshah Deedar",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Zaker Taqawi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 134
+      }
+    }
+  ]
+}

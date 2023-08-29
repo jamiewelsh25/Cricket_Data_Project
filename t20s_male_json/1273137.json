@@ -1,0 +1,3127 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-08-21",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Albergaria",
+    "dates": [
+      "2021-08-21"
+    ],
+    "event": {
+      "name": "Portugal T20 Tri-Series",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1233,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Portugal",
+      "by": {
+        "runs": 96
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Azhar Andani"
+    ],
+    "players": {
+      "Portugal": [
+        "Mian Mehmood",
+        "Azhar Andani",
+        "ARA Chambers",
+        "Amir Zaib",
+        "Najjam Shahzad",
+        "Imran Khan",
+        "P Buccimazza",
+        "Sirajullah Khadim",
+        "Amandeep Singh",
+        "Junaid Khan",
+        "M Stoman"
+      ],
+      "Gibraltar": [
+        "L Bruce",
+        "K Nestor",
+        "CJ Delany",
+        "E Packard",
+        "P Hatchman",
+        "JA Fitzgerald",
+        "J Marples",
+        "RJ Hatchman",
+        "MD Garratt",
+        "A Orfila",
+        "CV Harrison"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Orfila": "7c6293d1",
+        "ARA Chambers": "8db27a28",
+        "Amandeep Singh": "d0d32c30",
+        "Amir Zaib": "973006cc",
+        "Azhar Andani": "b5bd99da",
+        "CJ Delany": "3bc56bd6",
+        "CV Harrison": "b0b80a99",
+        "E Packard": "03b9ec54",
+        "Imran Khan": "a0a32dd1",
+        "J Marples": "9d75aec7",
+        "JA Fitzgerald": "4e6ff836",
+        "Junaid Khan": "be0077ba",
+        "K Nestor": "b89cde87",
+        "L Bruce": "2a03bd2f",
+        "M Stoman": "27aec396",
+        "MD Garratt": "aa4154ad",
+        "Mian Mehmood": "4a4991c1",
+        "Najjam Shahzad": "58aa33cd",
+        "P Buccimazza": "ddc7e056",
+        "P Hatchman": "b504e8b8",
+        "R Cunningham": "6779e840",
+        "RJ Hatchman": "01c05b6c",
+        "Sirajullah Khadim": "ff36e706"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "Portugal",
+      "Gibraltar"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Gibraltar"
+    },
+    "venue": "Gucherre Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Portugal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mian Mehmood",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mian Mehmood",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mian Mehmood",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mian Mehmood",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Azhar Andani",
+              "bowler": "RJ Hatchman",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "RJ Hatchman",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "RJ Hatchman",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "RJ Hatchman",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "RJ Hatchman",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ARA Chambers",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ARA Chambers",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "RJ Hatchman",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "E Packard",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "E Packard",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "JA Fitzgerald",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "JA Fitzgerald",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Azhar Andani",
+              "bowler": "K Nestor",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "K Nestor",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "K Nestor",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "K Nestor",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "K Nestor",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "ARA Chambers",
+              "bowler": "CV Harrison",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "CV Harrison",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "CV Harrison",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "CV Harrison",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CV Harrison",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "non_striker": "ARA Chambers",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "CJ Delany",
+                    "out": "CV Harrison",
+                    "reason": "unknown",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "A Orfila",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "ARA Chambers",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "ARA Chambers",
+              "bowler": "A Orfila",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ARA Chambers",
+              "bowler": "A Orfila",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "ARA Chambers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ARA Chambers",
+                  "fielders": [
+                    {
+                      "name": "J Marples"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "A Orfila",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Azhar Andani",
+              "bowler": "P Hatchman",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "P Hatchman",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "P Hatchman",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "P Hatchman",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "P Hatchman",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "P Hatchman",
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "CJ Delany",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Amir Zaib",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Zaib",
+              "bowler": "CJ Delany",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amir Zaib",
+                  "fielders": [
+                    {
+                      "name": "K Nestor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "K Nestor",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azhar Andani",
+              "bowler": "K Nestor",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "K Nestor",
+              "non_striker": "Azhar Andani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Azhar Andani",
+                  "fielders": [
+                    {
+                      "name": "R Cunningham",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "E Packard",
+              "non_striker": "Imran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Khan",
+              "bowler": "E Packard",
+              "non_striker": "Najjam Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imran Khan",
+                  "fielders": [
+                    {
+                      "name": "P Hatchman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Najjam Shahzad",
+              "bowler": "E Packard",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Najjam Shahzad",
+                  "fielders": [
+                    {
+                      "name": "JA Fitzgerald"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "E Packard",
+              "non_striker": "Sirajullah Khadim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "E Packard",
+              "non_striker": "Sirajullah Khadim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Buccimazza",
+              "bowler": "E Packard",
+              "non_striker": "Sirajullah Khadim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sirajullah Khadim",
+              "bowler": "A Orfila",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sirajullah Khadim",
+              "bowler": "A Orfila",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sirajullah Khadim",
+                  "fielders": [
+                    {
+                      "name": "J Marples"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Amandeep Singh",
+              "bowler": "A Orfila",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amandeep Singh",
+              "bowler": "A Orfila",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amandeep Singh",
+              "bowler": "A Orfila",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amandeep Singh",
+              "bowler": "A Orfila",
+              "non_striker": "P Buccimazza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amandeep Singh",
+                  "fielders": [
+                    {
+                      "name": "P Hatchman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Gibraltar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Bruce",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Bruce",
+                  "fielders": [
+                    {
+                      "name": "Imran Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CJ Delany",
+              "bowler": "Najjam Shahzad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "CJ Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CJ Delany",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Delany",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CJ Delany",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "E Packard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Packard",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Sirajullah Khadim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "E Packard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "E Packard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "non_striker": "E Packard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "E Packard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Packard",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Packard",
+                  "fielders": [
+                    {
+                      "name": "Najjam Shahzad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Hatchman",
+              "bowler": "Amir Zaib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Amir Zaib",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Amir Zaib",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Amir Zaib",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Amir Zaib",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Amir Zaib",
+              "non_striker": "P Hatchman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Amir Zaib",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Amir Zaib",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "P Hatchman",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Hatchman",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Hatchman",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amir Zaib",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amir Zaib",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "K Nestor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "K Nestor",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nestor",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Nestor",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amir Zaib",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Marples",
+              "bowler": "Amandeep Singh",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amandeep Singh",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amandeep Singh",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amandeep Singh",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amandeep Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amandeep Singh",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amir Zaib",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amir Zaib",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amir Zaib",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amandeep Singh",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amandeep Singh",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amandeep Singh",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Amandeep Singh",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amandeep Singh",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amandeep Singh",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amandeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Amandeep Singh",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "J Marples",
+              "bowler": "Imran Khan",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Imran Khan",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Imran Khan",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Imran Khan",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Imran Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Imran Khan",
+              "non_striker": "J Marples",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "J Marples",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Marples",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Marples",
+                  "fielders": [
+                    {
+                      "name": "P Buccimazza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "Imran Khan",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Imran Khan",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Imran Khan",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "Imran Khan",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "Imran Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Imran Khan",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "RJ Hatchman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RJ Hatchman",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RJ Hatchman",
+                  "fielders": [
+                    {
+                      "name": "Imran Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MD Garratt",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Garratt",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "JA Fitzgerald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "MD Garratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Najjam Shahzad",
+              "non_striker": "MD Garratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JA Fitzgerald",
+              "bowler": "Junaid Khan",
+              "non_striker": "MD Garratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Fitzgerald",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Orfila",
+              "bowler": "Junaid Khan",
+              "non_striker": "MD Garratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Garratt",
+              "bowler": "Junaid Khan",
+              "non_striker": "A Orfila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Orfila",
+              "bowler": "Junaid Khan",
+              "non_striker": "MD Garratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Orfila",
+              "bowler": "Junaid Khan",
+              "non_striker": "MD Garratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Orfila",
+              "bowler": "Junaid Khan",
+              "non_striker": "MD Garratt",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 218
+      }
+    }
+  ]
+}

@@ -1,0 +1,2785 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-12-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kirtipur",
+    "dates": [
+      "2019-12-07"
+    ],
+    "event": {
+      "name": "South Asian Games Men's Cricket Competition",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1021,
+    "officials": {
+      "match_referees": [
+        "WC Labrooy"
+      ],
+      "reserve_umpires": [
+        "Mahesh Bohara"
+      ],
+      "umpires": [
+        "ID Gunawardene",
+        "BB Pradhan"
+      ]
+    },
+    "outcome": {
+      "winner": "Maldives",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Ibrahim Hassan"
+    ],
+    "players": {
+      "Bhutan": [
+        "Tenzin Wangchuk jnr",
+        "JN Dorji",
+        "T Jamtsho",
+        "J Singye",
+        "S Tobgay",
+        "T Singye",
+        "U Dorji",
+        "K Nima",
+        "K Loday",
+        "J Thinley",
+        "K Dorji"
+      ],
+      "Maldives": [
+        "Mohamed Rishwan",
+        "Ahmed Hassan",
+        "Umar Adam",
+        "Azyan Farhath",
+        "Ibrahim Hassan",
+        "Ibrahim Rizan",
+        "Ameel Mauroof",
+        "Mohamed Azzam",
+        "Nazwan Ismail",
+        "L Shafeeg",
+        "Mohamed Mahfooz"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahmed Hassan": "7c885103",
+        "Ameel Mauroof": "1579d497",
+        "Azyan Farhath": "3e06e7ac",
+        "BB Pradhan": "8603d942",
+        "ID Gunawardene": "63841782",
+        "Ibrahim Hassan": "4add4c98",
+        "Ibrahim Rizan": "7267e3cd",
+        "J Singye": "28574428",
+        "J Thinley": "7714c405",
+        "JN Dorji": "a73251ff",
+        "K Dorji": "f9b9883f",
+        "K Loday": "af76af63",
+        "K Nima": "415ed107",
+        "L Shafeeg": "ed82d9a5",
+        "Mahesh Bohara": "10c8c407",
+        "Mohamed Azzam": "e43c9818",
+        "Mohamed Mahfooz": "44f5a3e4",
+        "Mohamed Rishwan": "7d15170b",
+        "Nazwan Ismail": "c8e5012c",
+        "S Tobgay": "d7f1fe76",
+        "T Jamtsho": "c01d1c0a",
+        "T Singye": "e454c356",
+        "Tenzin Wangchuk jnr": "286fab38",
+        "U Dorji": "12bba2d4",
+        "Umar Adam": "5d77a96a",
+        "WC Labrooy": "29d4e29b"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "Bhutan",
+      "Maldives"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Maldives"
+    },
+    "venue": "Tribhuvan University International Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Bhutan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tenzin Wangchuk jnr",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "JN Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenzin Wangchuk jnr",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "JN Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenzin Wangchuk jnr",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "JN Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Tenzin Wangchuk jnr"
+                }
+              ]
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "JN Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "JN Dorji"
+                }
+              ]
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "L Shafeeg",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "L Shafeeg",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "L Shafeeg",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "L Shafeeg",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "L Shafeeg",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "T Jamtsho"
+                }
+              ]
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Mohamed Mahfooz",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Umar Adam",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Umar Adam",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "J Singye",
+                  "fielders": [
+                    {
+                      "name": "Mohamed Rishwan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Tobgay",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "L Shafeeg",
+              "non_striker": "T Singye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Singye",
+              "bowler": "L Shafeeg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Singye",
+              "bowler": "L Shafeeg",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "T Singye",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "T Singye",
+                  "fielders": [
+                    {
+                      "name": "Mohamed Azzam"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "U Dorji",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tobgay",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "U Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Dorji",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Dorji",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "U Dorji",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "S Tobgay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              },
+              "wickets": [
+                {
+                  "kind": "retired out",
+                  "player_out": "S Tobgay"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "K Nima",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "U Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nima",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "U Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Dorji",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "K Nima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nima",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "U Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Dorji",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "K Nima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "U Dorji",
+                  "fielders": [
+                    {
+                      "name": "Mohamed Azzam"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "K Loday",
+              "bowler": "Ibrahim Hassan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "K Nima",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Maldives",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Jamtsho",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Jamtsho",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Jamtsho",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Nima",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Nima",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Nima",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Mohamed Rishwan"
+                }
+              ]
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Nima",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Nima",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Nima",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Nima",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "T Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "T Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "T Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "T Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "T Singye",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "K Dorji",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "K Dorji",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Ahmed Hassan"
+                }
+              ]
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Thinley",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Singye",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Singye",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Thinley",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Adam",
+              "bowler": "J Thinley",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "J Thinley",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Azyan Farhath",
+              "bowler": "T Jamtsho",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 118
+      }
+    }
+  ]
+}

@@ -1,0 +1,2930 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-03-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2020-03-06"
+    ],
+    "event": {
+      "name": "ACC Eastern Region T20",
+      "match_number": 10
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1076,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "reserve_umpires": [
+        "Samad Akbar"
+      ],
+      "umpires": [
+        "B Manikandan",
+        "Sanjay Gurung"
+      ]
+    },
+    "outcome": {
+      "winner": "Hong Kong",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Malaysia": [
+        "Virandeep Singh",
+        "Anwar Arudin",
+        "Khizar Hayat",
+        "Ahmed Faiz",
+        "Syed Aziz",
+        "Aminuddin Ramly",
+        "S Muniandy",
+        "Fitri Sham",
+        "Syazrul Idrus",
+        "D Mogan",
+        "Pavandeep Singh"
+      ],
+      "Hong Kong": [
+        "Shahid Wasif",
+        "Nizakat Khan",
+        "KD Shah",
+        "Waqas Khan",
+        "JJ Atkinson",
+        "Haroon Arshad",
+        "Aizaz Khan",
+        "Aftab Hussain",
+        "Ehsan Khan",
+        "SS McKechnie",
+        "Waqas Barkat"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aftab Hussain": "3c6b4b2b",
+        "Ahmed Faiz": "f6b4f746",
+        "Aizaz Khan": "f6c2659d",
+        "Aminuddin Ramly": "8cae5b48",
+        "Anwar Arudin": "6d24561a",
+        "B Manikandan": "f46bef25",
+        "D Mogan": "adc96559",
+        "Ehsan Khan": "d3851cd8",
+        "Fitri Sham": "d2ec068c",
+        "Haroon Arshad": "be0f9ce9",
+        "JJ Atkinson": "bf2d865c",
+        "KD Shah": "d5ae21a2",
+        "Khizar Hayat": "78bbeba1",
+        "Nizakat Khan": "e3eb9e46",
+        "Pavandeep Singh": "78fcc740",
+        "S Muniandy": "57fcfd3b",
+        "SS McKechnie": "e6dd77bb",
+        "Samad Akbar": "f05bd21b",
+        "Sanjay Gurung": "0ef792dc",
+        "Shahid Wasif": "2cc08c3c",
+        "Syazrul Idrus": "6dba59e0",
+        "Syed Aziz": "6667067e",
+        "Virandeep Singh": "415d30b6",
+        "Waqas Barkat": "a2eac9df",
+        "Waqas Khan": "35971419"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "Hong Kong",
+      "Malaysia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Malaysia"
+    },
+    "venue": "Terdthai Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Anwar Arudin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Anwar Arudin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Anwar Arudin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Anwar Arudin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Anwar Arudin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anwar Arudin",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anwar Arudin",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Anwar Arudin",
+                  "fielders": [
+                    {
+                      "name": "KD Shah"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "KD Shah",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KD Shah",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "KD Shah",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KD Shah",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KD Shah",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KD Shah",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "KD Shah",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KD Shah",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KD Shah",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KD Shah",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "KD Shah",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "KD Shah",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Khizar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khizar Hayat",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Khizar Hayat",
+                  "fielders": [
+                    {
+                      "name": "KD Shah"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Virandeep Singh",
+                  "fielders": [
+                    {
+                      "name": "Nizakat Khan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Waqas Barkat",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Waqas Barkat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Waqas Barkat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Waqas Barkat",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Ahmed Faiz",
+                  "fielders": [
+                    {
+                      "name": "Nizakat Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "KD Shah",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "KD Shah",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "KD Shah",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "KD Shah",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "KD Shah",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "KD Shah",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aftab Hussain",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "Aftab Hussain",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Haroon Arshad",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Aminuddin Ramly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminuddin Ramly",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Aminuddin Ramly",
+                  "fielders": [
+                    {
+                      "name": "Ehsan Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Haroon Arshad",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Haroon Arshad",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Haroon Arshad",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Aizaz Khan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Syed Aziz",
+                  "fielders": [
+                    {
+                      "name": "KD Shah"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fitri Sham",
+              "bowler": "Aizaz Khan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fitri Sham",
+              "bowler": "Aizaz Khan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Muniandy",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Haroon Arshad",
+              "non_striker": "Fitri Sham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hong Kong",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Pavandeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Nizakat Khan"
+                }
+              ]
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KD Shah",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Khizar Hayat",
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "KD Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "KD Shah"
+                }
+              ]
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "Fitri Sham",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "Fitri Sham",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "Fitri Sham",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Waqas Khan",
+              "bowler": "Fitri Sham",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "Waqas Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Khan",
+              "bowler": "Fitri Sham",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Waqas Khan",
+                  "fielders": [
+                    {
+                      "name": "Pavandeep Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Fitri Sham",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Khizar Hayat",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Fitri Sham",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "D Mogan",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "D Mogan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "S Muniandy",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "S Muniandy",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "S Muniandy",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "S Muniandy",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "S Muniandy",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "S Muniandy",
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Pavandeep Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shahid Wasif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Wasif",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Shahid Wasif",
+                  "fielders": [
+                    {
+                      "name": "Virandeep Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Haroon Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Haroon Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Khizar Hayat",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Fitri Sham",
+              "non_striker": "Haroon Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Fitri Sham",
+              "non_striker": "Haroon Arshad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haroon Arshad",
+              "bowler": "Fitri Sham",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Atkinson",
+              "bowler": "Fitri Sham",
+              "non_striker": "Haroon Arshad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 133
+      }
+    }
+  ]
+}

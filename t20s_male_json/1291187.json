@@ -1,0 +1,3020 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-12-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lauderhill",
+    "dates": [
+      "2021-12-22"
+    ],
+    "event": {
+      "name": "Ireland tour of United States of America and West Indies",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1451,
+    "officials": {
+      "match_referees": [
+        "DT Jukes"
+      ],
+      "tv_umpires": [
+        "Jermaine Lindo"
+      ],
+      "umpires": [
+        "SN Bandekar",
+        "Vijaya Mallela"
+      ]
+    },
+    "outcome": {
+      "winner": "United States of America",
+      "by": {
+        "runs": 26
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "G Singh"
+    ],
+    "players": {
+      "United States of America": [
+        "MD Patel",
+        "RM Scott",
+        "XM Marshall",
+        "RR Behera",
+        "SJ Modani",
+        "G Singh",
+        "MO Kain",
+        "NK Patel",
+        "SN Netravalkar",
+        "Ali Khan",
+        "Yasir Mohammad"
+      ],
+      "Ireland": [
+        "PR Stirling",
+        "A Balbirnie",
+        "L Tucker",
+        "C Campher",
+        "SC Getkate",
+        "NA Rock",
+        "W McClintock",
+        "MR Adair",
+        "Simi Singh",
+        "BJ McCarthy",
+        "B White"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "Ali Khan": "b0eaaac6",
+        "B White": "1a448be0",
+        "BJ McCarthy": "3766056b",
+        "C Campher": "478a63e7",
+        "DT Jukes": "7c215d14",
+        "G Singh": "e93b6c95",
+        "Jermaine Lindo": "1154bf4f",
+        "L Tucker": "3979b5e0",
+        "MD Patel": "25d7f1ac",
+        "MO Kain": "60b46ad1",
+        "MR Adair": "fc55ec67",
+        "NA Rock": "43f4087c",
+        "NK Patel": "c6e10e5c",
+        "PR Stirling": "cf494ffe",
+        "RM Scott": "7febdb69",
+        "RR Behera": "e0672ff4",
+        "SC Getkate": "c8065f31",
+        "SJ Modani": "290cba17",
+        "SN Bandekar": "350528bb",
+        "SN Netravalkar": "c8a3f688",
+        "Simi Singh": "c9945bdf",
+        "Vijaya Mallela": "85b6244a",
+        "W McClintock": "b16ddb79",
+        "XM Marshall": "ffb504b1",
+        "Yasir Mohammad": "fe5175ce"
+      }
+    },
+    "season": "2021/22",
+    "team_type": "international",
+    "teams": [
+      "United States of America",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "United States of America"
+    },
+    "venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill"
+  },
+  "innings": [
+    {
+      "team": "United States of America",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Patel",
+                  "fielders": [
+                    {
+                      "name": "NA Rock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Scott",
+              "bowler": "BJ McCarthy",
+              "non_striker": "XM Marshall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "BJ McCarthy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "XM Marshall",
+              "bowler": "MR Adair",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "MR Adair",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Scott",
+              "bowler": "MR Adair",
+              "non_striker": "XM Marshall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "MR Adair",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Scott",
+              "bowler": "MR Adair",
+              "non_striker": "XM Marshall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "MR Adair",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "XM Marshall",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XM Marshall",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "XM Marshall",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RR Behera",
+              "bowler": "BJ McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Behera",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Behera",
+              "bowler": "BJ McCarthy",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RM Scott",
+              "bowler": "Simi Singh",
+              "non_striker": "RR Behera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Scott",
+              "bowler": "Simi Singh",
+              "non_striker": "RR Behera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Scott",
+              "bowler": "Simi Singh",
+              "non_striker": "RR Behera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Behera",
+              "bowler": "Simi Singh",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Behera",
+              "bowler": "Simi Singh",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Behera",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "RM Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RM Scott",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RM Scott",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RM Scott",
+                  "fielders": [
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "B White",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "B White",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "B White",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "B White",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "MR Adair",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "MR Adair",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "MR Adair",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "MR Adair",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "MR Adair",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "MR Adair",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "B White",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "B White",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Simi Singh",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "Simi Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "B White",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Singh",
+                  "fielders": [
+                    {
+                      "name": "NA Rock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "B White",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "MR Adair",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "MR Adair",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "MR Adair",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "C Campher",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "C Campher",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SJ Modani",
+              "bowler": "BJ McCarthy",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "BJ McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "BJ McCarthy",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "BJ McCarthy",
+              "non_striker": "SJ Modani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Modani",
+              "bowler": "BJ McCarthy",
+              "non_striker": "MO Kain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ Modani",
+                  "fielders": [
+                    {
+                      "name": "Simi Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "BJ McCarthy",
+              "non_striker": "NK Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "NK Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "NK Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "NK Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "NK Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "non_striker": "NK Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MO Kain",
+              "bowler": "MR Adair",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "SN Netravalkar",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "SN Netravalkar",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "SN Netravalkar",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "SN Netravalkar",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "Ali Khan",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "Ali Khan",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "Ali Khan",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Balbirnie",
+                  "fielders": [
+                    {
+                      "name": "Yasir Mohammad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PR Stirling",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "SN Netravalkar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Campher",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "MO Kain",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C Campher",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Campher",
+                  "fielders": [
+                    {
+                      "name": "MD Patel"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SC Getkate",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "MO Kain",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "MO Kain",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SC Getkate",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SC Getkate",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SC Getkate",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SC Getkate",
+                  "fielders": [
+                    {
+                      "name": "RR Behera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "NA Rock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "NA Rock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "NA Rock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Rock",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "NA Rock",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "NA Rock",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "NA Rock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Rock",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA Rock",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "NK Patel",
+              "non_striker": "NA Rock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Rock",
+              "bowler": "NK Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NA Rock",
+                  "fielders": [
+                    {
+                      "name": "RR Behera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "SN Netravalkar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "SN Netravalkar",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "SN Netravalkar",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Ali Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Ali Khan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W McClintock",
+              "bowler": "Ali Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W McClintock",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Ali Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Ali Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Yasir Mohammad",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 189
+      }
+    }
+  ]
+}

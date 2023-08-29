@@ -1,0 +1,1770 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-06-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dublin",
+    "dates": [
+      "2022-06-26"
+    ],
+    "event": {
+      "name": "India tour of Ireland",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1580,
+    "officials": {
+      "match_referees": [
+        "K Gallagher"
+      ],
+      "reserve_umpires": [
+        "Jareth McCready"
+      ],
+      "tv_umpires": [
+        "R Black"
+      ],
+      "umpires": [
+        "M Hawthorne",
+        "PA Reynolds"
+      ]
+    },
+    "outcome": {
+      "winner": "India",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "YS Chahal"
+    ],
+    "players": {
+      "Ireland": [
+        "PR Stirling",
+        "A Balbirnie",
+        "GJ Delany",
+        "HT Tector",
+        "L Tucker",
+        "GH Dockrell",
+        "MR Adair",
+        "AR McBrine",
+        "CA Young",
+        "J Little",
+        "C Olphert"
+      ],
+      "India": [
+        "DJ Hooda",
+        "Ishan Kishan",
+        "SA Yadav",
+        "HH Pandya",
+        "KD Karthik",
+        "RD Gaikwad",
+        "AR Patel",
+        "B Kumar",
+        "Avesh Khan",
+        "YS Chahal",
+        "Umran Malik"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "AR McBrine": "e957b38f",
+        "AR Patel": "2e171977",
+        "Avesh Khan": "eef2536f",
+        "B Kumar": "2e81a32d",
+        "C Olphert": "7afc806f",
+        "CA Young": "bd0a4a7d",
+        "DJ Hooda": "73ad96ed",
+        "GH Dockrell": "99cddc5e",
+        "GJ Delany": "33b3d2df",
+        "HH Pandya": "dbe50b21",
+        "HT Tector": "59ea70a4",
+        "Ishan Kishan": "752f7486",
+        "J Little": "9061a703",
+        "Jareth McCready": "84fa5232",
+        "K Gallagher": "704afd47",
+        "KD Karthik": "c03f1114",
+        "L Tucker": "3979b5e0",
+        "M Hawthorne": "ea123ee4",
+        "MR Adair": "fc55ec67",
+        "PA Reynolds": "a416c9c3",
+        "PR Stirling": "cf494ffe",
+        "R Black": "156c8fb1",
+        "RD Gaikwad": "45a43fe2",
+        "SA Yadav": "271f83cd",
+        "Umran Malik": "81c08fa3",
+        "YS Chahal": "57ee1fde"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Ireland",
+      "India"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "India"
+    },
+    "venue": "The Village, Malahide, Dublin"
+  },
+  "innings": [
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Kumar",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Kumar",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "B Kumar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "B Kumar",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "B Kumar",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Balbirnie",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "B Kumar",
+              "non_striker": "PR Stirling",
+              "review": {
+                "by": "India",
+                "umpire": "M Hawthorne",
+                "batter": "GJ Delany",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "HH Pandya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "HH Pandya",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "HH Pandya",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PR Stirling",
+                  "fielders": [
+                    {
+                      "name": "DJ Hooda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "B Kumar",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "B Kumar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Avesh Khan",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Avesh Khan",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GJ Delany",
+                  "fielders": [
+                    {
+                      "name": "KD Karthik"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Avesh Khan",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "AR Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "AR Patel",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "AR Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "AR Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "AR Patel",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "AR Patel",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Umran Malik",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Umran Malik",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Umran Malik",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Umran Malik",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Umran Malik",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Umran Malik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Umran Malik",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "YS Chahal",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "YS Chahal",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "HH Pandya",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HH Pandya",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "HH Pandya",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "YS Chahal",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "YS Chahal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "YS Chahal",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Tucker",
+                  "fielders": [
+                    {
+                      "name": "AR Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "YS Chahal",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "B Kumar",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "B Kumar",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "YS Chahal",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "YS Chahal",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "YS Chahal",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Avesh Khan",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Avesh Khan",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "J Little",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "J Little",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "J Little",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "J Little",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "J Little",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "J Little",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "MR Adair",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "MR Adair",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ishan Kishan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "review": {
+                "by": "India",
+                "umpire": "M Hawthorne",
+                "batter": "SA Yadav",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Yadav",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "CA Young",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "MR Adair",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MR Adair",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "CA Young",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "CA Young",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "CA Young",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "CA Young",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "CA Young",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "CA Young",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HH Pandya",
+              "bowler": "AR McBrine",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "AR McBrine",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "AR McBrine",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "AR McBrine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "AR McBrine",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "AR McBrine",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "AR McBrine",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "C Olphert",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "C Olphert",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "C Olphert",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "C Olphert",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "C Olphert",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "C Olphert",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "J Little",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "J Little",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "J Little",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "J Little",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "J Little",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "J Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "J Little",
+              "non_striker": "DJ Hooda",
+              "review": {
+                "by": "India",
+                "umpire": "PA Reynolds",
+                "batter": "HH Pandya",
+                "decision": "struck down",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HH Pandya",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "C Olphert",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "C Olphert",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "C Olphert",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "C Olphert",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "C Olphert",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "C Olphert",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "C Olphert",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "C Olphert",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "J Little",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "J Little",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 12,
+        "runs": 109
+      }
+    }
+  ]
+}

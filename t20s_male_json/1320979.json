@@ -1,0 +1,3109 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-07-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ghent",
+    "dates": [
+      "2022-07-01"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C",
+      "match_number": 11,
+      "group": "2"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1596,
+    "officials": {
+      "match_referees": [
+        "Phil Whitticase"
+      ],
+      "reserve_umpires": [
+        "Adriaan van den Dries"
+      ],
+      "umpires": [
+        "Jonathan Kennedy",
+        "Vinay Malhotra"
+      ]
+    },
+    "outcome": {
+      "winner": "Malta",
+      "by": {
+        "runs": 16
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "HS Gericke"
+    ],
+    "players": {
+      "Malta": [
+        "B Arora",
+        "SSM Stanislaus",
+        "B George",
+        "HS Gericke",
+        "VP Thamotharam",
+        "Zeeshan Khan",
+        "Aaftab Alam Khan",
+        "Bilal Muhammad",
+        "Imran Ameer",
+        "J Shaju",
+        "Washeem Abbas"
+      ],
+      "Israel": [
+        "Yogev Nagavkar",
+        "S Bangera",
+        "J Evans",
+        "E Solomon",
+        "E Kahamker",
+        "A Amado",
+        "Niv Nagavkar",
+        "G Schachat",
+        "Yair Nagavkar",
+        "T Kahamker",
+        "L Kamarlekar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Amado": "14ea3348",
+        "Aaftab Alam Khan": "9dbc77b3",
+        "Adriaan van den Dries": "94b5ec3b",
+        "B Arora": "39e9f0c9",
+        "B George": "1bdbf53b",
+        "Bilal Muhammad": "eb5aa5b9",
+        "E Kahamker": "41acc8bf",
+        "E Solomon": "8da9a284",
+        "G Chaturvedi": "e1c92333",
+        "G Schachat": "ff92e604",
+        "HS Gericke": "c28a293e",
+        "Imran Ameer": "b8e65260",
+        "J Evans": "027662be",
+        "J Shaju": "d8bee9a1",
+        "Jonathan Kennedy": "f7ad4494",
+        "L Kamarlekar": "6024d149",
+        "Niv Nagavkar": "e2abcf16",
+        "Phil Whitticase": "99d5f6fa",
+        "S Bangera": "856fc47a",
+        "SSM Stanislaus": "34dd3fd9",
+        "T Kahamker": "125853c3",
+        "VP Thamotharam": "eb40ed89",
+        "Vinay Malhotra": "452837d1",
+        "Washeem Abbas": "6de4e430",
+        "Yair Nagavkar": "138e30ab",
+        "Yogev Nagavkar": "c85bea6b",
+        "Zeeshan Khan": "3f9b1a96"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Malta",
+      "Israel"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Israel"
+    },
+    "venue": "Meersen, Gent"
+  },
+  "innings": [
+    {
+      "team": "Malta",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "E Kahamker",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "E Kahamker",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "E Kahamker",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "E Kahamker",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "E Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "E Kahamker",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "B Arora",
+              "bowler": "A Amado",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "A Amado",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "A Amado",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "A Amado",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "A Amado",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Arora",
+              "bowler": "A Amado",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Arora",
+                  "fielders": [
+                    {
+                      "name": "L Kamarlekar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B George",
+              "bowler": "A Amado",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "A Amado",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "A Amado",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "A Amado",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "T Kahamker",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "T Kahamker",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "T Kahamker",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "T Kahamker",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "T Kahamker",
+              "non_striker": "SSM Stanislaus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SSM Stanislaus",
+              "bowler": "T Kahamker",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SSM Stanislaus",
+                  "fielders": [
+                    {
+                      "name": "Yair Nagavkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "B George",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B George",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B George",
+                  "fielders": [
+                    {
+                      "name": "E Solomon"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "VP Thamotharam",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VP Thamotharam",
+                  "fielders": [
+                    {
+                      "name": "L Kamarlekar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "T Kahamker",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "T Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "HS Gericke",
+              "bowler": "J Evans",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "J Evans",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "J Evans",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "J Evans",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "J Evans",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "J Evans",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "HS Gericke",
+              "bowler": "E Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "E Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "E Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "E Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "E Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "E Kahamker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "E Kahamker",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "J Evans",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "J Evans",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "J Evans",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "J Evans",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "J Evans",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "J Evans",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeeshan Khan",
+                  "fielders": [
+                    {
+                      "name": "E Solomon"
+                    },
+                    {
+                      "name": "L Kamarlekar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "J Evans",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Gericke",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HS Gericke",
+                  "fielders": [
+                    {
+                      "name": "A Amado"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Bilal Muhammad",
+              "bowler": "J Evans",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "J Evans",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Muhammad",
+              "bowler": "J Evans",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bilal Muhammad",
+                  "fielders": [
+                    {
+                      "name": "T Kahamker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "J Evans",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "J Evans",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aaftab Alam Khan",
+              "bowler": "J Evans",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aaftab Alam Khan",
+                  "fielders": [
+                    {
+                      "name": "L Kamarlekar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Imran Ameer",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "J Shaju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Ameer",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "J Shaju",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Shaju",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Ameer",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "J Shaju",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Shaju",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Shaju",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Imran Ameer",
+              "bowler": "J Evans",
+              "non_striker": "J Shaju",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Shaju",
+              "bowler": "J Evans",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Shaju",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Washeem Abbas",
+              "bowler": "J Evans",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Ameer",
+              "bowler": "J Evans",
+              "non_striker": "Washeem Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Washeem Abbas",
+              "bowler": "J Evans",
+              "non_striker": "Imran Ameer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Ameer",
+              "bowler": "J Evans",
+              "non_striker": "Washeem Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Imran Ameer",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Washeem Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imran Ameer",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Washeem Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Ameer",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Washeem Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imran Ameer",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Washeem Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imran Ameer",
+                  "fielders": [
+                    {
+                      "name": "L Kamarlekar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Israel",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Bangera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "S Bangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bangera",
+                  "fielders": [
+                    {
+                      "name": "HS Gericke"
+                    },
+                    {
+                      "name": "Washeem Abbas"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "J Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Evans",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Evans",
+                  "fielders": [
+                    {
+                      "name": "Imran Ameer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "J Shaju",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "J Shaju",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "J Shaju",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "J Shaju",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "J Shaju",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Yogev Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yogev Nagavkar",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yogev Nagavkar",
+                  "fielders": [
+                    {
+                      "name": "G Chaturvedi",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Kahamker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kahamker",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Kahamker",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Amado",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Amado",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Amado",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Imran Ameer",
+              "non_striker": "A Amado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Amado",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amado",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amado",
+              "bowler": "Imran Ameer",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "B Arora",
+              "non_striker": "A Amado",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "B Arora",
+              "non_striker": "A Amado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Amado",
+              "bowler": "B Arora",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amado",
+              "bowler": "B Arora",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Amado",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Niv Nagavkar",
+              "bowler": "B Arora",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Niv Nagavkar",
+              "bowler": "B Arora",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Niv Nagavkar",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Niv Nagavkar",
+                  "fielders": [
+                    {
+                      "name": "G Chaturvedi",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "B Arora",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "B Arora",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "B Arora",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "B Arora",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "B Arora",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "B Arora",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "VP Thamotharam",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "VP Thamotharam",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "E Solomon",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "Washeem Abbas",
+              "non_striker": "E Solomon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Solomon",
+              "bowler": "Washeem Abbas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Solomon",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Yair Nagavkar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "G Schachat",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yair Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yair Nagavkar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Schachat",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 137
+      }
+    }
+  ]
+}

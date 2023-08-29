@@ -1,0 +1,2420 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-10-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2021-10-17"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 6,
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1305,
+    "officials": {
+      "match_referees": [
+        "SA Fritz"
+      ],
+      "reserve_umpires": [
+        "C Phiri"
+      ],
+      "umpires": [
+        "A Paleker",
+        "C Thorburn"
+      ]
+    },
+    "outcome": {
+      "winner": "Malawi",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MA Baig"
+    ],
+    "players": {
+      "Swaziland": [
+        "C Forbes",
+        "Muhammad Amin",
+        "Naeem Gull",
+        "J Ghadiyali",
+        "Umair Qasim",
+        "JJ Wright",
+        "Shehzad Patel",
+        "J Hansrod",
+        "M Magagula",
+        "S Kubheka",
+        "JF Chester"
+      ],
+      "Malawi": [
+        "G Kansonkho",
+        "D Kansonkho",
+        "Sami Sohail",
+        "MA Baig",
+        "M Mwamadi",
+        "L Nakomo",
+        "A Kansonkho",
+        "C Chete",
+        "GM Ntambalika",
+        "B Pondani",
+        "M Abdulla"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kansonkho": "5f77f4ec",
+        "A Paleker": "634b11ac",
+        "B Pondani": "e5117568",
+        "C Chete": "ef4f539a",
+        "C Forbes": "8a9e3cd0",
+        "C Phiri": "ade73404",
+        "C Thorburn": "904288fe",
+        "D Kansonkho": "45ca12a7",
+        "G Kansonkho": "f3ca5af8",
+        "GM Ntambalika": "8c8a3f08",
+        "J Ghadiyali": "53419aff",
+        "J Hansrod": "a8473c4a",
+        "JF Chester": "5a719b87",
+        "JJ Wright": "c5981c9c",
+        "L Nakomo": "1abfa11e",
+        "M Abdulla": "792805ee",
+        "M Magagula": "7a787b98",
+        "M Mwamadi": "00029c30",
+        "MA Baig": "89394502",
+        "Muhammad Amin": "ce9ce42f",
+        "Naeem Gull": "4c49c917",
+        "S Kubheka": "d0178c53",
+        "SA Fritz": "d15e60c8",
+        "Sami Sohail": "602ebd4c",
+        "Shehzad Patel": "101373a3",
+        "Umair Qasim": "e086735b"
+      }
+    },
+    "season": "2021/22",
+    "team_type": "international",
+    "teams": [
+      "Swaziland",
+      "Malawi"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malawi"
+    },
+    "venue": "Integrated Polytechnic Regional Centre"
+  },
+  "innings": [
+    {
+      "team": "Swaziland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "GM Ntambalika",
+              "non_striker": "C Forbes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "GM Ntambalika",
+              "non_striker": "C Forbes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "C Forbes",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "Sami Sohail",
+              "non_striker": "C Forbes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "Sami Sohail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "GM Ntambalika",
+              "non_striker": "C Forbes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "GM Ntambalika",
+              "non_striker": "C Forbes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Forbes",
+              "bowler": "GM Ntambalika",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Forbes",
+                  "fielders": [
+                    {
+                      "name": "C Chete"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "M Abdulla",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "M Abdulla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "M Abdulla",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "M Abdulla",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "Muhammad Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amin",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Amin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "D Kansonkho",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "M Abdulla",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "M Abdulla",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "M Abdulla",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "M Abdulla",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "M Abdulla",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "MA Baig",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "MA Baig",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "MA Baig",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "MA Baig",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "MA Baig",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "MA Baig",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Naeem Gull",
+              "bowler": "D Kansonkho",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "D Kansonkho",
+              "non_striker": "J Ghadiyali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "D Kansonkho",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "MA Baig",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Ghadiyali",
+              "bowler": "MA Baig",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Ghadiyali",
+                  "fielders": [
+                    {
+                      "name": "Sami Sohail"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "MA Baig",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "MA Baig",
+              "non_striker": "Naeem Gull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naeem Gull",
+              "bowler": "MA Baig",
+              "non_striker": "Umair Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Naeem Gull",
+                  "fielders": [
+                    {
+                      "name": "A Kansonkho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Umair Qasim",
+              "bowler": "MA Baig",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umair Qasim",
+                  "fielders": [
+                    {
+                      "name": "Sami Sohail"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shehzad Patel",
+              "bowler": "D Kansonkho",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shehzad Patel",
+              "bowler": "D Kansonkho",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shehzad Patel",
+              "bowler": "D Kansonkho",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shehzad Patel",
+              "bowler": "D Kansonkho",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shehzad Patel",
+              "bowler": "D Kansonkho",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Wright",
+              "bowler": "D Kansonkho",
+              "non_striker": "Shehzad Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JJ Wright",
+              "bowler": "MA Baig",
+              "non_striker": "Shehzad Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Wright",
+              "bowler": "MA Baig",
+              "non_striker": "Shehzad Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shehzad Patel",
+              "bowler": "MA Baig",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shehzad Patel",
+                  "fielders": [
+                    {
+                      "name": "A Kansonkho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Hansrod",
+              "bowler": "MA Baig",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Wright",
+              "bowler": "MA Baig",
+              "non_striker": "J Hansrod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Hansrod",
+              "bowler": "MA Baig",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JJ Wright",
+              "bowler": "Sami Sohail",
+              "non_striker": "J Hansrod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Hansrod",
+              "bowler": "Sami Sohail",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Hansrod",
+              "bowler": "Sami Sohail",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Hansrod",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Wright",
+              "bowler": "Sami Sohail",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JJ Wright",
+              "bowler": "MA Baig",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Wright",
+              "bowler": "MA Baig",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "MA Baig",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "MA Baig",
+              "non_striker": "JJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Wright",
+              "bowler": "MA Baig",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Wright",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Kubheka",
+              "bowler": "MA Baig",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kubheka",
+              "bowler": "Sami Sohail",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kubheka",
+              "bowler": "Sami Sohail",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Kubheka",
+              "bowler": "M Mwamadi",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "M Mwamadi",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kubheka",
+              "bowler": "M Mwamadi",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "M Mwamadi",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "M Mwamadi",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "M Mwamadi",
+              "non_striker": "S Kubheka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Kubheka",
+              "bowler": "Sami Sohail",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kubheka",
+                  "fielders": [
+                    {
+                      "name": "G Kansonkho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "JF Chester",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "JF Chester",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "Sami Sohail",
+              "non_striker": "JF Chester",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JF Chester",
+              "bowler": "Sami Sohail",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JF Chester",
+              "bowler": "Sami Sohail",
+              "non_striker": "M Magagula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Magagula",
+              "bowler": "M Mwamadi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JF Chester",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "M Mwamadi",
+              "non_striker": "JF Chester",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Magagula",
+              "bowler": "M Mwamadi",
+              "non_striker": "JF Chester",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Magagula",
+                  "fielders": [
+                    {
+                      "name": "L Nakomo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malawi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "JJ Wright",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "JJ Wright",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Umair Qasim",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "M Magagula",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Kansonkho",
+                  "fielders": [
+                    {
+                      "name": "Naeem Gull"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Muhammad Amin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Muhammad Amin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Muhammad Amin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Muhammad Amin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "M Magagula",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "M Magagula",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "Muhammad Amin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Amin",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "J Ghadiyali",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "J Ghadiyali",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "J Ghadiyali",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "J Ghadiyali",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "J Ghadiyali",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "J Ghadiyali",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "S Kubheka",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "S Kubheka",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "S Kubheka",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "S Kubheka",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "S Kubheka",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "S Kubheka",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "G Kansonkho",
+              "bowler": "J Ghadiyali",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Kansonkho",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MA Baig",
+              "bowler": "J Ghadiyali",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "J Ghadiyali",
+              "non_striker": "MA Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "J Ghadiyali",
+              "non_striker": "MA Baig",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 98
+      }
+    }
+  ]
+}

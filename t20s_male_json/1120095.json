@@ -1,0 +1,1355 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-08-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Thiruvananthapuram",
+    "dates": [
+      "2017-11-07"
+    ],
+    "event": {
+      "name": "New Zealand tour of India",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 632,
+    "missing": [
+      "reviews"
+    ],
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "C Shamshuddin"
+      ],
+      "tv_umpires": [
+        "CK Nandan"
+      ],
+      "umpires": [
+        "AK Chaudhary",
+        "Nitin Menon"
+      ]
+    },
+    "outcome": {
+      "winner": "India",
+      "by": {
+        "runs": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "JJ Bumrah"
+    ],
+    "players": {
+      "India": [
+        "RG Sharma",
+        "S Dhawan",
+        "V Kohli",
+        "SS Iyer",
+        "MK Pandey",
+        "HH Pandya",
+        "MS Dhoni",
+        "B Kumar",
+        "JJ Bumrah",
+        "Kuldeep Yadav",
+        "YS Chahal"
+      ],
+      "New Zealand": [
+        "MJ Guptill",
+        "C Munro",
+        "KS Williamson",
+        "GD Phillips",
+        "C de Grandhomme",
+        "HM Nicholls",
+        "TC Bruce",
+        "MJ Santner",
+        "TA Boult",
+        "TG Southee",
+        "IS Sodhi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AK Chaudhary": "fdcc6236",
+        "B Kumar": "2e81a32d",
+        "BC Broad": "d6a7dd38",
+        "C Munro": "af2c687b",
+        "C Shamshuddin": "0f9d921b",
+        "C de Grandhomme": "94d7f855",
+        "CK Nandan": "012de9c4",
+        "GD Phillips": "9a46c4e5",
+        "HH Pandya": "dbe50b21",
+        "HM Nicholls": "03521fd3",
+        "IS Sodhi": "641ac5ff",
+        "JJ Bumrah": "462411b3",
+        "KS Williamson": "d027ba9f",
+        "Kuldeep Yadav": "8d2c70ad",
+        "MJ Guptill": "2be41edb",
+        "MJ Santner": "e4a0deae",
+        "MK Pandey": "93b4fc78",
+        "MS Dhoni": "4a8a2e3b",
+        "Nitin Menon": "e1d41d9e",
+        "RG Sharma": "740742ef",
+        "S Dhawan": "0a476045",
+        "SS Iyer": "85ec8e33",
+        "TA Boult": "a818c1be",
+        "TC Bruce": "f92c9151",
+        "TG Southee": "13c35c9e",
+        "V Kohli": "ba607b88",
+        "YS Chahal": "57ee1fde"
+      }
+    },
+    "season": "2017/18",
+    "team_type": "international",
+    "teams": [
+      "India",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "New Zealand"
+    },
+    "venue": "Greenfield International Stadium"
+  },
+  "innings": [
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "TA Boult",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "TA Boult",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "TA Boult",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "TA Boult",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "TA Boult",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "TA Boult",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "MJ Santner",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MJ Santner",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MJ Santner",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MJ Santner",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MJ Santner",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MJ Santner",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "TG Southee",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "TG Southee",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Dhawan",
+                  "fielders": [
+                    {
+                      "name": "MJ Santner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "TG Southee",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RG Sharma",
+                  "fielders": [
+                    {
+                      "name": "MJ Santner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "TG Southee",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "TG Southee",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "TG Southee",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "IS Sodhi",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Kohli",
+                  "fielders": [
+                    {
+                      "name": "TA Boult"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MK Pandey",
+              "bowler": "TG Southee",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "TG Southee",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "TG Southee",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "TG Southee",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "TG Southee",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "TG Southee",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MK Pandey",
+              "bowler": "IS Sodhi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "IS Sodhi",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "IS Sodhi",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Iyer",
+                  "fielders": [
+                    {
+                      "name": "MJ Guptill"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "IS Sodhi",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "IS Sodhi",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HH Pandya",
+              "bowler": "MJ Santner",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MJ Santner",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "MJ Santner",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "MJ Santner",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MJ Santner",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MJ Santner",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HH Pandya",
+              "bowler": "TA Boult",
+              "non_striker": "MK Pandey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Pandey",
+              "bowler": "TA Boult",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MK Pandey",
+                  "fielders": [
+                    {
+                      "name": "C de Grandhomme"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "TA Boult",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "TA Boult",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "TA Boult",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "TA Boult",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "B Kumar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "B Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "B Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "B Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "B Kumar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "B Kumar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MJ Guptill",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "C Munro",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munro",
+                  "fielders": [
+                    {
+                      "name": "RG Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "JJ Bumrah",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "JJ Bumrah",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "YS Chahal",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "YS Chahal",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "YS Chahal",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "YS Chahal",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "YS Chahal",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "YS Chahal",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "B Kumar",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "B Kumar",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "B Kumar",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "B Kumar",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "B Kumar",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "B Kumar",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KS Williamson",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "KS Williamson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Williamson",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KS Williamson",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GD Phillips",
+                  "fielders": [
+                    {
+                      "name": "S Dhawan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "HM Nicholls",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "HM Nicholls",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HM Nicholls",
+              "bowler": "YS Chahal",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "YS Chahal",
+              "non_striker": "HM Nicholls",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "YS Chahal",
+              "non_striker": "HM Nicholls",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "YS Chahal",
+              "non_striker": "HM Nicholls",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Nicholls",
+              "bowler": "YS Chahal",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Nicholls",
+              "bowler": "YS Chahal",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HM Nicholls",
+              "bowler": "JJ Bumrah",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HM Nicholls",
+                  "fielders": [
+                    {
+                      "name": "SS Iyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "JJ Bumrah",
+              "non_striker": "TC Bruce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "JJ Bumrah",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "TC Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TC Bruce",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "TC Bruce",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MJ Santner",
+              "bowler": "HH Pandya",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "HH Pandya",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "HH Pandya",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "HH Pandya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "HH Pandya",
+              "non_striker": "MJ Santner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "HH Pandya",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Santner",
+              "bowler": "HH Pandya",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 8,
+        "runs": 68
+      }
+    }
+  ]
+}

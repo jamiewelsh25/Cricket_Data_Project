@@ -1,0 +1,1930 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-11-21",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-11-18"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 8
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1895,
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "umpires": [
+        "A Paleker",
+        "Itangishaka Olivier"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Seychelles": [
+        "Mazharul Islam",
+        "TKP Rajapaksha",
+        "SKDT Madusanka",
+        "STRA de Silva",
+        "D Kalvin",
+        "T Shanmugam",
+        "S Rukmal",
+        "N Krishna",
+        "S Udhayan",
+        "SR Rocket",
+        "SR Mohan"
+      ],
+      "Mali": [
+        "MT Diaby",
+        "Mohamed Coulibaly",
+        "L Berthe",
+        "L Sanogo",
+        "M Malle",
+        "CA Keita",
+        "MS Diawara",
+        "D Traore",
+        "S Kamate",
+        "SG Diaby",
+        "TM Macalou"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Paleker": "634b11ac",
+        "CA Keita": "5b9b8d98",
+        "D Kalvin": "895ae8b6",
+        "D Odhiambo": "45994517",
+        "D Traore": "273be75a",
+        "Itangishaka Olivier": "0ee3bb49",
+        "L Berthe": "8eb7c5a6",
+        "L Sanogo": "abbc06cf",
+        "M Malle": "e15c6692",
+        "MS Diawara": "8c95e2dd",
+        "MT Diaby": "5d00cd6f",
+        "Mazharul Islam": "30564b3e",
+        "Mohamed Coulibaly": "86ea6123",
+        "N Krishna": "c62a0327",
+        "S Kamate": "d7af6207",
+        "S Rukmal": "f5be7b08",
+        "S Udhayan": "a8d6305d",
+        "S Wadvalla": "c1a1acf3",
+        "SG Diaby": "fe3e9880",
+        "SKDT Madusanka": "95c2d309",
+        "SR Mohan": "58533699",
+        "SR Rocket": "ee3bfb9b",
+        "STRA de Silva": "21fe743b",
+        "T Shanmugam": "60fc2c8c",
+        "TKP Rajapaksha": "b5dcec37",
+        "TM Macalou": "8a9320a1"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Seychelles",
+      "Mali"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Mali"
+    },
+    "venue": "Integrated Polytechnic Regional Centre"
+  },
+  "innings": [
+    {
+      "team": "Seychelles",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SG Diaby",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mazharul Islam",
+              "bowler": "SG Diaby",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "Mazharul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mazharul Islam",
+                  "fielders": [
+                    {
+                      "name": "D Traore"
+                    },
+                    {
+                      "name": "TM Macalou"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "SG Diaby",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "SG Diaby",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "L Sanogo",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "SG Diaby",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "SG Diaby",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "L Sanogo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "L Sanogo",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "L Sanogo",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "L Sanogo",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "L Sanogo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "L Sanogo",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "S Kamate",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "S Kamate",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "S Kamate",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "S Kamate",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "S Kamate",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "S Kamate",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "S Kamate",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "Mohamed Coulibaly",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "S Kamate",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "S Kamate",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "S Kamate",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "S Kamate",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "S Kamate",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "S Kamate",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "TM Macalou",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "TM Macalou",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "SKDT Madusanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SKDT Madusanka",
+              "bowler": "MS Diawara",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SKDT Madusanka",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "MS Diawara",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "MS Diawara",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "MS Diawara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "MS Diawara",
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TKP Rajapaksha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TKP Rajapaksha",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TKP Rajapaksha",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "TM Macalou",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "TM Macalou",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "TM Macalou",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "TM Macalou",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "MS Diawara",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "MS Diawara",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "MS Diawara",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SG Diaby",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SG Diaby",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SG Diaby",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SG Diaby",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SG Diaby",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SG Diaby",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "SG Diaby",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "D Kalvin",
+              "bowler": "L Sanogo",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "L Sanogo",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "D Kalvin",
+              "bowler": "SG Diaby",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "SG Diaby",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "SG Diaby",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "SG Diaby",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "SG Diaby",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "SG Diaby",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "L Sanogo",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STRA de Silva",
+              "bowler": "L Sanogo",
+              "non_striker": "D Kalvin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kalvin",
+              "bowler": "L Sanogo",
+              "non_striker": "STRA de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Mali",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "T Shanmugam",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "T Shanmugam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "T Shanmugam",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MT Diaby",
+              "bowler": "SR Rocket",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "SR Rocket",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "SR Rocket",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "SR Rocket",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "SR Rocket",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "SR Rocket",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "SR Rocket",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Diaby",
+              "bowler": "T Shanmugam",
+              "non_striker": "Mohamed Coulibaly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "SR Rocket",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "SR Rocket",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "SR Rocket",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "SR Rocket",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "SR Rocket",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohamed Coulibaly",
+              "bowler": "SR Rocket",
+              "non_striker": "MT Diaby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Coulibaly",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MT Diaby",
+              "bowler": "N Krishna",
+              "non_striker": "L Berthe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MT Diaby",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.1,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 163
+      }
+    }
+  ]
+}

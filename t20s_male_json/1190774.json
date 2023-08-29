@@ -1,0 +1,2667 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-07-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2019-07-27"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Asia Region Final",
+      "match_number": 8
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 838,
+    "officials": {
+      "match_referees": [
+        "M Nayyar"
+      ],
+      "reserve_umpires": [
+        "BB Pradhan"
+      ],
+      "umpires": [
+        "V Kalidas",
+        "Tabarak Dar"
+      ]
+    },
+    "outcome": {
+      "winner": "Nepal",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "P Khadka"
+    ],
+    "players": {
+      "Kuwait": [
+        "R Sandaruwan",
+        "Meet Bhavsar",
+        "Adnan Idrees",
+        "Bilal Tahir",
+        "MNM Aslam",
+        "Usman Waheed",
+        "Muhammad Kashif",
+        "Shiraz Khan",
+        "Mohammad Ahsan",
+        "Jandu Hamoud",
+        "Ilyas Ahmed"
+      ],
+      "Nepal": [
+        "P Khadka",
+        "G Malla",
+        "S Vesawkar",
+        "DS Airee",
+        "RK Paudel",
+        "B Regmi",
+        "S Lamichhane",
+        "Karan KC",
+        "Sompal Kami",
+        "B Bhandari",
+        "A Bohara"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bohara": "64fb6b15",
+        "Adnan Idrees": "0e34c23a",
+        "B Bhandari": "82342b13",
+        "B Regmi": "98d05440",
+        "BB Pradhan": "8603d942",
+        "Bilal Tahir": "3cf06094",
+        "DS Airee": "1747ea18",
+        "G Malla": "b2e1d224",
+        "Ilyas Ahmed": "42a01b52",
+        "Jandu Hamoud": "324edd0c",
+        "Karan KC": "f53b3e1d",
+        "M Nayyar": "b7bccddb",
+        "MNM Aslam": "20481563",
+        "Meet Bhavsar": "b25a3800",
+        "Mohammad Ahsan": "62474838",
+        "Muhammad Kashif": "e7458e4b",
+        "P Khadka": "12c3ba4d",
+        "R Sandaruwan": "cf6acc0d",
+        "RK Paudel": "1a3cc554",
+        "S Lamichhane": "b410bd3d",
+        "S Vesawkar": "3de06845",
+        "Shiraz Khan": "f310704c",
+        "Sompal Kami": "1adb8ee8",
+        "Tabarak Dar": "2259c12d",
+        "Usman Waheed": "910584a7",
+        "V Kalidas": "42d76418"
+      }
+    },
+    "season": "2019",
+    "team_type": "international",
+    "teams": [
+      "Kuwait",
+      "Nepal"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Nepal"
+    },
+    "venue": "Indian Association Ground"
+  },
+  "innings": [
+    {
+      "team": "Kuwait",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Meet Bhavsar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Meet Bhavsar",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Meet Bhavsar",
+                  "fielders": [
+                    {
+                      "name": "B Bhandari"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Karan KC",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Karan KC",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Karan KC",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Karan KC",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "non_boundary": true,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sandaruwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "R Sandaruwan",
+              "bowler": "B Regmi",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "R Sandaruwan"
+                }
+              ]
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "B Regmi",
+              "non_striker": "Adnan Idrees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adnan Idrees",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Adnan Idrees",
+                  "fielders": [
+                    {
+                      "name": "S Vesawkar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MNM Aslam",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "B Regmi",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "B Regmi",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "B Regmi",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Bilal Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Bilal Tahir",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Bilal Tahir",
+                  "fielders": [
+                    {
+                      "name": "P Khadka"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Usman Waheed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Usman Waheed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Waheed",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Usman Waheed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MNM Aslam",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "S Lamichhane",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "S Lamichhane",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MNM Aslam",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "B Regmi",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "B Regmi",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "B Regmi",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Sompal Kami",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Sompal Kami",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Sompal Kami",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "Sompal Kami",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Sompal Kami",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "Sompal Kami",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MNM Aslam",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "MNM Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MNM Aslam",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MNM Aslam",
+                  "fielders": [
+                    {
+                      "name": "B Regmi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "S Lamichhane",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "S Lamichhane",
+              "non_striker": "Shiraz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "S Lamichhane",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "S Lamichhane",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shiraz Khan",
+              "bowler": "S Lamichhane",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Shiraz Khan"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "S Lamichhane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "S Lamichhane",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "Karan KC",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "Karan KC",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "Karan KC",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "B Regmi",
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "B Regmi",
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "B Regmi",
+              "non_striker": "Mohammad Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ahsan",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mohammad Ahsan",
+                  "fielders": [
+                    {
+                      "name": "P Khadka"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Jandu Hamoud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jandu Hamoud",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Jandu Hamoud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jandu Hamoud",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jandu Hamoud",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Jandu Hamoud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Jandu Hamoud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jandu Hamoud",
+              "bowler": "Karan KC",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Jandu Hamoud",
+                  "fielders": [
+                    {
+                      "name": "Sompal Kami"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "Karan KC",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ilyas Ahmed",
+              "bowler": "A Bohara",
+              "non_striker": "Muhammad Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Kashif",
+              "bowler": "A Bohara",
+              "non_striker": "Ilyas Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Ilyas Ahmed",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "G Malla",
+                  "fielders": [
+                    {
+                      "name": "Bilal Tahir"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Jandu Hamoud",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Vesawkar",
+              "bowler": "MNM Aslam",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "MNM Aslam",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "MNM Aslam",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "MNM Aslam",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "MNM Aslam",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "MNM Aslam",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "MNM Aslam",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "MNM Aslam",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "MNM Aslam",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "MNM Aslam",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "MNM Aslam",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "MNM Aslam",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Mohammad Ahsan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Meet Bhavsar",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Meet Bhavsar",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Meet Bhavsar",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Meet Bhavsar",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Meet Bhavsar",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Meet Bhavsar",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "P Khadka",
+                  "fielders": [
+                    {
+                      "name": "Shiraz Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DS Airee",
+                  "fielders": [
+                    {
+                      "name": "Adnan Idrees"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Shiraz Khan",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shiraz Khan",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shiraz Khan",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Muhammad Kashif",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 142
+      }
+    }
+  ]
+}

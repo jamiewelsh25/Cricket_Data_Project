@@ -1,0 +1,822 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-02-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Murcia",
+    "dates": [
+      "2023-02-26"
+    ],
+    "event": {
+      "name": "Isle of Man tour of Spain",
+      "match_number": 6
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2005,
+    "officials": {
+      "umpires": [
+        "DJ Clark",
+        "MJ Chappell"
+      ]
+    },
+    "outcome": {
+      "winner": "Spain",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Atif Mehmood"
+    ],
+    "players": {
+      "Isle of Man": [
+        "A McAuley",
+        "G Burrows",
+        "L Ward",
+        "C Hartmann",
+        "EF Beard",
+        "C Webster",
+        "JA Burrows",
+        "J Butler",
+        "F Clarke",
+        "E Walker",
+        "K Cawte"
+      ],
+      "Spain": [
+        "Awais Ahmed",
+        "Mohammad Ihsan",
+        "D Doyle-Calle",
+        "AD Algar",
+        "C Rumistrzewicz",
+        "LA Burns",
+        "Atif Mehmood",
+        "Shafat Ali Syed",
+        "R Panchal",
+        "C Munoz-Mills",
+        "Mohammad Kamran"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A McAuley": "39e599c8",
+        "AD Algar": "020e49e9",
+        "Atif Mehmood": "7fcc57bf",
+        "Awais Ahmed": "f9f857dc",
+        "C Hartmann": "467c28f9",
+        "C Munoz-Mills": "17bc032c",
+        "C Rumistrzewicz": "3ed4e2ad",
+        "C Webster": "f7bf6004",
+        "D Doyle-Calle": "74be2916",
+        "DJ Clark": "d547fe55",
+        "E Walker": "b312a9c1",
+        "EF Beard": "68019a70",
+        "F Clarke": "0c95e20e",
+        "G Burrows": "8bee668b",
+        "J Butler": "efcb778e",
+        "JA Burrows": "dba54d8e",
+        "K Cawte": "a2dd9236",
+        "L Ward": "98f33eed",
+        "LA Burns": "5b616bf0",
+        "MJ Chappell": "dfc007c0",
+        "Mohammad Ihsan": "510e33d3",
+        "Mohammad Kamran": "1a628a92",
+        "R Panchal": "91cd337c",
+        "Shafat Ali Syed": "6d36cb93"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Isle of Man",
+      "Spain"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Spain"
+    },
+    "venue": "La Manga Club Bottom Ground"
+  },
+  "innings": [
+    {
+      "team": "Isle of Man",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A McAuley",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "G Burrows",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A McAuley",
+                  "fielders": [
+                    {
+                      "name": "Awais Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Ward",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "G Burrows",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ward",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "G Burrows",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ward",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "G Burrows",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ward",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "G Burrows",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Burrows",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "L Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Burrows",
+              "bowler": "Atif Mehmood",
+              "non_striker": "L Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ward",
+              "bowler": "Atif Mehmood",
+              "non_striker": "G Burrows",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ward",
+              "bowler": "Atif Mehmood",
+              "non_striker": "G Burrows",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Burrows",
+              "bowler": "Atif Mehmood",
+              "non_striker": "L Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Burrows",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "C Hartmann",
+              "bowler": "Atif Mehmood",
+              "non_striker": "L Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Hartmann",
+              "bowler": "Atif Mehmood",
+              "non_striker": "L Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Ward",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Ward",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "EF Beard",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EF Beard",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "C Webster",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Webster",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JA Burrows",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burrows",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burrows",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JA Burrows",
+              "bowler": "Atif Mehmood",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burrows",
+              "bowler": "Atif Mehmood",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Hartmann",
+              "bowler": "Atif Mehmood",
+              "non_striker": "JA Burrows",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Hartmann",
+                  "fielders": [
+                    {
+                      "name": "C Munoz-Mills"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Atif Mehmood",
+              "non_striker": "JA Burrows",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Burrows",
+              "bowler": "Atif Mehmood",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JA Burrows",
+              "bowler": "Atif Mehmood",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Burrows",
+                  "fielders": [
+                    {
+                      "name": "D Doyle-Calle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Butler",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Clarke",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Walker",
+              "bowler": "Atif Mehmood",
+              "non_striker": "F Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "F Clarke",
+              "bowler": "LA Burns",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Clarke",
+                  "fielders": [
+                    {
+                      "name": "Awais Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Cawte",
+              "bowler": "LA Burns",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Cawte",
+              "bowler": "LA Burns",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Cawte",
+              "bowler": "LA Burns",
+              "non_striker": "E Walker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Cawte",
+                  "fielders": [
+                    {
+                      "name": "Awais Ahmed"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Spain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "JA Burrows",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "JA Burrows",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Awais Ahmed",
+              "bowler": "JA Burrows",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 11
+      }
+    }
+  ]
+}

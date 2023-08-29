@@ -1,0 +1,3031 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-02-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Johannesburg",
+    "dates": [
+      "2007-09-14"
+    ],
+    "event": {
+      "group": "C",
+      "match_number": 8,
+      "name": "ICC World Twenty20"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 27,
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "KH Hurter"
+      ],
+      "tv_umpires": [
+        "MR Benson"
+      ],
+      "umpires": [
+        "DJ Harper",
+        "NJ Llong"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 172
+      },
+      "winner": "Sri Lanka"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "ST Jayasuriya"
+    ],
+    "players": {
+      "Kenya": [
+        "MA Ouma",
+        "DO Obuya",
+        "NN Odhiambo",
+        "T Mishra",
+        "SO Tikolo",
+        "CO Obuya",
+        "AA Obanda",
+        "JK Kamande",
+        "LN Onyango",
+        "PJ Ongondo",
+        "TM Odoyo"
+      ],
+      "Sri Lanka": [
+        "WU Tharanga",
+        "ST Jayasuriya",
+        "KC Sangakkara",
+        "DPMD Jayawardene",
+        "LPC Silva",
+        "TM Dilshan",
+        "J Mubarak",
+        "G Wijekoon",
+        "CRD Fernando",
+        "SL Malinga",
+        "WPUJC Vaas"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Obanda": "7081491e",
+        "AO Suji": "b15eaf77",
+        "BC Broad": "d6a7dd38",
+        "CO Obuya": "5680f1ad",
+        "CRD Fernando": "342d8ade",
+        "DJ Harper": "0ec08b27",
+        "DO Obuya": "6ed3d5ac",
+        "DPMD Jayawardene": "d18f9182",
+        "G Wijekoon": "1fbef290",
+        "J Mubarak": "a9520ac2",
+        "JK Kamande": "270b3f8e",
+        "KC Sangakkara": "6b71e6cf",
+        "KH Hurter": "bda8cca8",
+        "LN Onyango": "68c3f79d",
+        "LPC Silva": "1be70c88",
+        "MA Ouma": "0939c670",
+        "MR Benson": "790e14d3",
+        "NJ Llong": "573fb985",
+        "NN Odhiambo": "753b5a2d",
+        "PJ Ongondo": "27cc4361",
+        "SL Malinga": "a12e1d51",
+        "SO Tikolo": "00d69fa4",
+        "ST Jayasuriya": "f233bbb4",
+        "T Mishra": "c9cac448",
+        "TM Dilshan": "5bdcdb72",
+        "TM Odoyo": "2c13defe",
+        "WPUJC Vaas": "bcce309e",
+        "WU Tharanga": "7ed9fd56"
+      }
+    },
+    "season": "2007/08",
+    "team_type": "international",
+    "teams": [
+      "Kenya",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kenya"
+    },
+    "venue": "New Wanderers Stadium"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TM Odoyo",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TM Odoyo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TM Odoyo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TM Odoyo",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TM Odoyo",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TM Odoyo",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "PJ Ongondo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "PJ Ongondo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "PJ Ongondo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "PJ Ongondo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TM Odoyo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TM Odoyo",
+              "non_striker": "WU Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WU Tharanga",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "WU Tharanga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PJ Ongondo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "PJ Ongondo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "TM Odoyo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "TM Odoyo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "PJ Ongondo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "NN Odhiambo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "NN Odhiambo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "LN Onyango",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "LN Onyango",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "LN Onyango",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "LN Onyango",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "LN Onyango",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "LN Onyango",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "NN Odhiambo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "NN Odhiambo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "NN Odhiambo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "NN Odhiambo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "NN Odhiambo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JK Kamande",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JK Kamande",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "KC Sangakkara"
+                }
+              ]
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "LN Onyango",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "LN Onyango",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "LN Onyango",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "LN Onyango",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "LN Onyango",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "LN Onyango",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JK Kamande",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JK Kamande",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JK Kamande",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "SO Tikolo",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SO Tikolo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SO Tikolo",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SO Tikolo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SO Tikolo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SO Tikolo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "SO Tikolo",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "SO Tikolo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "JK Kamande",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "ST Jayasuriya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "NN Odhiambo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "ST Jayasuriya",
+                  "fielders": [
+                    {
+                      "name": "AO Suji",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "LPC Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "LPC Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "LPC Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LPC Silva",
+              "bowler": "NN Odhiambo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "LN Onyango",
+              "non_striker": "LPC Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "LN Onyango",
+              "non_striker": "LPC Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "LN Onyango",
+              "non_striker": "LPC Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LPC Silva",
+              "bowler": "LN Onyango",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LPC Silva",
+              "bowler": "LN Onyango",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LPC Silva",
+              "bowler": "LN Onyango",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "LPC Silva",
+                  "fielders": [
+                    {
+                      "name": "CO Obuya"
+                    },
+                    {
+                      "name": "MA Ouma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "NN Odhiambo",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "NN Odhiambo",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "JK Kamande",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JK Kamande",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "DPMD Jayawardene"
+                }
+              ]
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "JK Kamande",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "JK Kamande",
+              "non_striker": "J Mubarak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "JK Kamande",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "JK Kamande",
+              "non_striker": "J Mubarak",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "TM Dilshan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Mubarak",
+              "bowler": "LN Onyango",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "LN Onyango",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "LN Onyango",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "LN Onyango",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "LN Onyango",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "LN Onyango",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Mubarak",
+              "bowler": "PJ Ongondo",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "PJ Ongondo",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "PJ Ongondo",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "PJ Ongondo",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Wijekoon",
+              "bowler": "PJ Ongondo",
+              "non_striker": "J Mubarak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mubarak",
+              "bowler": "PJ Ongondo",
+              "non_striker": "G Wijekoon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kenya",
+      "absent_hurt": [
+        "TM Odoyo"
+      ],
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "MA Ouma"
+                }
+              ]
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DO Obuya",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "NN Odhiambo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "CRD Fernando",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "CRD Fernando",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "SL Malinga",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "SL Malinga",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "SL Malinga",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "T Mishra",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SO Tikolo",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Tikolo",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SO Tikolo",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SO Tikolo",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SO Tikolo",
+                  "fielders": [
+                    {
+                      "name": "DPMD Jayawardene"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "SL Malinga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "CO Obuya"
+                }
+              ]
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "SL Malinga",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "SL Malinga",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DO Obuya",
+              "bowler": "LPC Silva",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "LPC Silva",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "LPC Silva",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "G Wijekoon",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DO Obuya",
+              "bowler": "G Wijekoon",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "G Wijekoon",
+              "non_striker": "DO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "DO Obuya",
+                  "fielders": [
+                    {
+                      "name": "ST Jayasuriya"
+                    },
+                    {
+                      "name": "G Wijekoon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "G Wijekoon",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "G Wijekoon",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "G Wijekoon",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JK Kamande",
+              "bowler": "LPC Silva",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "LPC Silva",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "G Wijekoon",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "G Wijekoon",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "G Wijekoon",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "G Wijekoon",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "G Wijekoon",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "G Wijekoon",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JK Kamande",
+              "bowler": "TM Dilshan",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TM Dilshan",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "AA Obanda",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LN Onyango",
+              "bowler": "TM Dilshan",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "TM Dilshan",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "TM Dilshan",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "TM Dilshan",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "LN Onyango",
+              "bowler": "G Wijekoon",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "G Wijekoon",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "JK Kamande"
+                }
+              ]
+            },
+            {
+              "batter": "PJ Ongondo",
+              "bowler": "G Wijekoon",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LN Onyango",
+              "bowler": "G Wijekoon",
+              "non_striker": "PJ Ongondo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Ongondo",
+              "bowler": "G Wijekoon",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Ongondo",
+              "bowler": "G Wijekoon",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "PJ Ongondo",
+              "bowler": "TM Dilshan",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LN Onyango",
+              "bowler": "TM Dilshan",
+              "non_striker": "PJ Ongondo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Ongondo",
+              "bowler": "TM Dilshan",
+              "non_striker": "LN Onyango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PJ Ongondo",
+                  "fielders": [
+                    {
+                      "name": "DPMD Jayawardene"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 261
+      }
+    }
+  ]
+}

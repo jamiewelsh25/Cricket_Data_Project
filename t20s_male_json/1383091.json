@@ -1,0 +1,3076 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-07-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Port Moresby",
+    "dates": [
+      "2023-07-23"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup East Asia-Pacific Qualifier",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2155,
+    "officials": {
+      "match_referees": [
+        "WC Labrooy"
+      ],
+      "reserve_umpires": [
+        "SB Haig"
+      ],
+      "umpires": [
+        "A Kapa",
+        "CA Polosak"
+      ]
+    },
+    "outcome": {
+      "winner": "Japan",
+      "by": {
+        "runs": 21
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "K Kadowaki-Fleming"
+    ],
+    "players": {
+      "Japan": [
+        "L Yamamoto-Lake",
+        "A Patmore",
+        "S Navaratne",
+        "K Kadowaki-Fleming",
+        "I Takahashi",
+        "S Ravichandran",
+        "R Sakurano-Thomas",
+        "D Suzuki",
+        "M Taniyama",
+        "P Kumbhare",
+        "R Drake"
+      ],
+      "Vanuatu": [
+        "N Nipiko",
+        "AL Stephen",
+        "JP Kaltapau",
+        "JD Allan",
+        "A Mansale",
+        "PK Matautaava",
+        "R Tari",
+        "J Rasu",
+        "SH Obed",
+        "W Nalisa",
+        "Obed Yosef"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kapa": "7c9c0f18",
+        "A Mansale": "a22b4f3f",
+        "A Patmore": "85119526",
+        "AL Stephen": "49f6d023",
+        "CA Polosak": "26a360d2",
+        "D Suzuki": "64c81abf",
+        "I Takahashi": "c988daa1",
+        "J Rasu": "1021b6e5",
+        "JD Allan": "3758028b",
+        "JP Kaltapau": "d8dccff5",
+        "K Kadowaki-Fleming": "33290a80",
+        "L Yamamoto-Lake": "fa23405f",
+        "M Taniyama": "cbd91942",
+        "N Nipiko": "c498c510",
+        "Obed Yosef": "a843d7a8",
+        "P Kumbhare": "ef503cfe",
+        "PK Matautaava": "af19aa66",
+        "R Drake": "57b3c398",
+        "R Sakurano-Thomas": "dd14abf5",
+        "R Tari": "c4d19735",
+        "S Navaratne": "29573e43",
+        "S Ravichandran": "9f2be73d",
+        "SB Haig": "811655b3",
+        "SH Obed": "f49c401e",
+        "W Nalisa": "673be48f",
+        "WC Labrooy": "29d4e29b"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Japan",
+      "Vanuatu"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Vanuatu"
+    },
+    "venue": "Amini Park, Port Moresby"
+  },
+  "innings": [
+    {
+      "team": "Japan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Yamamoto-Lake",
+              "bowler": "J Rasu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Patmore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Yamamoto-Lake",
+              "bowler": "J Rasu",
+              "non_striker": "A Patmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Yamamoto-Lake",
+              "bowler": "J Rasu",
+              "non_striker": "A Patmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Yamamoto-Lake",
+              "bowler": "J Rasu",
+              "non_striker": "A Patmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Yamamoto-Lake",
+                  "fielders": [
+                    {
+                      "name": "Obed Yosef"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Navaratne",
+              "bowler": "J Rasu",
+              "non_striker": "A Patmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Navaratne",
+              "bowler": "J Rasu",
+              "non_striker": "A Patmore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Patmore",
+              "bowler": "J Rasu",
+              "non_striker": "S Navaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Patmore",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Navaratne",
+              "bowler": "PK Matautaava",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Navaratne",
+              "bowler": "PK Matautaava",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Navaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Navaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Navaratne",
+              "bowler": "PK Matautaava",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Navaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Navaratne",
+              "bowler": "J Rasu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "S Navaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Navaratne",
+                  "fielders": [
+                    {
+                      "name": "R Tari"
+                    },
+                    {
+                      "name": "J Rasu"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Obed Yosef",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Obed Yosef",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "I Takahashi",
+              "bowler": "J Rasu",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "J Rasu",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "J Rasu",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "J Rasu",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "J Rasu",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "I Takahashi",
+              "bowler": "AL Stephen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "AL Stephen",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "AL Stephen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "AL Stephen",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "AL Stephen",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "AL Stephen",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "AL Stephen",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "J Rasu",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "J Rasu",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "J Rasu",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "AL Stephen",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "PK Matautaava",
+              "non_striker": "K Kadowaki-Fleming",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "PK Matautaava",
+                    "out": "AL Stephen",
+                    "reason": "unknown",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "PK Matautaava",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "I Takahashi",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "I Takahashi",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Takahashi",
+                  "fielders": [
+                    {
+                      "name": "JD Allan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "W Nalisa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Ravichandran",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "W Nalisa",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "W Nalisa",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Ravichandran",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "Obed Yosef",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Obed Yosef",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Obed Yosef",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "Obed Yosef",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Obed Yosef",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Ravichandran",
+              "bowler": "SH Obed",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "SH Obed",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "SH Obed",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "SH Obed",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "SH Obed",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "SH Obed",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Ravichandran",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ravichandran",
+                  "fielders": [
+                    {
+                      "name": "SH Obed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Sakurano-Thomas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "N Nipiko",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "N Nipiko",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "PK Matautaava",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Kadowaki-Fleming",
+                  "fielders": [
+                    {
+                      "name": "JD Allan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Taniyama",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taniyama",
+              "bowler": "PK Matautaava",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Taniyama",
+              "bowler": "PK Matautaava",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Taniyama",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Kumbhare",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "PK Matautaava",
+              "non_striker": "P Kumbhare",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "P Kumbhare",
+              "bowler": "N Nipiko",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Kumbhare",
+              "bowler": "N Nipiko",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "N Nipiko",
+              "non_striker": "P Kumbhare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Suzuki",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Drake",
+              "bowler": "N Nipiko",
+              "non_striker": "P Kumbhare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Drake",
+              "bowler": "N Nipiko",
+              "non_striker": "P Kumbhare",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kumbhare",
+              "bowler": "N Nipiko",
+              "non_striker": "R Drake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "P Kumbhare",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "R Drake",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Kumbhare",
+              "bowler": "PK Matautaava",
+              "non_striker": "R Drake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Drake",
+              "bowler": "PK Matautaava",
+              "non_striker": "P Kumbhare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Drake",
+              "bowler": "PK Matautaava",
+              "non_striker": "P Kumbhare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Drake",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Vanuatu",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Kumbhare",
+              "non_striker": "AL Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Kumbhare",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AL Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "P Kumbhare",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "P Kumbhare",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "P Kumbhare",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "P Kumbhare",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AL Stephen",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Kumbhare",
+              "non_striker": "AL Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Kumbhare",
+              "non_striker": "AL Stephen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Kumbhare",
+              "non_striker": "AL Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Kumbhare",
+              "non_striker": "AL Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Stephen",
+              "bowler": "P Kumbhare",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AL Stephen",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "P Kumbhare",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "D Suzuki",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "D Suzuki",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "D Suzuki",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "D Suzuki",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "D Suzuki",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "D Suzuki",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "D Suzuki",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "D Suzuki",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "D Suzuki",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "S Ravichandran",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "R Drake",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "R Drake",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Nipiko",
+                  "fielders": [
+                    {
+                      "name": "M Taniyama"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "R Drake",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "R Drake",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "R Drake",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "R Drake",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "R Drake",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JD Allan",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "S Ravichandran",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "S Ravichandran",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "S Ravichandran",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "R Drake",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JP Kaltapau",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "non_striker": "JD Allan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JD Allan",
+              "bowler": "R Drake",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JD Allan",
+                  "fielders": [
+                    {
+                      "name": "D Suzuki"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "R Drake",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "R Drake",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "I Takahashi",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "I Takahashi",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PK Matautaava",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "I Takahashi",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "I Takahashi",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "P Kumbhare",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Kumbhare",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Kumbhare",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Kumbhare",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Kumbhare",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "P Kumbhare",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "I Takahashi",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "I Takahashi",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "I Takahashi",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "I Takahashi",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "R Drake",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "R Drake",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "R Drake",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "S Ravichandran",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "S Ravichandran",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "D Suzuki",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "D Suzuki",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "D Suzuki",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "D Suzuki",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "D Suzuki",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mansale",
+                  "fielders": [
+                    {
+                      "name": "S Navaratne"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "D Suzuki",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Ravichandran",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "S Ravichandran",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Ravichandran",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "R Tari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Tari",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Tari",
+                  "fielders": [
+                    {
+                      "name": "K Kadowaki-Fleming"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SH Obed",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SH Obed",
+              "bowler": "P Kumbhare",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Kumbhare",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Kumbhare",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SH Obed",
+              "bowler": "P Kumbhare",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Kumbhare",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Kumbhare",
+              "non_striker": "SH Obed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Rasu",
+                  "fielders": [
+                    {
+                      "name": "D Suzuki"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 132
+      }
+    }
+  ]
+}

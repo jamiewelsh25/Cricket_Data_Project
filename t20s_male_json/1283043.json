@@ -1,0 +1,3079 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-11-02",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2021-11-02"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 2,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1385,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "I Chabi"
+      ],
+      "umpires": [
+        "Claus Schumacher",
+        "S Kintu"
+      ]
+    },
+    "outcome": {
+      "winner": "Tanzania",
+      "by": {
+        "runs": 87
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "II Selemani"
+    ],
+    "players": {
+      "Tanzania": [
+        "AR Patwa",
+        "II Selemani",
+        "JC Darji",
+        "Jitin Singh",
+        "S Thakor",
+        "HA Chohan",
+        "SA Jumbe",
+        "K Nassoro",
+        "AM Kimote",
+        "N Mapunda",
+        "RK Kiseto"
+      ],
+      "Mozambique": [
+        "J Bulele",
+        "F Damiao Couana",
+        "JJ Huo",
+        "L Emilio",
+        "FA Cossa",
+        "SDJJ Dima",
+        "SF Nhavotso",
+        "VE Tembo",
+        "GO Sopinho",
+        "LA Simango",
+        "ZE Matsinhe"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Kimote": "34e36b65",
+        "AR Patwa": "b43f7a6a",
+        "Claus Schumacher": "85645e62",
+        "ET Dube": "4c0891bc",
+        "F Damiao Couana": "2c535f08",
+        "FA Cossa": "3b52d247",
+        "GO Sopinho": "019e7a95",
+        "HA Chohan": "847b4bdd",
+        "I Chabi": "5e39110e",
+        "II Selemani": "b2dadc51",
+        "J Bulele": "2dde3e62",
+        "JC Darji": "6d5983d4",
+        "JJ Huo": "d816fc1c",
+        "Jitin Singh": "b7db83eb",
+        "K Nassoro": "29ee9bf9",
+        "L Emilio": "31adde7f",
+        "LA Simango": "16084b50",
+        "N Mapunda": "a94c2947",
+        "RK Kiseto": "780d1997",
+        "S Kintu": "ff387f93",
+        "S Thakor": "0848ac5f",
+        "SA Jumbe": "91056862",
+        "SDJJ Dima": "b8b95e44",
+        "SF Nhavotso": "8b6aebf7",
+        "VE Tembo": "1439a13c",
+        "ZE Matsinhe": "03ef382c"
+      }
+    },
+    "season": "2021/22",
+    "team_type": "international",
+    "teams": [
+      "Tanzania",
+      "Mozambique"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Tanzania"
+    },
+    "venue": "Gahanga International Cricket Stadium. Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "LA Simango",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LA Simango",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LA Simango",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LA Simango",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LA Simango",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LA Simango",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LA Simango",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Patwa",
+                  "fielders": [
+                    {
+                      "name": "GO Sopinho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "LA Simango",
+              "non_striker": "JC Darji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "LA Simango",
+              "non_striker": "JC Darji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "JC Darji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "JC Darji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "JC Darji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "JC Darji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Darji",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Darji",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "LA Simango",
+              "non_striker": "JC Darji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Darji",
+              "bowler": "LA Simango",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Darji",
+                  "fielders": [
+                    {
+                      "name": "L Emilio"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "LA Simango",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "LA Simango",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "LA Simango",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "LA Simango",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "ZE Matsinhe",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "F Damiao Couana",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "J Bulele",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "J Bulele",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "FA Cossa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "FA Cossa",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "F Damiao Couana",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "F Damiao Couana",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "F Damiao Couana",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "F Damiao Couana",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SDJJ Dima",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SDJJ Dima",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "II Selemani",
+                  "fielders": [
+                    {
+                      "name": "SF Nhavotso"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SDJJ Dima",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SDJJ Dima",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Thakor",
+              "bowler": "SF Nhavotso",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SF Nhavotso",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SF Nhavotso",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SF Nhavotso",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SF Nhavotso",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SF Nhavotso",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SDJJ Dima",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SDJJ Dima",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SF Nhavotso",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SF Nhavotso",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SF Nhavotso",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "SF Nhavotso",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jitin Singh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "HA Chohan",
+              "bowler": "SF Nhavotso",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SF Nhavotso",
+              "non_striker": "HA Chohan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "HA Chohan",
+              "bowler": "SDJJ Dima",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HA Chohan",
+              "bowler": "SDJJ Dima",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HA Chohan",
+              "bowler": "SDJJ Dima",
+              "non_striker": "S Thakor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HA Chohan",
+                  "fielders": [
+                    {
+                      "name": "J Bulele"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Thakor",
+              "bowler": "SDJJ Dima",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Thakor",
+                  "fielders": [
+                    {
+                      "name": "J Bulele"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SA Jumbe",
+              "bowler": "SF Nhavotso",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SF Nhavotso",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SF Nhavotso",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SF Nhavotso",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SF Nhavotso",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "SF Nhavotso",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SA Jumbe",
+              "bowler": "SDJJ Dima",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "SDJJ Dima",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SDJJ Dima",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "SDJJ Dima",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "SDJJ Dima",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SDJJ Dima",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.1,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Mozambique",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "HA Chohan",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "HA Chohan",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "HA Chohan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "HA Chohan",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "HA Chohan",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Damiao Couana",
+              "bowler": "HA Chohan",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Damiao Couana",
+                  "fielders": [
+                    {
+                      "name": "S Thakor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JJ Huo",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Huo",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Huo",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Huo",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Huo",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Huo",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "JJ Huo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "JJ Huo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "JJ Huo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "JJ Huo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "JJ Huo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "JJ Huo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JJ Huo",
+              "bowler": "SA Jumbe",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Huo",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Emilio",
+              "bowler": "SA Jumbe",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "SA Jumbe",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "SA Jumbe",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "SA Jumbe",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "SA Jumbe",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Emilio",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Emilio",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Emilio",
+              "bowler": "SA Jumbe",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "SA Jumbe",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "SA Jumbe",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "SA Jumbe",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Emilio",
+              "bowler": "SA Jumbe",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Emilio",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "SA Jumbe",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Bulele",
+              "bowler": "K Nassoro",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "K Nassoro",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "K Nassoro",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "K Nassoro",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "K Nassoro",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "K Nassoro",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "RK Kiseto",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "RK Kiseto",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "FA Cossa",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "S Thakor",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "S Thakor",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bulele",
+              "bowler": "S Thakor",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Bulele",
+                  "fielders": [
+                    {
+                      "name": "N Mapunda"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "SDJJ Dima",
+              "bowler": "S Thakor",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "SDJJ Dima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SDJJ Dima",
+              "bowler": "AM Kimote",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SDJJ Dima",
+              "bowler": "AM Kimote",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "SDJJ Dima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SDJJ Dima",
+              "bowler": "AM Kimote",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SDJJ Dima",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SF Nhavotso",
+              "bowler": "AM Kimote",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "FA Cossa",
+              "bowler": "S Thakor",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "SF Nhavotso",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SF Nhavotso",
+              "bowler": "S Thakor",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Nhavotso",
+              "bowler": "S Thakor",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "S Thakor",
+              "non_striker": "SF Nhavotso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "S Thakor",
+              "non_striker": "SF Nhavotso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "S Thakor",
+              "non_striker": "SF Nhavotso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Nhavotso",
+              "bowler": "S Thakor",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "SF Nhavotso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Nhavotso",
+              "bowler": "AM Kimote",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Nhavotso",
+              "bowler": "AM Kimote",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SF Nhavotso",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "AM Kimote",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Cossa",
+              "bowler": "AM Kimote",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FA Cossa",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "VE Tembo",
+              "bowler": "HA Chohan",
+              "non_striker": "GO Sopinho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GO Sopinho",
+              "bowler": "HA Chohan",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GO Sopinho",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "HA Chohan",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "HA Chohan",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "HA Chohan",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "HA Chohan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "LA Simango",
+              "bowler": "AM Kimote",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "AM Kimote",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "AM Kimote",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "AM Kimote",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "AM Kimote",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "AM Kimote",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "LA Simango",
+              "bowler": "HA Chohan",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "HA Chohan",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "HA Chohan",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "HA Chohan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "HA Chohan",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "HA Chohan",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "LA Simango",
+              "bowler": "SA Jumbe",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "SA Jumbe",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "SA Jumbe",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Simango",
+              "bowler": "SA Jumbe",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "SA Jumbe",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VE Tembo",
+              "bowler": "SA Jumbe",
+              "non_striker": "LA Simango",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VE Tembo",
+                  "fielders": [
+                    {
+                      "name": "AR Patwa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 243
+      }
+    }
+  ]
+}

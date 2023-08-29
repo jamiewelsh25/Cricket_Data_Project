@@ -1,0 +1,1511 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-09-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Benoni",
+    "dates": [
+      "2022-09-19"
+    ],
+    "event": {
+      "name": "Africa Cricket Association Cup",
+      "match_number": 9,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1784,
+    "officials": {
+      "match_referees": [
+        "ZTA Ndamane"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "tv_umpires": [
+        "M Moller"
+      ],
+      "umpires": [
+        "EA Chitsondzo",
+        "John Mayeku"
+      ]
+    },
+    "outcome": {
+      "winner": "Kenya",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Yash Talati"
+    ],
+    "players": {
+      "Cameroon": [
+        "BN Toube",
+        "KA Jadhav",
+        "I Tchakou",
+        "AN Toube",
+        "DB Loic",
+        "JB Abega",
+        "AB Mengoumou",
+        "RGA Amah",
+        "AN Aminou",
+        "FJ Mpegna",
+        "AR Balla"
+      ],
+      "Kenya": [
+        "RN Patel",
+        "S Singh",
+        "NN Odhiambo",
+        "RR Patel",
+        "NM Odhiambo",
+        "SO Ngoche",
+        "EB Ringera",
+        "IA Karim",
+        "GM Muthui",
+        "LN Oluoch",
+        "Yash Talati"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB Mengoumou": "8ad3d034",
+        "AN Aminou": "6d9d2de7",
+        "AN Toube": "7f929ebe",
+        "AR Balla": "4b83e65a",
+        "BN Toube": "75f3aa00",
+        "D Odhiambo": "45994517",
+        "DB Loic": "01679383",
+        "EA Chitsondzo": "87521e16",
+        "EB Ringera": "6cedad99",
+        "FJ Mpegna": "d3893060",
+        "GM Muthui": "d7e51f87",
+        "I Tchakou": "4d2b96b4",
+        "IA Karim": "ca92a578",
+        "JB Abega": "b7abb123",
+        "John Mayeku": "9d819a32",
+        "KA Jadhav": "6c18c062",
+        "LN Oluoch": "eb4f9c61",
+        "M Moller": "ebeb2e9f",
+        "NM Odhiambo": "c07a1f41",
+        "NN Odhiambo": "753b5a2d",
+        "RGA Amah": "90f9aedf",
+        "RN Patel": "db1bf9c2",
+        "RR Patel": "7fa6bd8e",
+        "S Singh": "612a395c",
+        "SO Ngoche": "49118dc7",
+        "Yash Talati": "f992c8da",
+        "ZTA Ndamane": "545cc6db"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Cameroon",
+      "Kenya"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kenya"
+    },
+    "venue": "Willowmoore Park, Benoni"
+  },
+  "innings": [
+    {
+      "team": "Cameroon",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KA Jadhav",
+              "bowler": "EB Ringera",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "EB Ringera",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "GM Muthui",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Jadhav",
+              "bowler": "EB Ringera",
+              "non_striker": "BN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "EB Ringera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BN Toube",
+              "bowler": "GM Muthui",
+              "non_striker": "KA Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BN Toube",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KA Jadhav",
+              "bowler": "LN Oluoch",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KA Jadhav",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "LN Oluoch",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "LN Oluoch",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "LN Oluoch",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "LN Oluoch",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "I Tchakou",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Yash Talati",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "AN Toube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AN Toube",
+              "bowler": "Yash Talati",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "Yash Talati",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "Yash Talati",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "Yash Talati",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Toube",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "Yash Talati",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "Yash Talati",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DB Loic",
+                  "fielders": [
+                    {
+                      "name": "RN Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "LN Oluoch",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Tchakou",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "LN Oluoch",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "LN Oluoch",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "LN Oluoch",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JB Abega",
+              "bowler": "Yash Talati",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "Yash Talati",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "Yash Talati",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "Yash Talati",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "Yash Talati",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "Yash Talati",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AB Mengoumou",
+              "bowler": "SO Ngoche",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AB Mengoumou",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "SO Ngoche",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "SO Ngoche",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "SO Ngoche",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RGA Amah",
+              "bowler": "SO Ngoche",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "SO Ngoche",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JB Abega",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RGA Amah",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RGA Amah",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "Yash Talati",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "Yash Talati",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "SO Ngoche",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "SO Ngoche",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "SO Ngoche",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FJ Mpegna",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AR Balla",
+              "bowler": "SO Ngoche",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Balla",
+              "bowler": "SO Ngoche",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Balla",
+              "bowler": "SO Ngoche",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Balla",
+              "bowler": "SO Ngoche",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AN Aminou",
+              "bowler": "RR Patel",
+              "non_striker": "AR Balla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "RR Patel",
+              "non_striker": "AR Balla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Balla",
+                  "fielders": [
+                    {
+                      "name": "RR Patel"
+                    },
+                    {
+                      "name": "EB Ringera"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kenya",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "AR Balla",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AR Balla",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AR Balla",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "AR Balla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "AR Balla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "AR Balla",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AR Balla",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AR Balla",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "JB Abega",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "JB Abega",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "JB Abega",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "JB Abega",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "JB Abega",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "JB Abega",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RN Patel",
+                  "fielders": [
+                    {
+                      "name": "KA Jadhav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "BN Toube",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "BN Toube",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "BN Toube",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "BN Toube",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "BN Toube",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "BN Toube",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "BN Toube",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "DB Loic",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "DB Loic",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 49
+      }
+    }
+  ]
+}

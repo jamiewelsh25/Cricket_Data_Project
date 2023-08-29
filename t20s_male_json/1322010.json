@@ -1,0 +1,2005 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-07-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2022-07-11"
+    ],
+    "event": {
+      "name": "Quadrangular Twenty20 Series (Malaysia)",
+      "stage": "Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1632,
+    "officials": {
+      "match_referees": [
+        "B Ramani"
+      ],
+      "reserve_umpires": [
+        "Mathan Kumar"
+      ],
+      "umpires": [
+        "N Sivan",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Malaysia",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Syed Aziz"
+    ],
+    "players": {
+      "Bhutan": [
+        "RM Dorji",
+        "T Wangchuk",
+        "Tenjin Rabgey",
+        "T Jamtsho",
+        "J Singye",
+        "Namgay Thinley",
+        "GK Ghalley",
+        "S Pradhan",
+        "Ngawang Thinley",
+        "Manoj Adhikari",
+        "S Yeshi"
+      ],
+      "Malaysia": [
+        "Syed Aziz",
+        "Zubaidi Zulkifle",
+        "Ahmed Faiz",
+        "Virandeep Singh",
+        "Ainool Hafizs",
+        "S Muniandy",
+        "Pavandeep Singh",
+        "S Vijay Unni",
+        "M Syahadat Ramli",
+        "Khizar Hayat",
+        "Syazrul Idrus"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahmed Faiz": "f6b4f746",
+        "Ainool Hafizs": "1bada9da",
+        "B Ramani": "92ad5353",
+        "GK Ghalley": "2d1b6dee",
+        "J Singye": "28574428",
+        "Khizar Hayat": "78bbeba1",
+        "M Syahadat Ramli": "5efa8af3",
+        "Manoj Adhikari": "26529e00",
+        "Mathan Kumar": "da596754",
+        "N Sivan": "8f4a0102",
+        "Namgay Thinley": "9c333e40",
+        "Ngawang Thinley": "cc62ec8a",
+        "Pavandeep Singh": "78fcc740",
+        "RM Dorji": "3d7f02d4",
+        "S Muniandy": "57fcfd3b",
+        "S Pradhan": "04f0d409",
+        "S Vijay Unni": "f737ab44",
+        "S Yeshi": "0c24fb7b",
+        "Syazrul Idrus": "6dba59e0",
+        "Syed Aziz": "6667067e",
+        "T Jamtsho": "c01d1c0a",
+        "T Wangchuk": "39799e49",
+        "Tenjin Rabgey": "1fed517a",
+        "V Kalidas": "42d76418",
+        "Virandeep Singh": "415d30b6",
+        "Zubaidi Zulkifle": "dca8273d"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Bhutan",
+      "Malaysia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malaysia"
+    },
+    "venue": "UKM-YSD Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Bhutan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RM Dorji",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Wangchuk",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RM Dorji",
+                  "fielders": [
+                    {
+                      "name": "Khizar Hayat"
+                    },
+                    {
+                      "name": "Ainool Hafizs"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tenjin Rabgey",
+                  "fielders": [
+                    {
+                      "name": "Ainool Hafizs"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Wangchuk",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Wangchuk",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Wangchuk",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Wangchuk",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Wangchuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Wangchuk",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Wangchuk",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Wangchuk",
+                  "fielders": [
+                    {
+                      "name": "Khizar Hayat"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Singye",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Singye",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Singye",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Khizar Hayat",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Khizar Hayat",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Khizar Hayat",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Namgay Thinley",
+                  "fielders": [
+                    {
+                      "name": "S Vijay Unni"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Virandeep Singh",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Virandeep Singh",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Virandeep Singh",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "S Vijay Unni",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "S Vijay Unni",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "S Vijay Unni",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "S Vijay Unni",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Ghalley",
+              "bowler": "S Vijay Unni",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Ghalley",
+              "bowler": "S Vijay Unni",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Virandeep Singh",
+              "non_striker": "GK Ghalley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Ghalley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Ghalley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Ghalley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Ghalley",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GK Ghalley",
+                  "fielders": [
+                    {
+                      "name": "Virandeep Singh"
+                    },
+                    {
+                      "name": "Ainool Hafizs"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Pradhan",
+              "bowler": "S Vijay Unni",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "S Vijay Unni",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "S Vijay Unni",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "S Vijay Unni",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "S Vijay Unni",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "S Vijay Unni",
+              "non_striker": "S Pradhan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Pradhan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Pradhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Syed Aziz",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Pradhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pradhan",
+              "bowler": "Syed Aziz",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Pradhan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "T Jamtsho",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "S Muniandy",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Jamtsho",
+                  "fielders": [
+                    {
+                      "name": "Zubaidi Zulkifle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syed Aziz",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "S Muniandy",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "S Muniandy",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "S Muniandy",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "S Muniandy",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Manoj Adhikari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manoj Adhikari",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manoj Adhikari",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Yeshi",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yeshi",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yeshi",
+              "bowler": "Khizar Hayat",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Ngawang Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ngawang Thinley",
+              "bowler": "Syazrul Idrus",
+              "non_striker": "S Yeshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ngawang Thinley",
+                  "fielders": [
+                    {
+                      "name": "S Muniandy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Pradhan",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Pradhan",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Pradhan",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Pradhan",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "S Pradhan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "S Pradhan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "S Yeshi",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Yeshi",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Yeshi",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Yeshi",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "S Yeshi",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "S Yeshi",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "T Jamtsho",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zubaidi Zulkifle",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "T Jamtsho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Jamtsho",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "T Wangchuk",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Wangchuk",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Wangchuk",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "T Wangchuk",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Wangchuk",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Wangchuk",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "T Wangchuk",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Singye",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Singye",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Singye",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Singye",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Singye",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "J Singye",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "J Singye",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Ngawang Thinley",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 83
+      }
+    }
+  ]
+}

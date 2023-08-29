@@ -1,0 +1,2963 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2014-03-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mirpur",
+    "dates": [
+      "2014-03-30"
+    ],
+    "event": {
+      "group": 2,
+      "match_number": 27,
+      "name": "World T20"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 392,
+    "officials": {
+      "match_referees": [
+        "RS Madugalle"
+      ],
+      "reserve_umpires": [
+        "M Erasmus"
+      ],
+      "tv_umpires": [
+        "HDPK Dharmasena"
+      ],
+      "umpires": [
+        "IJ Gould",
+        "RA Kettleborough"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 50
+      },
+      "winner": "Pakistan"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Ahmed Shehzad"
+    ],
+    "players": {
+      "Bangladesh": [
+        "Tamim Iqbal",
+        "Anamul Haque",
+        "Shakib Al Hasan",
+        "Shamsur Rahman",
+        "Mushfiqur Rahim",
+        "Nasir Hossain",
+        "Mahmudullah",
+        "Ziaur Rahman",
+        "Mashrafe Mortaza",
+        "Abdur Razzak",
+        "Al-Amin Hossain"
+      ],
+      "Pakistan": [
+        "Ahmed Shehzad",
+        "Kamran Akmal",
+        "Mohammad Hafeez",
+        "Umar Akmal",
+        "Shoaib Malik",
+        "Shahid Afridi",
+        "Sohaib Maqsood",
+        "Sohail Tanvir",
+        "Umar Gul",
+        "Zulfiqar Babar",
+        "Saeed Ajmal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdur Razzak": "888e32bf",
+        "Ahmed Shehzad": "f8fd6e3f",
+        "Al-Amin Hossain": "3f5f39cd",
+        "Anamul Haque": "72b245dd",
+        "HDPK Dharmasena": "323e4c16",
+        "IJ Gould": "a9dfdf6c",
+        "Kamran Akmal": "ff077124",
+        "M Erasmus": "15d3c895",
+        "Mahmudullah": "bf1d7d3e",
+        "Mashrafe Mortaza": "e186f49c",
+        "Mohammad Hafeez": "9ab63e7b",
+        "Mushfiqur Rahim": "a94e08ea",
+        "Nasir Hossain": "6eea0b32",
+        "RA Kettleborough": "4017868f",
+        "RS Madugalle": "766b5798",
+        "Saeed Ajmal": "05d74535",
+        "Shahid Afridi": "0dc00542",
+        "Shakib Al Hasan": "7dc35884",
+        "Shamsur Rahman": "02789d88",
+        "Shoaib Malik": "64c34cd0",
+        "Sohaib Maqsood": "b98b5e1c",
+        "Sohail Tanvir": "64d43928",
+        "Tamim Iqbal": "3b041a12",
+        "Umar Akmal": "fd2bf2a0",
+        "Umar Gul": "16dfcc19",
+        "Ziaur Rahman": "c27518d2",
+        "Zulfiqar Babar": "3a0f6df2"
+      }
+    },
+    "season": "2013/14",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Pakistan"
+    },
+    "venue": "Shere Bangla National Stadium"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "byes": 3
+              },
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kamran Akmal",
+                  "fielders": [
+                    {
+                      "name": "Ziaur Rahman"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Mohammad Hafeez",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mahmudullah",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Umar Akmal",
+                  "fielders": [
+                    {
+                      "name": "Tamim Iqbal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mahmudullah",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mahmudullah",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abdur Razzak",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mahmudullah",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mahmudullah",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Ziaur Rahman",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Ziaur Rahman",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Ziaur Rahman",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Ziaur Rahman",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Ziaur Rahman",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Ziaur Rahman",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mahmudullah",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mahmudullah",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Shoaib Malik",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Mashrafe Mortaza",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shahid Afridi",
+                  "fielders": [
+                    {
+                      "name": "Ziaur Rahman"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sohaib Maqsood",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "Sohaib Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Hafeez",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Umar Gul",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Umar Gul",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Tamim Iqbal"
+                }
+              ]
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Umar Gul",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Anamul Haque"
+                }
+              ]
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Zulfiqar Babar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Shamsur Rahman",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shamsur Rahman",
+                  "fielders": [
+                    {
+                      "name": "Kamran Akmal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Mushfiqur Rahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mushfiqur Rahim",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Mushfiqur Rahim"
+                }
+              ]
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Zulfiqar Babar",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Saeed Ajmal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Umar Gul",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shakib Al Hasan",
+                  "fielders": [
+                    {
+                      "name": "Umar Akmal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Shahid Afridi",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Hossain",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Nasir Hossain",
+                  "fielders": [
+                    {
+                      "name": "Kamran Akmal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Umar Gul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ziaur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Umar Gul",
+              "non_striker": "Ziaur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Umar Gul",
+              "non_striker": "Ziaur Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Umar Gul",
+              "non_striker": "Ziaur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ziaur Rahman",
+              "bowler": "Umar Gul",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Ziaur Rahman",
+                  "fielders": [
+                    {
+                      "name": "Kamran Akmal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Umar Gul",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Umar Gul",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Mashrafe Mortaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Mashrafe Mortaza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Mashrafe Mortaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Umar Gul",
+              "non_striker": "Mashrafe Mortaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Umar Gul",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Umar Gul",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Umar Gul",
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mashrafe Mortaza",
+              "bowler": "Umar Gul",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mahmudullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmudullah",
+              "bowler": "Umar Gul",
+              "non_striker": "Mashrafe Mortaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

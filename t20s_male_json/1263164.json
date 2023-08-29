@@ -1,0 +1,808 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2021-07-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bridgetown",
+    "dates": [
+      "2021-07-28"
+    ],
+    "event": {
+      "name": "Pakistan tour of West Indies",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1205,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "LS Reifer"
+      ],
+      "tv_umpires": [
+        "PA Gustard"
+      ],
+      "umpires": [
+        "GO Brathwaite",
+        "N Duguid"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "West Indies": [
+        "LMP Simmons",
+        "E Lewis",
+        "CH Gayle",
+        "N Pooran",
+        "AD Russell",
+        "KA Pollard",
+        "SO Hetmyer",
+        "JO Holder",
+        "DJ Bravo",
+        "HR Walsh",
+        "AJ Hosein"
+      ],
+      "Pakistan": [
+        "Sharjeel Khan",
+        "Mohammad Rizwan",
+        "Babar Azam",
+        "Mohammad Hafeez",
+        "Fakhar Zaman",
+        "Azam Khan",
+        "Shadab Khan",
+        "Hasan Ali",
+        "Mohammad Wasim",
+        "Shaheen Shah Afridi",
+        "Usman Qadir"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Russell": "bbd41817",
+        "AJ Hosein": "4d7f517e",
+        "Azam Khan": "ee8f1a6d",
+        "Babar Azam": "8a75e999",
+        "CH Gayle": "db584dad",
+        "DJ Bravo": "87e562a9",
+        "E Lewis": "0ebfb1ad",
+        "Fakhar Zaman": "1777c020",
+        "GO Brathwaite": "1ace56d4",
+        "HR Walsh": "1ac2a995",
+        "Hasan Ali": "2911de16",
+        "JO Holder": "0f721006",
+        "KA Pollard": "a757b0d8",
+        "LMP Simmons": "89f64c19",
+        "LS Reifer": "5dee559a",
+        "Mohammad Hafeez": "9ab63e7b",
+        "Mohammad Rizwan": "2f26ac1a",
+        "Mohammad Wasim": "9e9af5f2",
+        "N Duguid": "64495506",
+        "N Pooran": "3241e3fd",
+        "PA Gustard": "25bcf808",
+        "RB Richardson": "410e2f12",
+        "SO Hetmyer": "48a1d7b7",
+        "Shadab Khan": "9de62878",
+        "Shaheen Shah Afridi": "45a7e761",
+        "Sharjeel Khan": "193ef196",
+        "Usman Qadir": "33742f04"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "venue": "Kensington Oval, Bridgetown, Barbados"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LMP Simmons",
+                  "kind": "retired hurt"
+                }
+              ]
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "Hasan Ali",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Lewis",
+                  "fielders": [
+                    {
+                      "name": "Shaheen Shah Afridi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Hasan Ali",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Hasan Ali",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Hasan Ali",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "fielders": [
+                    {
+                      "name": "Shadab Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "Shadab Khan",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Shadab Khan",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Shadab Khan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Shadab Khan",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Shadab Khan",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Shadab Khan",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AD Russell",
+              "bowler": "Usman Qadir",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Usman Qadir",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Usman Qadir",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Usman Qadir",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Usman Qadir",
+              "non_striker": "CH Gayle",
+              "review": {
+                "by": "West Indies",
+                "umpire": "N Duguid",
+                "batter": "AD Russell",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Russell",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Usman Qadir",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "Hasan Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "Hasan Ali",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Hasan Ali",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Hasan Ali",
+              "non_striker": "SO Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "Hasan Ali",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SO Hetmyer",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Hasan Ali",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Hasan Ali",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JO Holder",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

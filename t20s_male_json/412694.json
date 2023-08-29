@@ -1,0 +1,3025 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2010-05-18",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Barbados",
+    "dates": [
+      "2010-05-08"
+    ],
+    "event": {
+      "group": "E",
+      "match_number": 18,
+      "name": "ICC World Twenty20"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 168,
+    "officials": {
+      "match_referees": [
+        "AG Hurst"
+      ],
+      "reserve_umpires": [
+        "IJ Gould"
+      ],
+      "tv_umpires": [
+        "SJA Taufel"
+      ],
+      "umpires": [
+        "Aleem Dar",
+        "SJ Davis"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 39
+      },
+      "winner": "England"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "KP Pietersen"
+    ],
+    "players": {
+      "England": [
+        "MJ Lumb",
+        "C Kieswetter",
+        "KP Pietersen",
+        "PD Collingwood",
+        "EJG Morgan",
+        "LJ Wright",
+        "TT Bresnan",
+        "MH Yardy",
+        "GP Swann",
+        "SCJ Broad",
+        "RJ Sidebottom"
+      ],
+      "South Africa": [
+        "GC Smith",
+        "JH Kallis",
+        "HH Gibbs",
+        "AB de Villiers",
+        "JA Morkel",
+        "JP Duminy",
+        "MV Boucher",
+        "J Botha",
+        "DW Steyn",
+        "M Morkel",
+        "CK Langeveldt"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB de Villiers": "c4487b84",
+        "AG Hurst": "ad7945c6",
+        "Aleem Dar": "f02778d1",
+        "C Kieswetter": "1e960f2a",
+        "CK Langeveldt": "d1c94b25",
+        "DW Steyn": "8fd1a8f5",
+        "EJG Morgan": "d2a6c0e6",
+        "GC Smith": "72861603",
+        "GP Swann": "221ad9d9",
+        "HH Gibbs": "e1d1b294",
+        "IJ Gould": "a9dfdf6c",
+        "J Botha": "7c503806",
+        "JA Morkel": "c3d35165",
+        "JH Kallis": "86dc8f2e",
+        "JP Duminy": "2e8994e7",
+        "KP Pietersen": "39f01cdb",
+        "LJ Wright": "cca50cd6",
+        "M Morkel": "5bb5a915",
+        "MH Yardy": "3812d56b",
+        "MJ Lumb": "11df3dc8",
+        "MV Boucher": "f3cb53a1",
+        "PD Collingwood": "a386e91b",
+        "RJ Sidebottom": "9dca07d7",
+        "SCJ Broad": "eba6a852",
+        "SJ Davis": "bc71b0b2",
+        "SJA Taufel": "4b43d5ac",
+        "TT Bresnan": "58043739"
+      }
+    },
+    "season": 2010,
+    "team_type": "international",
+    "teams": [
+      "England",
+      "South Africa"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "England"
+    },
+    "venue": "Kensington Oval, Bridgetown"
+  },
+  "innings": [
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MJ Lumb",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "MJ Lumb"
+                }
+              ]
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "DW Steyn",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "DW Steyn",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "DW Steyn",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "M Morkel",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "M Morkel",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "M Morkel",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "CK Langeveldt",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "M Morkel",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "M Morkel",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "CK Langeveldt",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "CK Langeveldt",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KP Pietersen",
+              "bowler": "JH Kallis",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KP Pietersen",
+              "bowler": "JH Kallis",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "JH Kallis",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "JH Kallis",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "JH Kallis",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "DW Steyn",
+              "non_striker": "KP Pietersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "DW Steyn",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KP Pietersen",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "KP Pietersen",
+                  "fielders": [
+                    {
+                      "name": "GC Smith"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "J Botha",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "J Botha",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JH Kallis",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "JH Kallis",
+              "non_striker": "C Kieswetter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JP Duminy",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JP Duminy",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Kieswetter",
+              "bowler": "JP Duminy",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "C Kieswetter",
+                  "fielders": [
+                    {
+                      "name": "DW Steyn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "JP Duminy",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "JP Duminy",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "JP Duminy",
+              "non_striker": "PD Collingwood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "PD Collingwood",
+              "bowler": "M Morkel",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "M Morkel",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "M Morkel",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Collingwood",
+              "bowler": "M Morkel",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PD Collingwood",
+                  "fielders": [
+                    {
+                      "name": "MV Boucher"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "M Morkel",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "M Morkel",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "LJ Wright",
+              "bowler": "CK Langeveldt",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "LJ Wright"
+                }
+              ]
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "DW Steyn",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "DW Steyn",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "DW Steyn",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "DW Steyn",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "EJG Morgan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "EJG Morgan",
+                  "fielders": [
+                    {
+                      "name": "AB de Villiers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "MH Yardy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MH Yardy",
+              "bowler": "CK Langeveldt",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "MH Yardy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "MH Yardy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "CK Langeveldt",
+              "non_striker": "MH Yardy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MH Yardy",
+              "bowler": "M Morkel",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "M Morkel",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "MH Yardy",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MH Yardy",
+              "bowler": "M Morkel",
+              "non_striker": "TT Bresnan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Bresnan",
+              "bowler": "M Morkel",
+              "non_striker": "MH Yardy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "TT Bresnan"
+                }
+              ]
+            },
+            {
+              "batter": "GP Swann",
+              "bowler": "M Morkel",
+              "non_striker": "MH Yardy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MH Yardy",
+              "bowler": "M Morkel",
+              "non_striker": "GP Swann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MH Yardy",
+              "bowler": "M Morkel",
+              "non_striker": "GP Swann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "GC Smith",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JH Kallis",
+              "bowler": "SCJ Broad",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "SCJ Broad",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "SCJ Broad",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "SCJ Broad",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "SCJ Broad",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "SCJ Broad",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JH Kallis",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JH Kallis",
+              "bowler": "SCJ Broad",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JH Kallis",
+                  "fielders": [
+                    {
+                      "name": "KP Pietersen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "SCJ Broad",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "SCJ Broad",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "SCJ Broad",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "SCJ Broad",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "HH Gibbs",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "SCJ Broad",
+              "non_striker": "HH Gibbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "SCJ Broad",
+              "non_striker": "HH Gibbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HH Gibbs",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "HH Gibbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "TT Bresnan",
+              "non_striker": "HH Gibbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "TT Bresnan",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HH Gibbs",
+              "bowler": "MH Yardy",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "HH Gibbs",
+                  "fielders": [
+                    {
+                      "name": "RJ Sidebottom"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "MH Yardy",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MH Yardy",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MH Yardy",
+              "non_striker": "GC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "MH Yardy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "MH Yardy",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "MH Yardy",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GC Smith",
+              "bowler": "GP Swann",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "GP Swann",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "GP Swann",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GC Smith",
+              "bowler": "GP Swann",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "GC Smith",
+                  "fielders": [
+                    {
+                      "name": "MJ Lumb"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GP Swann",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JA Morkel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Morkel",
+              "bowler": "GP Swann",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MH Yardy",
+              "non_striker": "JA Morkel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Morkel",
+              "bowler": "MH Yardy",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "JA Morkel"
+                }
+              ]
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AB de Villiers",
+                  "fielders": [
+                    {
+                      "name": "PD Collingwood"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MV Boucher",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "GP Swann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "MH Yardy",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "MH Yardy",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "MV Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Boucher",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MV Boucher",
+                  "fielders": [
+                    {
+                      "name": "EJG Morgan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "GP Swann",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "GP Swann",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Botha",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "RJ Sidebottom",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "RJ Sidebottom",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SCJ Broad",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SCJ Broad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JP Duminy",
+                  "fielders": [
+                    {
+                      "name": "MH Yardy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DW Steyn",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "DW Steyn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "DW Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "DW Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DW Steyn",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DW Steyn",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SCJ Broad",
+              "non_striker": "DW Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DW Steyn",
+              "bowler": "SCJ Broad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DW Steyn",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DW Steyn",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DW Steyn",
+              "bowler": "SCJ Broad",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DW Steyn",
+                  "fielders": [
+                    {
+                      "name": "EJG Morgan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SCJ Broad",
+              "non_striker": "M Morkel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Botha",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "M Morkel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "J Botha"
+                }
+              ]
+            },
+            {
+              "batter": "CK Langeveldt",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "M Morkel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Morkel",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "CK Langeveldt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Langeveldt",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "M Morkel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Langeveldt",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "M Morkel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Morkel",
+              "bowler": "RJ Sidebottom",
+              "non_striker": "CK Langeveldt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "M Morkel"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 169
+      }
+    }
+  ]
+}

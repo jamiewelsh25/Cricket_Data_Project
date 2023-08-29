@@ -1,0 +1,2877 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-09-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Benoni",
+    "dates": [
+      "2022-09-17"
+    ],
+    "event": {
+      "name": "Africa Cricket Association Cup",
+      "match_number": 6,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1781,
+    "officials": {
+      "match_referees": [
+        "ZTA Ndamane"
+      ],
+      "reserve_umpires": [
+        "EA Chitsondzo"
+      ],
+      "tv_umpires": [
+        "IO Oyieko"
+      ],
+      "umpires": [
+        "John Mayeku",
+        "M Moller"
+      ]
+    },
+    "outcome": {
+      "winner": "Tanzania",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Akhil Anil"
+    ],
+    "players": {
+      "Kenya": [
+        "RN Patel",
+        "S Singh",
+        "RR Patel",
+        "IA Karim",
+        "NM Odhiambo",
+        "SO Ngoche",
+        "LN Oluoch",
+        "NN Odhiambo",
+        "E Otieno",
+        "Vraj Patel",
+        "S Biko"
+      ],
+      "Tanzania": [
+        "AR Patwa",
+        "II Selemani",
+        "SA Jumbe",
+        "AP Rajeevan",
+        "Jitin Singh",
+        "K Nassoro",
+        "Akhil Anil",
+        "HA Chohan",
+        "AM Kimote",
+        "MO Kitunda",
+        "YM Nkanya"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Kimote": "34e36b65",
+        "AP Rajeevan": "63d6f031",
+        "AR Patwa": "b43f7a6a",
+        "Akhil Anil": "c06c25fd",
+        "E Otieno": "c57fa67e",
+        "EA Chitsondzo": "87521e16",
+        "EB Ringera": "6cedad99",
+        "HA Chohan": "847b4bdd",
+        "IA Karim": "ca92a578",
+        "II Selemani": "b2dadc51",
+        "IO Oyieko": "de4828fa",
+        "Jitin Singh": "b7db83eb",
+        "John Mayeku": "9d819a32",
+        "K Nassoro": "29ee9bf9",
+        "LN Oluoch": "eb4f9c61",
+        "M Moller": "ebeb2e9f",
+        "MO Kitunda": "badef0dc",
+        "NM Odhiambo": "c07a1f41",
+        "NN Odhiambo": "753b5a2d",
+        "RN Patel": "db1bf9c2",
+        "RR Patel": "7fa6bd8e",
+        "S Biko": "b501b61e",
+        "S Singh": "612a395c",
+        "SA Jumbe": "91056862",
+        "SO Ngoche": "49118dc7",
+        "Vraj Patel": "2af28253",
+        "YM Nkanya": "9238dd92",
+        "ZTA Ndamane": "545cc6db"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Kenya",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Kenya"
+    },
+    "venue": "Willowmoore Park, Benoni"
+  },
+  "innings": [
+    {
+      "team": "Kenya",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "SA Jumbe",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SA Jumbe",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SA Jumbe",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "SA Jumbe",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "AM Kimote",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Akhil Anil",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Akhil Anil",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Akhil Anil",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Akhil Anil",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "Akhil Anil",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "YM Nkanya",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "YM Nkanya",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "YM Nkanya",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "YM Nkanya",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "YM Nkanya",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "YM Nkanya",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "S Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Singh",
+              "bowler": "K Nassoro",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Singh",
+                  "fielders": [
+                    {
+                      "name": "MO Kitunda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "K Nassoro",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RN Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RN Patel",
+                  "fielders": [
+                    {
+                      "name": "K Nassoro"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "YM Nkanya",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "YM Nkanya",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "YM Nkanya",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "YM Nkanya",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "YM Nkanya",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Akhil Anil",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Akhil Anil",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Akhil Anil",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Akhil Anil",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "AM Kimote",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AM Kimote",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "HA Chohan",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "HA Chohan",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HA Chohan",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Patel",
+                  "fielders": [
+                    {
+                      "name": "II Selemani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "E Otieno",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "E Otieno",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "E Otieno",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "E Otieno",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "SO Ngoche",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "E Otieno",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "E Otieno",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "SO Ngoche",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "SO Ngoche",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "SO Ngoche",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "Vraj Patel",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "Vraj Patel",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "Vraj Patel",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "Vraj Patel",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "II Selemani",
+                  "fielders": [
+                    {
+                      "name": "LN Oluoch"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "Vraj Patel",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "Vraj Patel",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "LN Oluoch",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "LN Oluoch",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Patwa",
+                  "fielders": [
+                    {
+                      "name": "EB Ringera",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "LN Oluoch",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "LN Oluoch",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Jumbe",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "S Biko",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "S Biko",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "S Biko",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "S Biko",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "NN Odhiambo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "NN Odhiambo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "NN Odhiambo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "NN Odhiambo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "NN Odhiambo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "NN Odhiambo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "NN Odhiambo",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "NN Odhiambo",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "S Biko",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "S Biko",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "Vraj Patel",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AP Rajeevan",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Vraj Patel",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Vraj Patel",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Vraj Patel",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "S Biko",
+              "non_striker": "Jitin Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jitin Singh",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jitin Singh",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "S Biko",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "Vraj Patel",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Vraj Patel",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Akhil Anil",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "S Biko",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "S Biko",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "S Biko",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "SO Ngoche",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "SO Ngoche",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "SO Ngoche",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SO Ngoche",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SO Ngoche",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SO Ngoche",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "Vraj Patel",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Vraj Patel",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "Vraj Patel",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Akhil Anil",
+              "bowler": "SO Ngoche",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SO Ngoche",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "SO Ngoche",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "SO Ngoche",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "SO Ngoche",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "SO Ngoche",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "LN Oluoch",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "LN Oluoch",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "LN Oluoch",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "LN Oluoch",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "LN Oluoch",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "LN Oluoch",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Nassoro",
+                  "fielders": [
+                    {
+                      "name": "S Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "HA Chohan",
+              "bowler": "NN Odhiambo",
+              "non_striker": "Akhil Anil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "NN Odhiambo",
+              "non_striker": "HA Chohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "NN Odhiambo",
+              "non_striker": "HA Chohan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "NN Odhiambo",
+              "non_striker": "HA Chohan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "NN Odhiambo",
+              "non_striker": "HA Chohan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Akhil Anil",
+              "bowler": "NN Odhiambo",
+              "non_striker": "HA Chohan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 156
+      }
+    }
+  ]
+}

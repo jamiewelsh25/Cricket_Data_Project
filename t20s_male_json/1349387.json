@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-12-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2022-12-21"
+    ],
+    "event": {
+      "name": "Quadrangular Twenty20 Series (Malaysia)",
+      "match_number": 10
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1975,
+    "officials": {
+      "match_referees": [
+        "Edwin Seah"
+      ],
+      "reserve_umpires": [
+        "Rudy Ismandy"
+      ],
+      "umpires": [
+        "T Senthil Kumar",
+        "Tabarak Dar"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Malaysia": [
+        "Zubaidi Zulkifle",
+        "Virandeep Singh",
+        "Syed Aziz",
+        "Rizwan Haider",
+        "Khizar Hayat",
+        "Fitri Sham",
+        "Muhammad Wafiq",
+        "Mohamed Arief",
+        "Syed Rehmatullah",
+        "S Muniandy",
+        "Ahmed Faiz"
+      ],
+      "Qatar": [
+        "Mohammad Rizlan",
+        "Muhammad Tanveer",
+        "Ikramullah Khan",
+        "Assad Borham",
+        "I Liyanage",
+        "Dharmang Patel",
+        "Akash Babu",
+        "Gayan Munaweera",
+        "Mohammed Nadeem",
+        "Kamran Khan",
+        "VN Veetil"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahmed Faiz": "f6b4f746",
+        "Akash Babu": "fb59e5bc",
+        "Assad Borham": "219a417a",
+        "Dharmang Patel": "643f2e6a",
+        "Edwin Seah": "be24f868",
+        "Fitri Sham": "d2ec068c",
+        "Gayan Munaweera": "62141a22",
+        "I Liyanage": "826e1017",
+        "Ikramullah Khan": "c6e1354c",
+        "Kamran Khan": "922e3dcc",
+        "Khizar Hayat": "78bbeba1",
+        "Mohamed Arief": "1087dd78",
+        "Mohammad Rizlan": "82afc034",
+        "Mohammed Nadeem": "856cbb1e",
+        "Muhammad Tanveer": "aef39fe4",
+        "Muhammad Wafiq": "f104c434",
+        "Rizwan Haider": "dc60abdc",
+        "Rudy Ismandy": "84682045",
+        "S Muniandy": "57fcfd3b",
+        "Syed Aziz": "6667067e",
+        "Syed Rehmatullah": "fcbdc2b0",
+        "T Senthil Kumar": "961ddfac",
+        "Tabarak Dar": "2259c12d",
+        "VN Veetil": "3cf5a041",
+        "Virandeep Singh": "415d30b6",
+        "Zubaidi Zulkifle": "dca8273d"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Malaysia",
+      "Qatar"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Malaysia"
+    },
+    "venue": "UKM-YSD Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Mohammed Nadeem",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "VN Veetil",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "VN Veetil",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "VN Veetil",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Virandeep Singh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "VN Veetil",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

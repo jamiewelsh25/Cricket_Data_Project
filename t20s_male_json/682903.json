@@ -1,0 +1,2894 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2014-03-17",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2014-03-17"
+    ],
+    "event": {
+      "group": "B",
+      "match_number": 4,
+      "name": "World T20",
+      "stage": "First Round"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 369,
+    "officials": {
+      "match_referees": [
+        "DC Boon"
+      ],
+      "reserve_umpires": [
+        "SJ Davis"
+      ],
+      "tv_umpires": [
+        "M Erasmus"
+      ],
+      "umpires": [
+        "BF Bowden",
+        "IJ Gould"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 6
+      },
+      "winner": "Netherlands"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "TLW Cooper"
+    ],
+    "players": {
+      "Netherlands": [
+        "SJ Myburgh",
+        "MR Swart",
+        "W Barresi",
+        "TLW Cooper",
+        "PW Borren",
+        "BN Cooper",
+        "LV van Beek",
+        "Mudassar Bukhari",
+        "T van der Gugten",
+        "PM Seelaar",
+        "Ahsan Malik"
+      ],
+      "United Arab Emirates": [
+        "Amjad Ali",
+        "Faizan Asif",
+        "Khurram Khan",
+        "SP Patil",
+        "Shaiman Anwar",
+        "Rohan Mustafa",
+        "Amjad Javed",
+        "V Shetty",
+        "EHSN Silva",
+        "Kamran Shazad",
+        "AM Guruge"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Guruge": "26534b48",
+        "Ahsan Malik": "96503059",
+        "Amjad Ali": "e4271302",
+        "Amjad Javed": "18eaf2fa",
+        "BF Bowden": "efc0a862",
+        "BN Cooper": "634a7b21",
+        "DC Boon": "e79a1fe3",
+        "EHSN Silva": "7572bf45",
+        "Faizan Asif": "8b89eb80",
+        "IJ Gould": "a9dfdf6c",
+        "Kamran Shazad": "75186c24",
+        "Khurram Khan": "ae6746e0",
+        "LV van Beek": "782fb776",
+        "M Erasmus": "15d3c895",
+        "MR Swart": "a75a78eb",
+        "Mudassar Bukhari": "37312a74",
+        "PM Seelaar": "abbdca1a",
+        "PW Borren": "91052c96",
+        "Rohan Mustafa": "d1988788",
+        "SJ Davis": "bc71b0b2",
+        "SJ Myburgh": "18261c22",
+        "SP Patil": "f5c198fb",
+        "Shaiman Anwar": "e9630504",
+        "T van der Gugten": "d99cc23a",
+        "TLW Cooper": "2318ba22",
+        "V Shetty": "fd483a3e",
+        "W Barresi": "0d677597"
+      }
+    },
+    "season": "2013/14",
+    "team_type": "international",
+    "teams": [
+      "Netherlands",
+      "United Arab Emirates"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "United Arab Emirates"
+    },
+    "venue": "Sylhet Stadium"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Amjad Ali",
+              "bowler": "MR Swart",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Amjad Ali",
+              "bowler": "MR Swart",
+              "non_striker": "Faizan Asif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "MR Swart",
+              "non_striker": "Amjad Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "MR Swart",
+              "non_striker": "Amjad Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "MR Swart",
+              "non_striker": "Amjad Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faizan Asif",
+              "bowler": "MR Swart",
+              "non_striker": "Amjad Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Faizan Asif",
+                  "fielders": [
+                    {
+                      "name": "Ahsan Malik"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Amjad Ali",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amjad Ali",
+              "bowler": "T van der Gugten",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amjad Ali",
+              "bowler": "T van der Gugten",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amjad Ali",
+              "bowler": "T van der Gugten",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amjad Ali",
+              "bowler": "T van der Gugten",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Amjad Ali"
+                }
+              ]
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "T van der Gugten",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Khurram Khan",
+              "bowler": "T van der Gugten",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "T van der Gugten",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "T van der Gugten",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "T van der Gugten",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "T van der Gugten",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Khurram Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "MR Swart",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "MR Swart",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MR Swart",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "MR Swart",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MR Swart",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "MR Swart",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "MR Swart",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "LV van Beek",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Khurram Khan",
+              "bowler": "PM Seelaar",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "PM Seelaar",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PM Seelaar",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "PM Seelaar",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "PM Seelaar",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "PM Seelaar",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "SP Patil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SP Patil",
+              "bowler": "TLW Cooper",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Patil",
+              "bowler": "TLW Cooper",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SP Patil"
+                }
+              ]
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "TLW Cooper",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "TLW Cooper",
+              "non_striker": "Khurram Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khurram Khan",
+              "bowler": "TLW Cooper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Khurram Khan"
+                }
+              ]
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "TLW Cooper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "TLW Cooper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "TLW Cooper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "TLW Cooper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "TLW Cooper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "TLW Cooper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "TLW Cooper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PM Seelaar",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "PM Seelaar",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "PM Seelaar",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PM Seelaar",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PM Seelaar",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "PM Seelaar",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "T van der Gugten",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "T van der Gugten",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Rohan Mustafa",
+                  "fielders": [
+                    {
+                      "name": "PW Borren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Amjad Javed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "T van der Gugten",
+              "non_striker": "Amjad Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Shaiman Anwar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Amjad Javed",
+              "bowler": "Ahsan Malik",
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amjad Javed",
+              "bowler": "Ahsan Malik",
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Amjad Javed",
+                  "fielders": [
+                    {
+                      "name": "PM Seelaar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "Ahsan Malik",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EHSN Silva",
+              "bowler": "Ahsan Malik",
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EHSN Silva",
+              "bowler": "Ahsan Malik",
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "V Shetty",
+              "bowler": "T van der Gugten",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "T van der Gugten",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EHSN Silva",
+              "bowler": "T van der Gugten",
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "T van der Gugten",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "T van der Gugten",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EHSN Silva",
+              "bowler": "T van der Gugten",
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "V Shetty",
+              "bowler": "LV van Beek",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EHSN Silva",
+              "bowler": "LV van Beek",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "LV van Beek",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "LV van Beek",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EHSN Silva",
+              "bowler": "LV van Beek",
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "LV van Beek",
+              "non_striker": "EHSN Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "EHSN Silva",
+                  "fielders": [
+                    {
+                      "name": "TLW Cooper"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Kamran Shazad",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Shetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Kamran Shazad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shetty",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Kamran Shazad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "V Shetty"
+                }
+              ]
+            },
+            {
+              "batter": "AM Guruge",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Kamran Shazad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Shazad",
+              "bowler": "Ahsan Malik",
+              "non_striker": "AM Guruge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kamran Shazad",
+                  "fielders": [
+                    {
+                      "name": "LV van Beek"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "AM Guruge",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "EHSN Silva",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "EHSN Silva",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "EHSN Silva",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "EHSN Silva",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "EHSN Silva",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "EHSN Silva",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "AM Guruge",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "EHSN Silva",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "EHSN Silva",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "EHSN Silva",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "EHSN Silva",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "EHSN Silva",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "EHSN Silva",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "AM Guruge",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "AM Guruge",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "AM Guruge",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "AM Guruge",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Amjad Javed",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "Kamran Shazad",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Kamran Shazad",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Kamran Shazad",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "Kamran Shazad",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MR Swart",
+                  "fielders": [
+                    {
+                      "name": "Amjad Javed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Kamran Shazad",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Kamran Shazad",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Rohan Mustafa",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Kamran Shazad",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Kamran Shazad",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Kamran Shazad",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Kamran Shazad",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Kamran Shazad",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Kamran Shazad",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Amjad Javed",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Amjad Javed",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Amjad Javed",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Amjad Javed",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "SJ Myburgh",
+                  "fielders": [
+                    {
+                      "name": "SP Patil"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Amjad Javed",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Amjad Javed",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Amjad Javed",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Amjad Javed",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Amjad Javed",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Amjad Javed",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "EHSN Silva",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "EHSN Silva",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "EHSN Silva",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "EHSN Silva",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "EHSN Silva",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "EHSN Silva",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "AM Guruge",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AM Guruge",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "AM Guruge",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AM Guruge",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "AM Guruge",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "EHSN Silva",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "EHSN Silva",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "EHSN Silva",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "W Barresi"
+                }
+              ]
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "EHSN Silva",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "EHSN Silva",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "EHSN Silva",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Kamran Shazad",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Kamran Shazad",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Kamran Shazad",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Kamran Shazad",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Kamran Shazad",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Kamran Shazad",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "Amjad Javed",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Amjad Javed",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Amjad Javed",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Amjad Javed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Amjad Javed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Amjad Javed",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Kamran Shazad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "Kamran Shazad",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PW Borren",
+                  "fielders": [
+                    {
+                      "name": "EHSN Silva"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Kamran Shazad",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Kamran Shazad",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Kamran Shazad",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Kamran Shazad",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "BN Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "BN Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BN Cooper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 152
+      }
+    }
+  ]
+}

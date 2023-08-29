@@ -1,0 +1,3041 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-07-30",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Edinburgh",
+    "dates": [
+      "2022-07-29"
+    ],
+    "event": {
+      "name": "New Zealand tour of Scotland",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1701,
+    "officials": {
+      "match_referees": [
+        "Wayne Noon"
+      ],
+      "tv_umpires": [
+        "DA Haggo"
+      ],
+      "umpires": [
+        "DH Mclean",
+        "Ryan Milne"
+      ]
+    },
+    "outcome": {
+      "winner": "New Zealand",
+      "by": {
+        "runs": 102
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MS Chapman"
+    ],
+    "players": {
+      "New Zealand": [
+        "D Cleaver",
+        "FH Allen",
+        "MS Chapman",
+        "DJ Mitchell",
+        "MG Bracewell",
+        "JDS Neesham",
+        "MJ Santner",
+        "MJG Rippon",
+        "IS Sodhi",
+        "JA Duffy",
+        "BV Sears"
+      ],
+      "Scotland": [
+        "HG Munsey",
+        "MA Jones",
+        "MH Cross",
+        "RD Berrington",
+        "OJ Hairs",
+        "CN Greaves",
+        "MA Leask",
+        "MRJ Watt",
+        "GT Main",
+        "AC Evans",
+        "Hamza Tahir"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Evans": "e9a870ed",
+        "BV Sears": "e1891e00",
+        "CN Greaves": "f42064d5",
+        "D Cleaver": "e3a949be",
+        "DA Haggo": "e6789a88",
+        "DH Mclean": "281d4749",
+        "DJ Mitchell": "eade4650",
+        "FH Allen": "bf74b130",
+        "GT Main": "4ebc70ca",
+        "HG Munsey": "ff014c34",
+        "Hamza Tahir": "34cb2f69",
+        "IS Sodhi": "641ac5ff",
+        "JA Duffy": "dadbdb68",
+        "JDS Neesham": "9219eff0",
+        "MA Jones": "05f96194",
+        "MA Leask": "28131839",
+        "MG Bracewell": "e38bce7a",
+        "MH Cross": "8b261d84",
+        "MJ Santner": "e4a0deae",
+        "MJG Rippon": "b03db6fa",
+        "MRJ Watt": "1252f71a",
+        "MS Chapman": "7fa12533",
+        "OJ Hairs": "c8a7b014",
+        "RD Berrington": "e21bc7f3",
+        "Ryan Milne": "d2343b26",
+        "Wayne Noon": "736e1761"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Scotland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "New Zealand"
+    },
+    "venue": "Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "D Cleaver",
+              "bowler": "Hamza Tahir",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "Hamza Tahir",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "Hamza Tahir",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FH Allen",
+              "bowler": "Hamza Tahir",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "FH Allen",
+              "bowler": "Hamza Tahir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "Hamza Tahir",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "FH Allen",
+              "bowler": "AC Evans",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FH Allen",
+              "bowler": "AC Evans",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "non_striker": "FH Allen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "FH Allen",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FH Allen",
+                  "fielders": [
+                    {
+                      "name": "MRJ Watt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "D Cleaver",
+              "bowler": "MRJ Watt",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "D Cleaver",
+              "bowler": "GT Main",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "GT Main",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "GT Main",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "GT Main",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "GT Main",
+              "non_striker": "D Cleaver",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Cleaver",
+              "bowler": "AC Evans",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Cleaver",
+                  "fielders": [
+                    {
+                      "name": "OJ Hairs"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AC Evans",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AC Evans",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AC Evans",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MA Leask",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MA Leask",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MA Leask",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MA Leask",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MRJ Watt",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MRJ Watt",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MRJ Watt",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MRJ Watt",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "MRJ Watt",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "CN Greaves",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "CN Greaves",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "CN Greaves",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Mitchell",
+                  "fielders": [
+                    {
+                      "name": "AC Evans"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "CN Greaves",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "CN Greaves",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "CN Greaves",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "CN Greaves",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "MA Leask",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "Hamza Tahir",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "AC Evans",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AC Evans",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "AC Evans",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Chapman",
+                  "fielders": [
+                    {
+                      "name": "MRJ Watt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "CN Greaves",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "CN Greaves",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MG Bracewell",
+              "bowler": "GT Main",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "GT Main",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "GT Main",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "GT Main",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "GT Main",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "GT Main",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MG Bracewell",
+              "bowler": "MRJ Watt",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "MRJ Watt",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "MRJ Watt",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "MRJ Watt",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "MRJ Watt",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "MRJ Watt",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JDS Neesham",
+              "bowler": "AC Evans",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "AC Evans",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JDS Neesham",
+              "bowler": "GT Main",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "GT Main",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "GT Main",
+              "extras": {
+                "legbyes": 1,
+                "noballs": 1
+              },
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "GT Main",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Bracewell",
+              "bowler": "GT Main",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "GT Main",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "GT Main",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JDS Neesham",
+                  "fielders": [
+                    {
+                      "name": "MRJ Watt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Scotland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HG Munsey",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HG Munsey",
+              "bowler": "MG Bracewell",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "MG Bracewell",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "MG Bracewell",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "MG Bracewell",
+              "non_striker": "MA Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Jones",
+              "bowler": "MG Bracewell",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Jones",
+              "bowler": "MG Bracewell",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Jones",
+                  "fielders": [
+                    {
+                      "name": "DJ Mitchell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "HG Munsey",
+              "bowler": "BV Sears",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "BV Sears",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MH Cross",
+              "bowler": "BV Sears",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MH Cross",
+              "bowler": "BV Sears",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MH Cross",
+              "bowler": "BV Sears",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MH Cross",
+              "bowler": "BV Sears",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MH Cross",
+              "bowler": "BV Sears",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HG Munsey",
+              "bowler": "JDS Neesham",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "JDS Neesham",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HG Munsey",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "JDS Neesham",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MH Cross",
+              "bowler": "JDS Neesham",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MH Cross",
+              "bowler": "JDS Neesham",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MH Cross",
+                  "fielders": [
+                    {
+                      "name": "MG Bracewell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OJ Hairs",
+              "bowler": "JDS Neesham",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RD Berrington",
+              "bowler": "BV Sears",
+              "non_striker": "OJ Hairs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OJ Hairs",
+                  "fielders": [
+                    {
+                      "name": "D Cleaver"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "BV Sears",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "BV Sears",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "BV Sears",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "BV Sears",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "BV Sears",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RD Berrington",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RD Berrington",
+              "bowler": "IS Sodhi",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Berrington",
+                  "fielders": [
+                    {
+                      "name": "DJ Mitchell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJG Rippon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "MJ Santner",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "MJ Santner",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "CN Greaves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CN Greaves",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CN Greaves",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "IS Sodhi",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "IS Sodhi",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MA Leask",
+              "bowler": "MJG Rippon",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "MJG Rippon",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "MJG Rippon",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MA Leask",
+              "bowler": "JA Duffy",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "JA Duffy",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "JA Duffy",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "JA Duffy",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "JA Duffy",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MA Leask",
+              "bowler": "MJG Rippon",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Leask",
+                  "fielders": [
+                    {
+                      "name": "D Cleaver"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "MJG Rippon",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "MJG Rippon",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "MJG Rippon",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MRJ Watt",
+              "bowler": "BV Sears",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "BV Sears",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MRJ Watt",
+              "bowler": "BV Sears",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MRJ Watt",
+                  "fielders": [
+                    {
+                      "name": "JDS Neesham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "BV Sears",
+              "non_striker": "AC Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "BV Sears",
+              "non_striker": "AC Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "BV Sears",
+              "non_striker": "AC Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AC Evans",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Evans",
+              "bowler": "MJG Rippon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Evans",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Evans",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Evans",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Evans",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Evans",
+                  "fielders": [
+                    {
+                      "name": "JA Duffy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Hamza Tahir",
+              "bowler": "MJG Rippon",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GT Main",
+              "bowler": "JA Duffy",
+              "non_striker": "Hamza Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Tahir",
+              "bowler": "JA Duffy",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "JA Duffy",
+              "non_striker": "Hamza Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "JA Duffy",
+              "non_striker": "Hamza Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "JA Duffy",
+              "non_striker": "Hamza Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "JA Duffy",
+              "non_striker": "Hamza Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Hamza Tahir",
+              "bowler": "BV Sears",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Tahir",
+              "bowler": "BV Sears",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Tahir",
+              "bowler": "BV Sears",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "BV Sears",
+              "non_striker": "Hamza Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Main",
+              "bowler": "BV Sears",
+              "non_striker": "Hamza Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Tahir",
+              "bowler": "BV Sears",
+              "non_striker": "GT Main",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 255
+      }
+    }
+  ]
+}

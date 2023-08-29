@@ -1,0 +1,3063 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-11-10",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Coolidge",
+    "dates": [
+      "2021-11-08"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Americas Region Qualifier",
+      "match_number": 6
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1411,
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "Vijaya Mallela"
+      ],
+      "umpires": [
+        "H Grewal",
+        "JM Williams"
+      ]
+    },
+    "outcome": {
+      "winner": "Belize",
+      "by": {
+        "runs": 12
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "BS Stephenson"
+    ],
+    "players": {
+      "Belize": [
+        "AK Muslar",
+        "AA Banner",
+        "ML Castillo",
+        "BS Stephenson",
+        "GG Banner",
+        "KJ Young",
+        "TW Samuels",
+        "Garret Banner",
+        "NN Banner",
+        "KK Tillett",
+        "TJ Stephenson"
+      ],
+      "Panama": [
+        "SP Guzman",
+        "Yusuf Bhoola",
+        "A Natubhai Ahir",
+        "Yusuf Ebrahim",
+        "Irfan Hafejee",
+        "M Sohel Patel",
+        "D Ahir",
+        "Mahmud Jasat",
+        "Abdullah Jasat",
+        "KB Ahir",
+        "N Ahir"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Natubhai Ahir": "9c91218d",
+        "AA Banner": "02d11602",
+        "AK Muslar": "93f72fdc",
+        "Abdullah Jasat": "5a42db78",
+        "BS Stephenson": "db571b24",
+        "D Ahir": "424a646f",
+        "Denavon Hayles": "5cbeeb02",
+        "GG Banner": "aeb893b4",
+        "Garret Banner": "ac1ddea1",
+        "H Grewal": "1172f36e",
+        "Irfan Hafejee": "244009ae",
+        "JM Williams": "b61d9d70",
+        "KB Ahir": "214cf493",
+        "KJ Young": "8bba9ec2",
+        "KK Tillett": "55fedd51",
+        "M Sohel Patel": "40a5bcf9",
+        "ML Castillo": "9853b404",
+        "Mahmud Jasat": "97e36a0f",
+        "N Ahir": "c2ecd4a7",
+        "NN Banner": "0697b5a1",
+        "SP Guzman": "37a1766e",
+        "TJ Stephenson": "82340b9d",
+        "TW Samuels": "df3438ae",
+        "Vijaya Mallela": "85b6244a",
+        "Yusuf Bhoola": "5afc0b37",
+        "Yusuf Ebrahim": "2d5c6e88"
+      }
+    },
+    "season": "2021/22",
+    "team_type": "international",
+    "teams": [
+      "Belize",
+      "Panama"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Belize"
+    },
+    "venue": "Coolidge Cricket Ground, Antigua"
+  },
+  "innings": [
+    {
+      "team": "Belize",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AK Muslar",
+              "bowler": "KB Ahir",
+              "non_striker": "AA Banner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "KB Ahir",
+              "non_striker": "AA Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Banner",
+              "bowler": "KB Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Banner",
+              "bowler": "KB Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Banner",
+              "bowler": "KB Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Banner",
+              "bowler": "KB Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Banner",
+                  "fielders": [
+                    {
+                      "name": "N Ahir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "ML Castillo",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Abdullah Jasat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Castillo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "ML Castillo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "ML Castillo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "ML Castillo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Castillo",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ML Castillo",
+                  "fielders": [
+                    {
+                      "name": "A Natubhai Ahir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AK Muslar",
+              "bowler": "KB Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "KB Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "KB Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "N Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "N Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "N Ahir",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Yusuf Ebrahim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Yusuf Ebrahim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "AK Muslar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Muslar",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Muslar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GG Banner",
+              "bowler": "Irfan Hafejee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Banner",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Banner",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GG Banner",
+              "bowler": "Yusuf Ebrahim",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GG Banner",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Yusuf Ebrahim",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GG Banner",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Banner",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "non_striker": "GG Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Banner",
+              "bowler": "KB Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GG Banner",
+                  "fielders": [
+                    {
+                      "name": "Mahmud Jasat"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "KB Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "KB Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BS Stephenson",
+              "bowler": "D Ahir",
+              "non_striker": "KJ Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "D Ahir",
+              "non_striker": "KJ Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "D Ahir",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "D Ahir",
+              "non_striker": "KJ Young",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KJ Young",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "N Ahir",
+              "non_striker": "KJ Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KJ Young",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "D Ahir",
+              "non_striker": "KJ Young",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "D Ahir",
+              "non_striker": "KJ Young",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Young",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KJ Young",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KJ Young",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "N Ahir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "N Ahir",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "N Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "TW Samuels",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "D Ahir",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "D Ahir",
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "D Ahir",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "TW Samuels",
+              "bowler": "KB Ahir",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BS Stephenson",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BS Stephenson",
+              "bowler": "KB Ahir",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BS Stephenson",
+                  "fielders": [
+                    {
+                      "name": "A Natubhai Ahir"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Garret Banner",
+              "bowler": "KB Ahir",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "KB Ahir",
+              "non_striker": "Garret Banner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "KB Ahir",
+              "non_striker": "Garret Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Garret Banner",
+              "bowler": "KB Ahir",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "TW Samuels",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "Garret Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Garret Banner",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "Garret Banner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "Garret Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Garret Banner",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "TW Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Garret Banner",
+                  "fielders": [
+                    {
+                      "name": "D Ahir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TW Samuels",
+              "bowler": "Abdullah Jasat",
+              "non_striker": "NN Banner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "TW Samuels",
+                  "fielders": [
+                    {
+                      "name": "D Ahir"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Panama",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "TW Samuels",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "TW Samuels",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "TW Samuels",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Guzman",
+              "bowler": "TW Samuels",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SP Guzman",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SP Guzman",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "TW Samuels",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "TW Samuels",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "Garret Banner",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "Garret Banner",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "Garret Banner",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "Garret Banner",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "Garret Banner",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "Garret Banner",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "KJ Young",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "KJ Young",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "ML Castillo",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "KJ Young",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "non_striker": "A Natubhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Natubhai Ahir",
+              "bowler": "ML Castillo",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Natubhai Ahir",
+                  "fielders": [
+                    {
+                      "name": "GG Banner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Bhoola",
+              "bowler": "ML Castillo",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yusuf Bhoola",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "ML Castillo",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "KJ Young",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "KJ Young",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "KJ Young",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "KJ Young",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "KJ Young",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "KJ Young",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "KJ Young",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "KJ Young",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "ML Castillo",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "ML Castillo",
+              "non_striker": "Yusuf Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Yusuf Ebrahim",
+              "bowler": "TJ Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yusuf Ebrahim",
+                  "fielders": [
+                    {
+                      "name": "ML Castillo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "TJ Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "TJ Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "TJ Stephenson",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "TJ Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Sohel Patel",
+                  "fielders": [
+                    {
+                      "name": "AK Muslar"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "D Ahir",
+              "bowler": "TJ Stephenson",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "BS Stephenson",
+              "non_striker": "D Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "BS Stephenson",
+              "non_striker": "D Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "BS Stephenson",
+              "non_striker": "D Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "BS Stephenson",
+              "non_striker": "D Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ahir",
+              "bowler": "BS Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ahir",
+              "bowler": "BS Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "TJ Stephenson",
+              "non_striker": "D Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "TJ Stephenson",
+              "non_striker": "D Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ahir",
+              "bowler": "TJ Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "TJ Stephenson",
+              "non_striker": "D Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ahir",
+              "bowler": "TJ Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ahir",
+              "bowler": "TJ Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "D Ahir",
+              "bowler": "BS Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ahir",
+              "bowler": "BS Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ahir",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "BS Stephenson",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "BS Stephenson",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Irfan Hafejee",
+              "bowler": "BS Stephenson",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Irfan Hafejee",
+                  "fielders": [
+                    {
+                      "name": "KJ Young"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "BS Stephenson",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "Garret Banner",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "Garret Banner",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "Garret Banner",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "Garret Banner",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "Garret Banner",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "Garret Banner",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "BS Stephenson",
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "BS Stephenson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Abdullah Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "BS Stephenson",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Abdullah Jasat",
+              "bowler": "BS Stephenson",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Jasat",
+                  "fielders": [
+                    {
+                      "name": "GG Banner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "BS Stephenson",
+              "non_striker": "KB Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "BS Stephenson",
+              "non_striker": "KB Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KB Ahir",
+              "bowler": "NN Banner",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KB Ahir",
+              "bowler": "NN Banner",
+              "non_striker": "Mahmud Jasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "NN Banner",
+              "non_striker": "KB Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "NN Banner",
+              "non_striker": "KB Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "NN Banner",
+              "non_striker": "KB Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahmud Jasat",
+              "bowler": "NN Banner",
+              "non_striker": "KB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 144
+      }
+    }
+  ]
+}

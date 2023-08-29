@@ -1,0 +1,3090 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-08-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Belfast",
+    "dates": [
+      "2022-08-12"
+    ],
+    "event": {
+      "name": "Afghanistan tour of Ireland",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1731,
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "PA Reynolds"
+      ],
+      "umpires": [
+        "M Hawthorne",
+        "R Black"
+      ]
+    },
+    "outcome": {
+      "winner": "Afghanistan",
+      "by": {
+        "runs": 22
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Rahmanullah Gurbaz"
+    ],
+    "players": {
+      "Afghanistan": [
+        "Hazratullah",
+        "Rahmanullah Gurbaz",
+        "Ibrahim Zadran",
+        "Najibullah Zadran",
+        "Mohammad Nabi",
+        "Rashid Khan",
+        "Azmatullah Omarzai",
+        "Usman Ghani",
+        "Naveen-ul-Haq",
+        "Mujeeb Ur Rahman",
+        "Fazalhaq Farooqi"
+      ],
+      "Ireland": [
+        "PR Stirling",
+        "A Balbirnie",
+        "L Tucker",
+        "HT Tector",
+        "C Campher",
+        "GJ Delany",
+        "GH Dockrell",
+        "MR Adair",
+        "F Hand",
+        "GI Hume",
+        "J Little"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "Azmatullah Omarzai": "8f6dd463",
+        "C Campher": "478a63e7",
+        "F Hand": "e3fe4b49",
+        "Fazalhaq Farooqi": "e9c7f0d0",
+        "G McCrea": "46f4a901",
+        "GH Dockrell": "99cddc5e",
+        "GI Hume": "25550d06",
+        "GJ Delany": "33b3d2df",
+        "HT Tector": "59ea70a4",
+        "Hazratullah": "5ea51c25",
+        "Ibrahim Zadran": "d4550956",
+        "J Little": "9061a703",
+        "L Tucker": "3979b5e0",
+        "M Hawthorne": "ea123ee4",
+        "MR Adair": "fc55ec67",
+        "Mohammad Nabi": "62af8546",
+        "Mujeeb Ur Rahman": "7d92277a",
+        "Najibullah Zadran": "1212cbec",
+        "Naveen-ul-Haq": "c0c411cb",
+        "PA Reynolds": "a416c9c3",
+        "PR Stirling": "cf494ffe",
+        "R Black": "156c8fb1",
+        "Rahmanullah Gurbaz": "0bacade8",
+        "Rashid Khan": "5f547c8b",
+        "Usman Ghani": "e3829b2a"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Afghanistan",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Ireland"
+    },
+    "venue": "Civil Service Cricket Club, Stormont, Belfast"
+  },
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "MR Adair",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "MR Adair",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "MR Adair",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "MR Adair",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "MR Adair",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GI Hume",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GI Hume",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "MR Adair",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GI Hume",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GI Hume",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GI Hume",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GI Hume",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "F Hand",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "F Hand",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "F Hand",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "C Campher",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "C Campher",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "C Campher",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "C Campher",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "C Campher",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "C Campher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "C Campher",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "F Hand",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "F Hand",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahmanullah Gurbaz",
+                  "fielders": [
+                    {
+                      "name": "MR Adair"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "J Little",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "J Little",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "GJ Delany",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "F Hand",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Hazratullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "F Hand",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hazratullah",
+              "bowler": "F Hand",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hazratullah",
+                  "fielders": [
+                    {
+                      "name": "PR Stirling"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "F Hand",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "F Hand",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "F Hand",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GI Hume",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GJ Delany",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "J Little",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "J Little",
+              "non_striker": "Ibrahim Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "J Little",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "J Little",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ibrahim Zadran",
+              "bowler": "J Little",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Zadran",
+                  "fielders": [
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "J Little",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "GI Hume",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "GI Hume",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "GI Hume",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "GI Hume",
+              "non_striker": "Mohammad Nabi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Mohammad Nabi",
+              "bowler": "MR Adair",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Nabi",
+                  "fielders": [
+                    {
+                      "name": "HT Tector"
+                    },
+                    {
+                      "name": "MR Adair"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Najibullah Zadran",
+              "bowler": "MR Adair",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Najibullah Zadran",
+                  "fielders": [
+                    {
+                      "name": "F Hand"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "Fazalhaq Farooqi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "Fazalhaq Farooqi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PR Stirling",
+                  "fielders": [
+                    {
+                      "name": "Usman Ghani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Azmatullah Omarzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Azmatullah Omarzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Azmatullah Omarzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Balbirnie",
+                  "fielders": [
+                    {
+                      "name": "Rashid Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HT Tector",
+                  "fielders": [
+                    {
+                      "name": "Rahmanullah Gurbaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Rashid Khan",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Rashid Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Rashid Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Rashid Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Rashid Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Rashid Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "C Campher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Campher",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Campher",
+                  "fielders": [
+                    {
+                      "name": "Najibullah Zadran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Rashid Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Rashid Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Rashid Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Rashid Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Rashid Khan",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Rashid Khan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Tucker",
+                  "fielders": [
+                    {
+                      "name": "Naveen-ul-Haq"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GJ Delany",
+                  "fielders": [
+                    {
+                      "name": "Najibullah Zadran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MR Adair",
+                  "fielders": [
+                    {
+                      "name": "Rashid Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "F Hand",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "F Hand",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Rashid Khan",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Rashid Khan",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Rashid Khan",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "F Hand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Hand",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Hand",
+                  "fielders": [
+                    {
+                      "name": "Hazratullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "GI Hume",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GI Hume",
+              "bowler": "Naveen-ul-Haq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GI Hume",
+              "bowler": "Naveen-ul-Haq",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "GI Hume",
+                  "fielders": [
+                    {
+                      "name": "Rahmanullah Gurbaz"
+                    },
+                    {
+                      "name": "Mujeeb Ur Rahman"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Azmatullah Omarzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "J Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 190
+      }
+    }
+  ]
+}

@@ -1,0 +1,3097 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-10-05",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Carrara",
+    "dates": [
+      "2022-10-05"
+    ],
+    "event": {
+      "name": "West Indies tour of Australia",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1806,
+    "officials": {
+      "match_referees": [
+        "RW Stratford"
+      ],
+      "reserve_umpires": [
+        "SAJ Craig"
+      ],
+      "tv_umpires": [
+        "PJ Gillespie"
+      ],
+      "umpires": [
+        "DM Koch",
+        "SJ Nogajski"
+      ]
+    },
+    "outcome": {
+      "winner": "Australia",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AJ Finch"
+    ],
+    "players": {
+      "West Indies": [
+        "KR Mayers",
+        "J Charles",
+        "BA King",
+        "RA Reifer",
+        "N Pooran",
+        "R Powell",
+        "JO Holder",
+        "OF Smith",
+        "AS Joseph",
+        "Y Cariah",
+        "SS Cottrell"
+      ],
+      "Australia": [
+        "DA Warner",
+        "C Green",
+        "MR Marsh",
+        "AJ Finch",
+        "GJ Maxwell",
+        "TH David",
+        "MS Wade",
+        "PJ Cummins",
+        "MA Starc",
+        "A Zampa",
+        "JR Hazlewood"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Zampa": "14f96089",
+        "AJ Finch": "b8d490fd",
+        "AS Joseph": "b0946605",
+        "BA King": "7fca84b7",
+        "C Green": "eaa76d3c",
+        "DA Warner": "dcce6f09",
+        "DM Koch": "6d10c034",
+        "GJ Maxwell": "b681e71e",
+        "J Charles": "09a9d073",
+        "JO Holder": "0f721006",
+        "JR Hazlewood": "03806cf8",
+        "KR Mayers": "73c18486",
+        "MA Starc": "3fb19989",
+        "MR Marsh": "3d8feaf8",
+        "MS Wade": "afa7e784",
+        "N Pooran": "3241e3fd",
+        "OF Smith": "23cca426",
+        "PJ Cummins": "ded9240e",
+        "PJ Gillespie": "3e253a50",
+        "R Powell": "650d5e49",
+        "RA Reifer": "d7725664",
+        "RW Stratford": "85489579",
+        "SAJ Craig": "689f2eed",
+        "SJ Nogajski": "9b3f9323",
+        "SS Cottrell": "a1d053dd",
+        "TH David": "f1f99156",
+        "Y Cariah": "78bb68d4"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Australia"
+    },
+    "venue": "Carrara Oval"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "MA Starc",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MA Starc",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MA Starc",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MA Starc",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MA Starc",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MA Starc",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MA Starc",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MA Starc",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Charles",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "BA King",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "PJ Cummins",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "PJ Cummins",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "PJ Cummins",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "PJ Cummins",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "PJ Cummins",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "PJ Cummins",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "C Green",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "C Green",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "C Green",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "C Green",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "C Green",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "C Green",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "C Green",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "C Green",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "A Zampa",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "A Zampa",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "A Zampa",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "A Zampa",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "A Zampa",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "A Zampa",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "BA King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA King",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BA King",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RA Reifer",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "PJ Cummins",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KR Mayers",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "PJ Cummins",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "PJ Cummins",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "PJ Cummins",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "PJ Cummins",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "PJ Cummins",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RA Reifer",
+              "bowler": "MA Starc",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MA Starc",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MA Starc",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "MA Starc",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "MA Starc",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "MA Starc",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MA Starc",
+              "non_striker": "RA Reifer",
+              "review": {
+                "by": "Australia",
+                "umpire": "DM Koch",
+                "batter": "N Pooran",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "MA Starc",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RA Reifer",
+              "bowler": "MA Starc",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "MA Starc",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "MA Starc",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "MA Starc",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "MA Starc",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "MA Starc",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "R Powell",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Reifer",
+              "bowler": "A Zampa",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "A Zampa",
+              "non_striker": "RA Reifer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RA Reifer",
+              "bowler": "C Green",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Reifer",
+                  "fielders": [
+                    {
+                      "name": "MS Wade"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "C Green",
+              "non_striker": "R Powell",
+              "review": {
+                "by": "Australia",
+                "umpire": "DM Koch",
+                "batter": "JO Holder",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "C Green",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "C Green",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "C Green",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "C Green",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JO Holder",
+              "bowler": "PJ Cummins",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "PJ Cummins",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JO Holder",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "PJ Cummins",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "PJ Cummins",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "JR Hazlewood",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Powell",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AS Joseph",
+              "bowler": "JR Hazlewood",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AS Joseph",
+              "bowler": "JR Hazlewood",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Joseph",
+              "bowler": "JR Hazlewood",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AS Joseph",
+              "bowler": "MA Starc",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AS Joseph",
+              "bowler": "MA Starc",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "MA Starc",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "MA Starc",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Joseph",
+              "bowler": "MA Starc",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Joseph",
+              "bowler": "MA Starc",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Joseph",
+              "bowler": "MA Starc",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AS Joseph",
+                  "fielders": [
+                    {
+                      "name": "TH David"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Cariah",
+              "bowler": "PJ Cummins",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OF Smith",
+              "bowler": "PJ Cummins",
+              "non_striker": "Y Cariah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Cariah",
+              "bowler": "PJ Cummins",
+              "non_striker": "OF Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OF Smith",
+                  "fielders": [
+                    {
+                      "name": "MS Wade"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DA Warner",
+              "bowler": "KR Mayers",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "KR Mayers",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "KR Mayers",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "KR Mayers",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "KR Mayers",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "KR Mayers",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DA Warner",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Warner",
+                  "fielders": [
+                    {
+                      "name": "BA King"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "SS Cottrell",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MR Marsh",
+                  "fielders": [
+                    {
+                      "name": "J Charles"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "AS Joseph",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "AS Joseph",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "SS Cottrell",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "AS Joseph",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Green",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "AS Joseph",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GJ Maxwell",
+                  "fielders": [
+                    {
+                      "name": "N Pooran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TH David",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TH David",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TH David",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TH David",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TH David",
+                  "fielders": [
+                    {
+                      "name": "OF Smith"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "SS Cottrell",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "SS Cottrell",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "SS Cottrell",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SS Cottrell",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MS Wade",
+              "bowler": "AS Joseph",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "AS Joseph",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "AS Joseph",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MS Wade",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "JO Holder",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Y Cariah",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "Y Cariah",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "JO Holder",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JO Holder",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Finch",
+                  "fielders": [
+                    {
+                      "name": "JO Holder"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PJ Cummins",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Cummins",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Cummins",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PJ Cummins",
+              "bowler": "AS Joseph",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "AS Joseph",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PJ Cummins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "AS Joseph",
+              "non_striker": "PJ Cummins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "PJ Cummins",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Cummins",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "OF Smith",
+              "non_striker": "PJ Cummins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Cummins",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PJ Cummins",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MA Starc",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Starc",
+              "bowler": "OF Smith",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MS Wade",
+              "bowler": "SS Cottrell",
+              "non_striker": "MA Starc",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "SS Cottrell",
+              "non_striker": "MA Starc",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Wade",
+              "bowler": "SS Cottrell",
+              "non_striker": "MA Starc",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Starc",
+              "bowler": "SS Cottrell",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Starc",
+              "bowler": "SS Cottrell",
+              "non_striker": "MS Wade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 146
+      }
+    }
+  ]
+}

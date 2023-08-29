@@ -1,0 +1,2732 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-06-24",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Cardiff",
+    "dates": [
+      "2021-06-24"
+    ],
+    "event": {
+      "name": "Sri Lanka tour of England",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1168,
+    "officials": {
+      "match_referees": [
+        "Phil Whitticase"
+      ],
+      "reserve_umpires": [
+        "DJ Millns"
+      ],
+      "tv_umpires": [
+        "MJ Saggers"
+      ],
+      "umpires": [
+        "AG Wharf",
+        "M Burns"
+      ]
+    },
+    "outcome": {
+      "winner": "England",
+      "by": {
+        "wickets": 5
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "LS Livingstone"
+    ],
+    "players": {
+      "Sri Lanka": [
+        "MD Gunathilaka",
+        "WIA Fernando",
+        "MDKJ Perera",
+        "BKG Mendis",
+        "N Dickwella",
+        "MD Shanaka",
+        "PWH de Silva",
+        "I Udana",
+        "A Dananjaya",
+        "B Fernando",
+        "PVD Chameera"
+      ],
+      "England": [
+        "JJ Roy",
+        "JM Bairstow",
+        "DJ Malan",
+        "EJG Morgan",
+        "SW Billings",
+        "LS Livingstone",
+        "SM Curran",
+        "DJ Willey",
+        "CJ Jordan",
+        "AU Rashid",
+        "MA Wood"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dananjaya": "5b16a806",
+        "AG Wharf": "2e0fcc58",
+        "AU Rashid": "249d60c9",
+        "B Fernando": "dabbd0ae",
+        "BKG Mendis": "5d1e7582",
+        "CJ Jordan": "ffe699c0",
+        "DJ Malan": "ad9c32a2",
+        "DJ Millns": "46ecfe40",
+        "DJ Willey": "7f048519",
+        "EJG Morgan": "d2a6c0e6",
+        "I Udana": "ac5ae4af",
+        "JJ Roy": "d1c36f5c",
+        "JM Bairstow": "abb83e27",
+        "LS Livingstone": "50c6bc2b",
+        "M Burns": "b3bd0666",
+        "MA Wood": "8d92a2c3",
+        "MD Gunathilaka": "509a7ca1",
+        "MD Shanaka": "3ff033bb",
+        "MDKJ Perera": "f21043a5",
+        "MJ Saggers": "402d5937",
+        "N Dickwella": "45963d9e",
+        "PVD Chameera": "327b58d3",
+        "PWH de Silva": "a97c8ec2",
+        "Phil Whitticase": "99d5f6fa",
+        "SM Curran": "e94915e6",
+        "SW Billings": "c16d4035",
+        "WIA Fernando": "9550470d"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "Sri Lanka",
+      "England"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Sri Lanka"
+    },
+    "venue": "Sophia Gardens, Cardiff"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MD Gunathilaka",
+              "bowler": "DJ Willey",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Gunathilaka",
+              "bowler": "DJ Willey",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "DJ Willey",
+              "non_striker": "MD Gunathilaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "DJ Willey",
+              "non_striker": "MD Gunathilaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "DJ Willey",
+              "non_striker": "MD Gunathilaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Gunathilaka",
+              "bowler": "DJ Willey",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MD Gunathilaka",
+              "bowler": "SM Curran",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "SM Curran",
+              "non_striker": "MD Gunathilaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "SM Curran",
+              "non_striker": "MD Gunathilaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Gunathilaka",
+                  "fielders": [
+                    {
+                      "name": "SM Curran"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "SM Curran",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "SM Curran",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "SM Curran",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "DJ Willey",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "DJ Willey",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "DJ Willey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "DJ Willey",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WIA Fernando",
+              "review": {
+                "by": "England",
+                "umpire": "AG Wharf",
+                "batter": "MDKJ Perera",
+                "decision": "struck down",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "SM Curran",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "SM Curran",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WIA Fernando",
+              "bowler": "SM Curran",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WIA Fernando",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "SM Curran",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "SM Curran",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "SM Curran",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "DJ Willey",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "CJ Jordan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "CJ Jordan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "CJ Jordan",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "CJ Jordan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "CJ Jordan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "CJ Jordan",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LS Livingstone",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LS Livingstone",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "MA Wood",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "MA Wood",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "LS Livingstone",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "LS Livingstone",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "MA Wood",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "AU Rashid",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "AU Rashid",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "AU Rashid",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "AU Rashid",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "AU Rashid",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "AU Rashid",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "CJ Jordan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "CJ Jordan",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "CJ Jordan",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "CJ Jordan",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "CJ Jordan",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "CJ Jordan",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "AU Rashid",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "AU Rashid",
+              "non_striker": "MDKJ Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDKJ Perera",
+              "bowler": "AU Rashid",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MDKJ Perera",
+                  "fielders": [
+                    {
+                      "name": "EJG Morgan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Dickwella",
+              "bowler": "AU Rashid",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Dickwella",
+              "bowler": "AU Rashid",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "AU Rashid",
+              "non_striker": "N Dickwella",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "N Dickwella",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKG Mendis",
+              "bowler": "MA Wood",
+              "non_striker": "N Dickwella",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKG Mendis",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Dickwella",
+              "bowler": "MA Wood",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Dickwella",
+                  "fielders": [
+                    {
+                      "name": "EJG Morgan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "MA Wood",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "MA Wood",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "MA Wood",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AU Rashid",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AU Rashid",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "AU Rashid",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AU Rashid",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AU Rashid",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AU Rashid",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MD Shanaka",
+              "bowler": "MA Wood",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "MA Wood",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "MA Wood",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "MA Wood",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "MA Wood",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "MA Wood",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AU Rashid",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "AU Rashid",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AU Rashid",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PWH de Silva",
+              "bowler": "AU Rashid",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PWH de Silva",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "AU Rashid",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "AU Rashid",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "CJ Jordan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "CJ Jordan",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "CJ Jordan",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Shanaka",
+                  "fielders": [
+                    {
+                      "name": "DJ Willey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Dananjaya",
+              "bowler": "CJ Jordan",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dananjaya",
+              "bowler": "CJ Jordan",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "I Udana",
+              "bowler": "DJ Willey",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dananjaya",
+              "bowler": "DJ Willey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dananjaya",
+              "bowler": "DJ Willey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dananjaya",
+              "bowler": "DJ Willey",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "DJ Willey",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "DJ Willey",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dananjaya",
+              "bowler": "DJ Willey",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "DJ Willey",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Udana",
+              "bowler": "CJ Jordan",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "B Fernando",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Bairstow",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Malan",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "AG Wharf",
+                "batter": "DJ Malan",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Malan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "B Fernando",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "B Fernando",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "B Fernando",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "B Fernando",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PVD Chameera",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "PVD Chameera",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "I Udana",
+              "non_striker": "EJG Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJG Morgan",
+              "bowler": "I Udana",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EJG Morgan",
+                  "fielders": [
+                    {
+                      "name": "PWH de Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Roy",
+                  "fielders": [
+                    {
+                      "name": "MD Shanaka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "B Fernando",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "B Fernando",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "B Fernando",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "B Fernando",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "B Fernando",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "B Fernando",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "B Fernando",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "A Dananjaya",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "A Dananjaya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "A Dananjaya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "A Dananjaya",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "A Dananjaya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "A Dananjaya",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PWH de Silva",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PVD Chameera",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PVD Chameera",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PVD Chameera",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PVD Chameera",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PVD Chameera",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "PVD Chameera",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Billings",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "PWH de Silva",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "I Udana",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "I Udana",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "A Dananjaya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 18,
+        "runs": 103
+      }
+    }
+  ]
+}
