@@ -185,15 +185,15 @@ def create_df(data):
     return df
 
 # Uncomment the lines below to recreate csv file for IT20 data
-path_to_json = '/Users/jamiewelsh/Python/Cric/CricketDataAnalysis/t20s_male_json/'
+path_to_json = '/Users/jamiewelsh/Python/cricket/Cricket_Data_Project/data_files/t20s_male_json/'
 it20_data = create_df(load_data_it20(path_to_json))  
-it20_data.to_csv('ball_by_ball_it20.csv', index=False)
+it20_data.to_csv('data_files/ball_by_ball_it20.csv', index=False)
 print('IT20 done')
 
 # Uncomment the lines below to recreate csv file for IPL data
-path_to_json = '/Users/jamiewelsh/Python/Cric/CricketDataAnalysis/ipl_json/'
+path_to_json = '/Users/jamiewelsh/Python/cricket/Cricket_Data_Project/data_files/ipl_json/'
 ipl_data = create_df(load_data_ipl(path_to_json))  
-ipl_data.to_csv('ball_by_ball_ipl.csv', index=False)
+ipl_data.to_csv('data_files/ball_by_ball_ipl.csv', index=False)
 
 
 
